@@ -4,7 +4,6 @@ module.exports = {
 		node: true,
 		jest: true
 	},
-	extends: ["eslint:recommended"],
 	ignorePatterns: ["node_modules"],
 	overrides: [
 		{
