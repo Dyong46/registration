@@ -6,9 +6,6 @@ module.exports = {
 	},
 	extends: ["eslint:recommended"],
 	ignorePatterns: ["node_modules"],
-	rules: {
-		"object-curly-newline": ["error", "never"]
-	},
 	overrides: [
 		{
 			files: ["**/*.ts"],
