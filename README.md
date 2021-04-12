@@ -23,6 +23,8 @@ npm install -g @nestjs/cli
 npm install
 ```
 
+You also need to install a local [MySQL server](https://dev.mysql.com/downloads/mysql/).
+
 Documentation
 -------------
 ```bash
