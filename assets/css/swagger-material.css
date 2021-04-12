@@ -1,0 +1,11 @@
+.topbar-wrapper img {
+	content: url('/img/logo-white.svg');
+	height: 48px;
+	width: auto;
+	margin: 10px 0;
+}
+
+.swagger-ui .model-title {
+	font-family: monospace, sans-serif;
+	font-size: 12px;
+}

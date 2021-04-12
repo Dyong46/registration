@@ -1,8 +1,8 @@
 {
 	"name": "boilerplate",
 	"version": "0.0.1",
-	"description": "",
-	"author": "",
+	"description": "This is a boilerplate for Rely micro services",
+	"author": "Rely",
 	"private": true,
 	"license": "UNLICENSED",
 	"scripts": {
@@ -29,8 +29,12 @@
 	"dependencies": {
 		"@compodoc/compodoc": "^1.1.11",
 		"@nestjs/common": "^7.6.13",
+		"@nestjs/config": "^0.6.3",
 		"@nestjs/core": "^7.6.13",
 		"@nestjs/platform-express": "^7.6.13",
+		"@nestjs/swagger": "^4.8.0",
+		"@nestjs/throttler": "^1.1.3",
+		"helmet": "^4.4.1",
 		"reflect-metadata": "^0.1.13",
 		"rimraf": "^3.0.2",
 		"rxjs": "^6.6.6"
