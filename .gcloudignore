@@ -8,6 +8,7 @@
 /**/*.log
 
 # Remove development environment
+/env/local.env
 /env/development.env
 
 # Root files

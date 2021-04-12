@@ -3,6 +3,9 @@
 /documentation
 /node_modules
 
+# Local environment
+/env/local.env
+
 # Logs
 logs
 *.log

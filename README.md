@@ -11,7 +11,7 @@ The environment variables are loaded from the `env/` folder in the following
 order, variables are kept in order of priority from the first file:
 
 ```bash
-env/development.local.env
+env/local.env
 env/development.env
 env/production.env
 ```

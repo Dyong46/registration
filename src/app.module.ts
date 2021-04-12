@@ -11,7 +11,7 @@ import { AppService } from "./app.service";
 		ConfigModule.forRoot({
 			cache: true,
 			envFilePath: [
-				"env/development.local.env",
+				"env/local.env",
 				"env/development.env",
 				"env/production.env"
 			]
