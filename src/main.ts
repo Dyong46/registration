@@ -14,7 +14,6 @@ async function bootstrap() {
 		cors: true
 	});
 
-	// Augment express limits
 	app.use(
 		express.json({
 			limit: "8mb"
@@ -28,16 +27,10 @@ async function bootstrap() {
 		})
 	);
 
-	// Setup Helmet
 	app.use(helmet());
-
-	// Set global prefix to /api when in production
 	app.setGlobalPrefix(process.env.SERVICE);
-
-	// Server static assets
 	app.useStaticAssets(join(__dirname, "../..", "assets"));
 
-	// Pipes
 	app.useGlobalPipes(
 		new ValidationPipe({
 			transform: true,
@@ -51,7 +44,6 @@ async function bootstrap() {
 		.setTitle(`${process.env.SERVICE} service`)
 		.setDescription("Rely micro services boilerplate")
 		.setVersion(Package.version)
-		.setBasePath(process.env.SERVICE)
 		.addBearerAuth({
 			in: "header",
 			type: "http"

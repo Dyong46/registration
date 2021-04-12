@@ -10,11 +10,7 @@ import { AppService } from "./app.service";
 	imports: [
 		ConfigModule.forRoot({
 			cache: true,
-			envFilePath: [
-				"env/local.env",
-				"env/development.env",
-				"env/production.env"
-			]
+			envFilePath: ["env/local.env", "env/development.env", "env/production.env"]
 		}),
 		ThrottlerModule.forRoot({
 			ttl: 10,
