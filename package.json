@@ -23,6 +23,7 @@
 		"patch": "npm version patch && npm run push",
 		"push": "git push",
 		"deploy": "npm run lint && npm run patch && npm run build && gcloud app deploy -q",
+		"dispatch": "gcloud app deploy -q dispatch.yaml",
 		"doc": "npx @compodoc/compodoc -p tsconfig.json"
 	},
 	"dependencies": {
