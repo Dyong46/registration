@@ -1,12 +1,14 @@
 import { join } from "path";
 
 import { APP_GUARD } from "@nestjs/core";
+
 import {
 	MiddlewareConsumer,
 	Module,
 	NestModule,
 	RequestMethod
 } from "@nestjs/common";
+
 import { ConfigModule } from "@nestjs/config";
 import { ServeStaticModule } from "@nestjs/serve-static";
 import { ThrottlerGuard, ThrottlerModule } from "@nestjs/throttler";
