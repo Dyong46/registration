@@ -1,20 +1,3 @@
-# Root folders to ignore
 .git
-/node_modules
-/documentation
-
-# No tests and no logs
-/**/test
-/**/*.log
-
-# Remove development environment
-/env/local.env
-/env/development.env
-
-# Root files
-.editorconfig
-.eslintignore
-.eslintrc.js
-.gcloudignore
-.gitignore
-.prettierrc
+node_modules
+documentation

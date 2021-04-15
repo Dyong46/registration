@@ -1,13 +1,13 @@
-import { join } from "path";
 import * as express from "express";
 import * as helmet from "helmet";
-import { ValidationPipe } from "@nestjs/common";
+import { Logger, ValidationPipe } from "@nestjs/common";
 import { NestFactory } from "@nestjs/core";
 import { NestExpressApplication } from "@nestjs/platform-express";
 import { DocumentBuilder, SwaggerModule } from "@nestjs/swagger";
 import { AppModule } from "./app.module";
 import * as Package from "../package.json";
 import { swaggerOptions } from "./swagger";
+import axios from "axios";
 
 async function bootstrap() {
 	const app = await NestFactory.create<NestExpressApplication>(AppModule, {
@@ -29,7 +29,6 @@ async function bootstrap() {
 
 	app.use(helmet());
 	app.setGlobalPrefix(process.env.SERVICE);
-	app.useStaticAssets(join(__dirname, "../..", "assets"));
 
 	app.useGlobalPipes(
 		new ValidationPipe({
@@ -59,5 +58,18 @@ async function bootstrap() {
 	);
 
 	await app.listen(process.env.PORT);
+
+	// Test a micro-service transaction
+	const message = axios.create({
+		baseURL: `http://${process.env.HOST}:${process.env.PORT}/${process.env.SERVICE}`,
+		headers: {
+			"Authorization": "Bearer tbd",
+			"User-Agent": `rely-${process.env.SERVICE}`
+		}
+	});
+
+	const response = await message.get("/");
+	Logger.debug(response.data, "Axios Test");
 }
+
 bootstrap();
