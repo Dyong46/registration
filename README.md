@@ -1,7 +1,9 @@
 Rely micro service boilerplate
 ==============================
 In order to properly setup this boilerplate, you need to change every instance
-of the work boilerplate to your project's name.
+of the word boilerplate to your project's name.
+
+These installation instructions require you to have a bash shell, either from Git SCM for Windows or Linux.
 
 You also need to update this `README.md` file.
 
@@ -18,38 +20,39 @@ env/production.env
 
 Installation
 ------------
+Pub/Sub emulator
 ```bash
-npm install -g @nestjs/cli
-npm install
+gcloud components install pubsub-emulator
+gcloud components update
 ```
 
-You also need to install a local [MySQL server](https://dev.mysql.com/downloads/mysql/).
-
-Documentation
--------------
+Development tools
 ```bash
-npm run doc
+yarn global install @nestjs/cli
+yarn install
 ```
+
+You also need to install a local [MySQL server](https://dev.mysql.com/downloads/mysql).
 
 Running the service
 -------------------
 ```bash
 # development
-npm run start:dev
+yarn run start:dev
 
 # production mode
-npm run start:prod
+yarn run start:prod
 ```
 
 Testing the service
 -------------------
 ```bash
 # unit tests
-npm test
+yarn test
 
 # e2e tests
-npm run test:e2e
+yarn run test:e2e
 
 # test coverage
-npm run test:cov
+yarn run test:cov
 ```

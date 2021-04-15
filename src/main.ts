@@ -1,19 +1,18 @@
 import { GooglePubSubOptions } from "@algoan/pubsub";
-import { INestMicroservice } from "@nestjs/common";
+import { INestMicroservice, Logger } from "@nestjs/common";
 import { NestFactory } from "@nestjs/core";
 import { GCPubSubServer } from "@algoan/nestjs-google-pubsub-microservice";
 import { AppModule } from "./app.module";
+import { MicroserviceOptions } from "@nestjs/microservices";
 
 async function bootstrap() {
-	const options: GooglePubSubOptions = {
-		projectId: "test",
-		subscriptionsPrefix: "test-app"
-	};
-
-	const app: INestMicroservice = await NestFactory.create(AppModule, {
-		strategy: new GCPubSubServer(options)
+	const app: INestMicroservice = await NestFactory.createMicroservice<MicroserviceOptions>(AppModule, {
+		strategy: new GCPubSubServer({
+			projectId: process.env.PROJECT,
+			subscriptionsPrefix: `rely-${process.env.SERVICE}`
+		})
 	});
 
-	await app.listen(() => console.log("Server running!"));
+	await app.listen(() => Logger.log(`${process.env.SERVICE} listening`, "main"));
 }
 bootstrap();

@@ -1,12 +1,15 @@
-import { Controller, Get } from "@nestjs/common";
+import { EmittedMessage } from "@algoan/pubsub";
+import { Controller } from "@nestjs/common";
+import { EventPattern, Payload } from "@nestjs/microservices";
 import { AppService } from "./app.service";
+import { EventData } from "./types";
 
 @Controller()
 export class AppController {
 	constructor(private readonly appService: AppService) {}
 
-	@Get()
-	root() {
-		return this.appService.root();
+	@EventPattern("test")
+	public async handleTestEvent(@Payload() data: EmittedMessage<EventData>) {
+		this.appService.handleTestEvent(data);
 	}
 }
