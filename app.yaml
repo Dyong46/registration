@@ -1,6 +1,0 @@
-runtime: nodejs14
-service: boilerplate
-handlers:
-- url: /boilerplate/img/logo.png
-  static_files: assets/img/logo.png
-  upload: assets/img/logo.png
