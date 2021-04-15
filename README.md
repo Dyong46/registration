@@ -29,6 +29,7 @@ gcloud components update
 Development tools
 ```bash
 yarn global install @nestjs/cli
+yarn run prepare
 yarn install
 ```
 

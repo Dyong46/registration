@@ -7,7 +7,7 @@ import { GooglePubSubOptions } from "@algoan/pubsub";
 
 async function bootstrap() {
 	const pubSubOptions: GooglePubSubOptions = {
-		projectId: process.env.PROJECT,
+				projectId: process.env.PROJECT,
 		subscriptionsPrefix: process.env.SERVICE,
 		topicsPrefix: process.env.SERVICE,
 		topicsSeparator: "."
