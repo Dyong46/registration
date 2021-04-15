@@ -6,7 +6,7 @@
 	"private": true,
 	"license": "UNLICENSED",
 	"scripts": {
-		"prepare": "husky install",
+		"postinstall": "husky install",
 		"prebuild": "rimraf dist",
 		"build": "nest build",
 		"format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
@@ -31,7 +31,6 @@
 		"@nestjs/core": "^7.6.15",
 		"@nestjs/microservices": "^7.6.15",
 		"@nestjs/typeorm": "^7.1.5",
-		"husky": "^6.0.0",
 		"mysql2": "^2.2.5",
 		"reflect-metadata": "^0.1.13",
 		"rimraf": "^3.0.2",
@@ -50,6 +49,7 @@
 		"eslint": "^7.24.0",
 		"eslint-config-prettier": "^8.2.0",
 		"eslint-plugin-prettier": "^3.4.0",
+		"husky": "^6.0.0",
 		"jest": "^26.6.3",
 		"prettier": "^2.2.1",
 		"ts-jest": "^26.5.5",
@@ -74,8 +74,5 @@
 		],
 		"coverageDirectory": "../coverage",
 		"testEnvironment": "node"
-	},
-	"lint-staged": {
-		"*": "yarn run lint"
 	}
 }
