@@ -17,6 +17,6 @@ export class AppService {
 
 	handleTestEvent(data: EmittedMessage<EventData>) {
 		Logger.debug(data.payload, "AppService::handleTestEvent");
-		return data;
+		return data.payload;
 	}
 }

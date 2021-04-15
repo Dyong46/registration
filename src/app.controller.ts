@@ -10,6 +10,6 @@ export class AppController {
 
 	@EventPattern("test")
 	public async handleTestEvent(@Payload() data: EmittedMessage<EventData>) {
-		this.appService.handleTestEvent(data);
+		return this.appService.handleTestEvent(data);
 	}
 }
