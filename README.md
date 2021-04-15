@@ -53,11 +53,3 @@ npm run test:e2e
 # test coverage
 npm run test:cov
 ```
-
-Deploy the service
-------------------
-Running this command will deploy the service onto the configured AppEngine
-service.
-```bash
-npm run deploy
-```
