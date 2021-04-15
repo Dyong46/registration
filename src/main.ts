@@ -9,6 +9,42 @@ import * as Package from "../package.json";
 import { swaggerOptions } from "./swagger";
 import axios from "axios";
 
+function setupSwagger(app: NestExpressApplication) {
+	const config = new DocumentBuilder()
+		.setTitle(`${process.env.SERVICE} service`)
+		.setDescription("Rely micro services boilerplate")
+		.setVersion(Package.version)
+		.addBearerAuth({
+			in: "header",
+			type: "http"
+		})
+		.build();
+
+	const document = SwaggerModule.createDocument(app, config);
+
+	SwaggerModule.setup(
+		`${process.env.SERVICE}/docs`,
+		app,
+		document,
+		swaggerOptions
+	);
+}
+
+async function testMicroService() {
+	const selfService = axios.create({
+		baseURL: `http://${process.env.HOST}:${process.env.PORT}/${process.env.SERVICE}`,
+		headers: {
+			"User-Agent": `rely-${process.env.SERVICE}`
+		}
+	});
+
+	await selfService.get("/").then((response) => {
+		Logger.debug(response.data, "main::testMicroService::message");
+	}).catch((reason) => {
+		Logger.error(reason.response.data, reason.stack, "main::testMicroService::message");
+	});
+}
+
 async function bootstrap() {
 	const app = await NestFactory.create<NestExpressApplication>(AppModule, {
 		cors: true
@@ -38,38 +74,9 @@ async function bootstrap() {
 		})
 	);
 
-	// Swagger setup
-	const config = new DocumentBuilder()
-		.setTitle(`${process.env.SERVICE} service`)
-		.setDescription("Rely micro services boilerplate")
-		.setVersion(Package.version)
-		.addBearerAuth({
-			in: "header",
-			type: "http"
-		})
-		.build();
-
-	const document = SwaggerModule.createDocument(app, config);
-	SwaggerModule.setup(
-		`${process.env.SERVICE}/docs`,
-		app,
-		document,
-		swaggerOptions
-	);
-
+	setupSwagger(app);
 	await app.listen(process.env.PORT);
-
-	// Test a micro-service transaction
-	const message = axios.create({
-		baseURL: `http://${process.env.HOST}:${process.env.PORT}/${process.env.SERVICE}`,
-		headers: {
-			"Authorization": "Bearer tbd",
-			"User-Agent": `rely-${process.env.SERVICE}`
-		}
-	});
-
-	const response = await message.get("/");
-	Logger.debug(response.data, "Axios Test");
+	testMicroService()
 }
 
 bootstrap();
