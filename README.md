@@ -20,12 +20,6 @@ env/production.env
 
 Installation
 ------------
-Pub/Sub emulator
-```bash
-gcloud components install pubsub-emulator
-gcloud components update
-```
-
 Development tools
 ```bash
 yarn global install @nestjs/cli

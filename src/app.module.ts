@@ -1,12 +1,8 @@
 import { Module } from "@nestjs/common";
-
 import { ConfigModule } from "@nestjs/config";
 import { TypeOrmModule } from "@nestjs/typeorm";
 
 import { AppController } from "./app.controller";
-import { AppService } from "./app.service";
-import { PubSubService } from "./pubsub/pubsub.service";
-import { PubSubModule } from "./pubsub/pubsub.module";
 
 @Module({
 	imports: [
@@ -23,10 +19,8 @@ import { PubSubModule } from "./pubsub/pubsub.module";
 			database: process.env.DB_NAME,
 			entities: [],
 			synchronize: true
-		}),
-		PubSubModule
+		})
 	],
-	controllers: [AppController],
-	providers: [AppService, PubSubService, PubSubService]
+	controllers: [AppController]
 })
 export class AppModule {}
