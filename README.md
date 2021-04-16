@@ -21,9 +21,9 @@ Installation
 ------------
 Development tools
 ```bash
-yarn global install @nestjs/cli
-yarn run prepare
-yarn install
+npm install -g @nestjs/cli
+npm run prepare
+npm install
 ```
 
 You also need to install a local [MySQL server](https://dev.mysql.com/downloads/mysql).
@@ -32,21 +32,21 @@ Running the service
 -------------------
 ```bash
 # development
-yarn run start:dev
+npm run start:dev
 
 # production mode
-yarn run start:prod
+npm run start:prod
 ```
 
 Testing the service
 -------------------
 ```bash
 # unit tests
-yarn test
+npm test
 
 # e2e tests
-yarn run test:e2e
+npm run test:e2e
 
 # test coverage
-yarn run test:cov
+npm run test:cov
 ```
