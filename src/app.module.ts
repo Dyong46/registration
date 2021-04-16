@@ -9,8 +9,7 @@ import { ClientModule } from "./client/client.module";
 	imports: [
 		ConfigModule.forRoot({
 			cache: true,
-			envFilePath: ["env/local.env", "env/development.env", "env/production.env"],
-			isGlobal: true
+			envFilePath: ["env/local.env", "env/development.env", "env/production.env"]
 		}),
 		TypeOrmModule.forRoot({
 			type: "mysql",
