@@ -5,6 +5,10 @@ import { MicroserviceOptions, Transport } from "@nestjs/microservices";
 import { capitalize } from "./helpers";
 
 async function bootstrap() {
+	if (process.env.NODE_ENV === "production") {
+		process.env.NO_COLOR = "true";
+	}
+
 	const app: INestMicroservice = await NestFactory.createMicroservice<MicroserviceOptions>(
 		AppModule,
 		{
