@@ -3,12 +3,14 @@ import { ConfigModule } from "@nestjs/config";
 import { TypeOrmModule } from "@nestjs/typeorm";
 
 import { AppController } from "./app.controller";
+import { ClientModule } from "./client/client.module";
 
 @Module({
 	imports: [
 		ConfigModule.forRoot({
 			cache: true,
-			envFilePath: ["env/local.env", "env/development.env", "env/production.env"]
+			envFilePath: ["env/local.env", "env/development.env", "env/production.env"],
+			isGlobal: true
 		}),
 		TypeOrmModule.forRoot({
 			type: "mysql",
@@ -19,7 +21,8 @@ import { AppController } from "./app.controller";
 			database: process.env.DB_NAME,
 			entities: [],
 			synchronize: true
-		})
+		}),
+		ClientModule
 	],
 	controllers: [AppController]
 })

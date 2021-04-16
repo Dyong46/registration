@@ -1,11 +1,10 @@
 Rely micro service boilerplate
 ==============================
-In order to properly setup this boilerplate, you need to change every instance
-of the word boilerplate to your project's name.
+In order to properly setup this boilerplate, you need to change the SERVICE environment variable.
 
 These installation instructions require you to have a bash shell, either from Git SCM for Windows or Linux.
 
-You also need to update this `README.md` file.
+You also need to update this `README.md` file and the package.json meta data.
 
 Environment
 -----------
