@@ -11,24 +11,17 @@ import { ClientModule } from "./client/client.module";
 			cache: true,
 			envFilePath: ["env/local.env", "env/development.env", "env/production.env"]
 		}),
-		TypeOrmModule.forRootAsync({
-			useFactory: async () => {
-				const dbConfig = {
-					type: "mysql",
-					host: process.env.DB_HOST,
-					port: +process.env.DB_PORT,
-					username: process.env.DB_USER,
-					password: process.env.DB_PASSWORD,
-					database: process.env.DB_NAME,
-					entities: ["./**/*.entity.ts"],
-					logging: "all",
-					maxQueryExecutionTime: 5000,
-					retryAttempts: Infinity
-				};
-
-				Logger.log(dbConfig, "AppModule::dbConfig");
-				return dbConfig as TypeOrmModuleOptions;
-			}
+		TypeOrmModule.forRoot({
+			type: "mysql",
+			host: process.env.DB_HOST,
+			port: +process.env.DB_PORT,
+			username: process.env.DB_USER,
+			password: process.env.DB_PASSWORD,
+			database: process.env.DB_NAME,
+			entities: ["./**/*.entity.ts"],
+			logging: "all",
+			maxQueryExecutionTime: 5000,
+			retryAttempts: Infinity
 		}),
 		ClientModule
 	],
