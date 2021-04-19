@@ -1,4 +1,4 @@
-import { Module } from "@nestjs/common";
+import { Logger, Module } from "@nestjs/common";
 import { ConfigModule } from "@nestjs/config";
 import { TypeOrmModule } from "@nestjs/typeorm";
 
@@ -18,8 +18,11 @@ import { ClientModule } from "./client/client.module";
 			username: process.env.DB_USER,
 			password: process.env.DB_PASSWORD,
 			database: process.env.DB_NAME,
-			entities: [],
-			synchronize: true
+			entities: ["./**/*.entity.ts"],
+			logging: "all",
+			maxQueryExecutionTime: 5000,
+			retryAttempts: Infinity,
+			retryDelay: 10000
 		}),
 		ClientModule
 	],
