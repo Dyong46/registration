@@ -26,7 +26,7 @@ import { ClientModule } from "./client/client.module";
 					retryAttempts: Infinity
 				};
 
-				Logger.debug(dbConfig, "AppModule::dbConfig");
+				Logger.log(dbConfig, "AppModule::dbConfig");
 				return dbConfig as TypeOrmModuleOptions;
 			}
 		}),
