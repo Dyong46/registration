@@ -13,6 +13,9 @@ import { ClientModule } from "./client/client.module";
 		}),
 		TypeOrmModule.forRoot({
 			type: "mysql",
+			extra: {
+				socketPath: "/cloudsql/rely-296614:northamerica-northeast1:rely"
+			},
 			host: process.env.DB_HOST,
 			port: +process.env.DB_PORT,
 			username: process.env.DB_USER,
