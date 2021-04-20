@@ -19,9 +19,6 @@ export class HealthController {
 			},
 			database: {
 				name: process.env.DB_NAME,
-				host: process.env.DB_HOST,
-				port: process.env.DB_PORT,
-				user: process.env.DB_USER,
 				connection: dbConnection.name,
 				connected: dbConnection.isConnected
 			},
