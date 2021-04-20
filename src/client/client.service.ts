@@ -17,7 +17,7 @@ export class ClientService {
 			transport: Transport.TCP,
 			options: {
 				host: process.env.HOST,
-				port: +process.env.POST
+				port: +process.env.SERVICE_PORT
 			}
 		});
 	}

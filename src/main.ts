@@ -29,9 +29,11 @@ async function bootstrap() {
 		}:${process.env.SERVICE_PORT}`
 	);
 
-	const healthCheck = await NestFactory.create(HealthModule);
-	await healthCheck.listen(process.env.PORT);
-	Logger.log(`Health check service running on port ${process.env.PORT}`);
+	if (process.env.NODE_ENV === "production") {
+		const healthCheck = await NestFactory.create(HealthModule);
+		await healthCheck.listen(process.env.PORT);
+		Logger.log(`Health check service running on port ${process.env.PORT}`);
+	}
 }
 
 bootstrap();
