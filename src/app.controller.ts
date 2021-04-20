@@ -7,6 +7,7 @@ import { DataObject } from "./types";
 export class AppController {
 	constructor(private readonly clientService: ClientService) {
 		Logger.debug("Starting test", "AppController::constructor");
+
 		setTimeout(async () => {
 			Logger.debug("Sending test", "AppController::constructor");
 
