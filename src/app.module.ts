@@ -15,7 +15,7 @@ import { HealthModule } from "./health/health.module";
 		}),
 		TypeOrmModule.forRootAsync({
 			useFactory: async () => {
-						let extra: DataObject;
+				let extra: DataObject;
 
 				if (process.env.NODE_ENV === "production") {
 					extra = {
