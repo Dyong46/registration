@@ -1,6 +1,6 @@
 {
 	"name": "boilerplate",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"description": "This is a boilerplate for Rely micro services",
 	"author": "Rely",
 	"private": true,
