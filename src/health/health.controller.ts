@@ -1,10 +1,18 @@
 import { Controller, Get } from "@nestjs/common";
+import { getConnection } from "typeorm";
 
 @Controller("")
 export class HealthController {
 	@Get()
 	healthCheck() {
+		const dbConnection = getConnection();
+
 		return {
+			instance: {
+				env: process.env.NODE_ENV,
+				project: process.env.PROJECT,
+				region: process.env.REGION
+			},
 			service: {
 				name: process.env.SERVICE,
 				port: process.env.SERVICE_PORT
@@ -13,7 +21,9 @@ export class HealthController {
 				name: process.env.DB_NAME,
 				host: process.env.DB_HOST,
 				port: process.env.DB_PORT,
-				user: process.env.DB_USER
+				user: process.env.DB_USER,
+				connection: dbConnection.name,
+				connected: dbConnection.isConnected
 			},
 			port: process.env.PORT
 		};
