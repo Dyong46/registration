@@ -38,8 +38,6 @@ import { HealthModule } from "./health/health.module";
 					extra
 				};
 
-				Logger.debug(dbConfig, "AppModule::dbConfig");
-
 				return dbConfig;
 			}
 		}),

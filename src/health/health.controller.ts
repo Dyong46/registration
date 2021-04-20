@@ -3,12 +3,19 @@ import { Controller, Get } from "@nestjs/common";
 @Controller("")
 export class HealthController {
 	@Get()
-	healthChech() {
+	healthCheck() {
 		return {
-			service: process.env.SERVICE,
-			port: process.env.PORT,
-			database_name: process.env.DB_NAME,
-			health_port: process.env.HEALTH_PORT
+			service: {
+				name: process.env.SERVICE,
+				port: process.env.SERVICE_PORT
+			},
+			database: {
+				name: process.env.DB_NAME,
+				host: process.env.DB_HOST,
+				port: process.env.DB_PORT,
+				user: process.env.DB_USER
+			},
+			port: process.env.PORT
 		};
 	}
 }

@@ -16,7 +16,7 @@ async function bootstrap() {
 			transport: Transport.TCP,
 			options: {
 				host: process.env.HOST,
-				port: +process.env.POST
+				port: +process.env.SERVICE_PORT
 			}
 		}
 	);
@@ -26,12 +26,12 @@ async function bootstrap() {
 	Logger.log(
 		`${capitalize(process.env.SERVICE)} service is listening on port ${
 			process.env.HOST
-		}:${process.env.PORT}`
+		}:${process.env.SERVICE_PORT}`
 	);
 
 	const healthCheck = await NestFactory.create(HealthModule);
-	await healthCheck.listen(process.env.HEALTH_PORT);
-	Logger.log(`Health check service running on port ${process.env.HEALTH_PORT}`);
+	await healthCheck.listen(process.env.PORT);
+	Logger.log(`Health check service running on port ${process.env.PORT}`);
 }
 
 bootstrap();
