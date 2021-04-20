@@ -1,5 +1,6 @@
 import { Controller, Get } from "@nestjs/common";
 import { getConnection } from "typeorm";
+import * as Package from "../../package.json";
 
 @Controller("")
 export class HealthController {
@@ -8,6 +9,11 @@ export class HealthController {
 		const dbConnection = getConnection();
 
 		return {
+			package: {
+				version: Package.version,
+				description: Package.description,
+				author: Package.author
+			},
 			instance: {
 				env: process.env.NODE_ENV,
 				project: process.env.PROJECT,
