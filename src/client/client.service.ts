@@ -6,25 +6,17 @@ import {
 	Transport
 } from "@nestjs/microservices";
 
-import { DataObject } from "src/types";
-
 @Injectable()
 export class ClientService {
-	client: ClientProxy;
+	self: ClientProxy;
 
 	constructor() {
-		this.client = ClientProxyFactory.create({
+		this.self = ClientProxyFactory.create({
 			transport: Transport.TCP,
 			options: {
 				host: process.env.HOST,
 				port: +process.env.SERVICE_PORT
 			}
 		});
-	}
-
-	async send(pattern: string, payload: DataObject) {
-		return await this.client
-			.send<string, DataObject>(pattern, payload)
-			.toPromise();
 	}
 }

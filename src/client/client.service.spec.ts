@@ -17,6 +17,6 @@ describe("ClientService", () => {
 	});
 
 	it("should have a client member", () => {
-		expect(service.client).toBeDefined();
+		expect(service.self).toBeDefined();
 	});
 });
