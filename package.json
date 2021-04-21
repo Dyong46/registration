@@ -9,6 +9,7 @@
 		"postinstall": "husky install",
 		"prebuild": "rimraf dist",
 		"build": "nest build",
+		"gcp-build": "npm run build",
 		"format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
 		"start": "nest start",
 		"start:dev": "nest start --watch",

@@ -11,7 +11,7 @@ async function bootstrap() {
 	await app.listen(process.env.PORT);
 
 	Logger.log(
-		`Service running on port ${process.env.PORT}`,
+		`Service ${process.env.SERVICE} running on port ${process.env.PORT}`,
 		"AppController::bootstrap"
 	);
 }
