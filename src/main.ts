@@ -31,7 +31,11 @@ async function bootstrap() {
 
 	const healthCheck = await NestFactory.create(HealthModule);
 	await healthCheck.listen(process.env.PORT);
-	Logger.log(`Health check service running on port ${process.env.PORT}`);
+
+	Logger.log(
+		`Health check service running on port ${process.env.PORT}`,
+		"AppController::bootstrap"
+	);
 }
 
 bootstrap();

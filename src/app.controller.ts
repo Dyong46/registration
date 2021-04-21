@@ -5,25 +5,24 @@ import { DataObject } from "./types";
 
 @Controller()
 export class AppController {
-	constructor(private readonly clientService: ClientService) {
+	constructor(private readonly client: ClientService) {
 		setTimeout(async () => {
 			await this.runTest();
 		}, 2000);
 	}
 
 	async runTest() {
-		const reply = await this.clientService.self
-			.send(`${process.env.SERVICE}.test`, {
+		const reply = await this.client.self
+			.send("boilerplate.test", {
 				message: `${process.env.SERVICE} test message`
 			})
 			.toPromise();
 
-		Logger.debug(reply, "AppController::constructor");
+		Logger.debug(reply.message, "AppController::constructor");
 	}
 
 	@MessagePattern("boilerplate.test")
 	test(data: DataObject): DataObject {
-		Logger.debug(data, "AppController::test");
 		return data;
 	}
 }
