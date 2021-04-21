@@ -2,10 +2,8 @@ import { Module } from "@nestjs/common";
 import { ConfigModule } from "@nestjs/config";
 import { TypeOrmModule, TypeOrmModuleOptions } from "@nestjs/typeorm";
 
-import { DataObject } from "./types";
 import { AppController } from "./app.controller";
-import { ClientModule } from "./client/client.module";
-import { HealthModule } from "./health/health.module";
+import { AppService } from "./app.service";
 
 @Module({
 	imports: [
@@ -15,14 +13,6 @@ import { HealthModule } from "./health/health.module";
 		}),
 		TypeOrmModule.forRootAsync({
 			useFactory: async () => {
-				let extra: DataObject;
-
-				if (process.env.NODE_ENV === "production") {
-					extra = {
-						socketPath: `/cloudsql/${process.env.PROJECT}:${process.env.REGION}:${process.env.SQL_SERVER}`
-					};
-				}
-
 				const dbConfig: TypeOrmModuleOptions = {
 					type: "mysql",
 					host: process.env.DB_HOST,
@@ -34,16 +24,14 @@ import { HealthModule } from "./health/health.module";
 					logging: "all",
 					maxQueryExecutionTime: 5000,
 					retryAttempts: Infinity,
-					retryDelay: 5000,
-					extra
+					retryDelay: 5000
 				};
 
 				return dbConfig;
 			}
-		}),
-		ClientModule,
-		HealthModule
+		})
 	],
-	controllers: [AppController]
+	controllers: [AppController],
+	providers: [AppService]
 })
 export class AppModule {}
