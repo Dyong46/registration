@@ -8,11 +8,7 @@ async function bootstrap() {
 	}
 
 	const app = await NestFactory.create(AppModule);
-
-	if (process.env.NODE_ENV === "production") {
-		app.setGlobalPrefix(process.env.SERVICE);
-	}
-
+	app.setGlobalPrefix(process.env.SERVICE);
 	await app.listen(process.env.PORT);
 
 	Logger.log(

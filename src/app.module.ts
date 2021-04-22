@@ -4,6 +4,8 @@ import { TypeOrmModule } from "@nestjs/typeorm";
 
 import { AppController } from "./app.controller";
 import { AppService } from "./app.service";
+import { ClientModule } from "./client/client.module";
+import { MessagesModule } from "./messages/messages.module";
 
 @Module({
 	imports: [
@@ -23,7 +25,9 @@ import { AppService } from "./app.service";
 			maxQueryExecutionTime: 5000,
 			retryAttempts: Infinity,
 			retryDelay: 5000
-		})
+		}),
+		ClientModule,
+		MessagesModule
 	],
 	controllers: [AppController],
 	providers: [AppService]
