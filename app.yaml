@@ -1,2 +1,4 @@
 runtime: nodejs14
 service: boilerplate
+vpc_access_connector:
+  name: projects/rely-296614/locations/northamerica-northeast1/connectors/rely
