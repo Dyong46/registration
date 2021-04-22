@@ -1,9 +1,16 @@
 import { Injectable } from "@nestjs/common";
 import { getConnection } from "typeorm";
 import * as Package from "../package.json";
+import { MessagesService } from "./messages/messages.service";
 
 @Injectable()
 export class AppService {
+	constructor(private readonly messages: MessagesService) {
+		setInterval(() => {
+			this.messages.sendTest();
+		}, 5000);
+	}
+
 	get() {
 		const dbConnection = getConnection();
 

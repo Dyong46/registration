@@ -1,8 +1,9 @@
 import { HttpService, Injectable, Logger } from "@nestjs/common";
-import { DataObject, Message } from "../message.interface";
+import { DataObject, Message } from "../messages/message.interface";
 
 @Injectable()
 export class ClientService {
+	private readonly logger = new Logger("ClientService");
 	services: DataObject;
 
 	constructor(private readonly http: HttpService) {}
@@ -13,7 +14,7 @@ export class ClientService {
 				const res = await this.http.get(process.env.BASE_URL).toPromise();
 				this.services = res.data.services;
 			} catch (err) {
-				Logger.error(err, "ClientService::getServiceUrl");
+				this.logger.error(err);
 				return;
 			}
 		}
@@ -24,7 +25,7 @@ export class ClientService {
 	async send(
 		service: string,
 		action: string,
-		data: DataObject
+		data?: DataObject
 	): Promise<Message> {
 		const url = await this.getServiceUrl(service);
 
@@ -40,12 +41,12 @@ export class ClientService {
 				const res = await this.http.post(url, message).toPromise();
 				return res?.data;
 			} catch (err) {
-				Logger.error(`Problem sending to ${url}: ${err}`, "ClientService::send");
-				Logger.warn("Resetting service url cache", "ClientService::send");
+				this.logger.error(`Problem sending to ${url}: ${err}`);
+				this.logger.warn("Resetting service url cache");
 				this.services = {};
 			}
 		} else {
-			Logger.error(`Unknown base url for ${service}`, "ClientService::send");
+			this.logger.error(`Unknown base url for ${service}`);
 		}
 	}
 }

@@ -1,24 +1,29 @@
 import { HttpStatus, Injectable, Logger } from "@nestjs/common";
 import { ClientService } from "../client/client.service";
-import { Message } from "../message.interface";
+import { Message } from "./message.interface";
 
 @Injectable()
 export class MessagesService {
+	private readonly logger = new Logger("MessagesService");
+
 	constructor(private readonly client: ClientService) {}
 
 	async sendTest() {
-		const res = await this.client.send(process.env.SERVICE, "test", {});
+		const res = await this.client.send(process.env.SERVICE, "test");
 
-		if (res?.data?.message === "OK") {
-			Logger.log("Test success");
+		if (res?.data?.test === "OK") {
+			this.logger.log("Test success");
 		} else {
-			Logger.error("Test failed");
+			this.logger.error("Test failed");
 		}
 	}
 
 	async test(message: Message) {
-		message.data = {
-			message: "OK"
+		return {
+			...message,
+			data: {
+				test: "OK"
+			}
 		};
 	}
 
@@ -28,7 +33,7 @@ export class MessagesService {
 
 		if (this[message.action]) {
 			message.status = HttpStatus.ACCEPTED;
-			message.data = await this[message.action](message);
+			message = await this[message.action](message);
 		} else {
 			message.status = HttpStatus.NOT_FOUND;
 		}

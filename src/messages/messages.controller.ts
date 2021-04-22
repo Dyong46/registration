@@ -1,5 +1,5 @@
 import { Controller, Post, Body } from "@nestjs/common";
-import { Message } from "../message.interface";
+import { Message } from "./message.interface";
 import { MessagesService } from "./messages.service";
 
 @Controller("messages")

@@ -6,6 +6,7 @@ import { ClientModule } from "../client/client.module";
 @Module({
 	imports: [ClientModule],
 	controllers: [MessagesController],
-	providers: [MessagesService]
+	providers: [MessagesService],
+	exports: [MessagesService]
 })
 export class MessagesModule {}
