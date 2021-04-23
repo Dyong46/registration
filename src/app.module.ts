@@ -11,7 +11,7 @@ import { AppController } from "./app.controller";
 import { AppService } from "./app.service";
 import { ClientModule } from "./client/client.module";
 import { LogMiddleware } from "./log.middleware";
-import { MessagesModule } from "./messages/messages.module";
+import { TestModule } from "./test/test.module";
 
 @Module({
 	imports: [
@@ -33,7 +33,7 @@ import { MessagesModule } from "./messages/messages.module";
 			retryDelay: 5000
 		}),
 		ClientModule,
-		MessagesModule
+		TestModule
 	],
 	controllers: [AppController],
 	providers: [AppService]

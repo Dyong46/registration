@@ -1,5 +1,5 @@
-import { HttpService, Injectable, Logger } from "@nestjs/common";
-import { DataObject, Message } from "../messages/message.interface";
+import { HttpService, HttpStatus, Injectable, Logger } from "@nestjs/common";
+import { DataObject, Message } from "../message.interface";
 
 export const MAX_CACHE_AGE = 60000;
 
@@ -32,7 +32,7 @@ export class ClientService {
 			}
 		}
 
-		return `${this.services[service]}/messages`;
+		return `${this.services[service]}`;
 	}
 
 	async send(
@@ -46,20 +46,26 @@ export class ClientService {
 			const message: Message = {
 				sent: new Date(),
 				sender: process.env.SERVICE,
-				action,
 				data
 			};
 
 			try {
-				const res = await this.http.post(url, message).toPromise();
+				const res = await this.http.post(`${url}/${action}`, message).toPromise();
 				return res?.data;
 			} catch (err) {
-				this.logger.error(`Problem sending to ${url}: ${err}`);
+				this.logger.error(`Problem sending to ${url}/${action}: ${err}`);
 				this.logger.warn("Resetting service url cache");
 				this.services = {};
 			}
 		} else {
 			this.logger.error(`Unknown base url for ${service}`);
 		}
+	}
+
+	receive(message: Message): Message {
+		message.ack = true;
+		message.received = new Date();
+		message.status = HttpStatus.ACCEPTED;
+		return message;
 	}
 }

@@ -1,13 +1,13 @@
 import { Injectable } from "@nestjs/common";
 import { getConnection } from "typeorm";
 import * as Package from "../package.json";
-import { MessagesService } from "./messages/messages.service";
+import { TestService } from "./test/test.service";
 
 @Injectable()
 export class AppService {
-	constructor(private readonly messages: MessagesService) {
+	constructor(private readonly testService: TestService) {
 		setInterval(() => {
-			this.messages.sendTest();
+			this.testService.sendTest();
 		}, 5000);
 	}
 
