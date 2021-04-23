@@ -1,14 +1,13 @@
 import { Injectable, Logger } from "@nestjs/common";
-import { ClientService } from "../client/client.service";
-import { Message } from "../message.interface";
+import { Message, MicroserviceService } from "@plogg-rely/microservices";
 
 @Injectable()
 export class TestService {
 	private readonly logger = new Logger("TestService");
 
-	constructor(private readonly client: ClientService) {}
+	constructor(private readonly client: MicroserviceService) {}
 
-	async sendTest() {
+	async selfTest() {
 		const res = await this.client.send(process.env.SERVICE, "test");
 
 		if (res?.data?.test === "OK") {

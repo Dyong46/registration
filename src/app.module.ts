@@ -6,11 +6,10 @@ import {
 } from "@nestjs/common";
 import { ConfigModule } from "@nestjs/config";
 import { TypeOrmModule } from "@nestjs/typeorm";
+import { LogMiddleware, MicroserviceModule } from "@plogg-rely/microservices";
 
 import { AppController } from "./app.controller";
 import { AppService } from "./app.service";
-import { ClientModule } from "./client/client.module";
-import { LogMiddleware } from "./log.middleware";
 import { TestModule } from "./test/test.module";
 
 @Module({
@@ -32,7 +31,7 @@ import { TestModule } from "./test/test.module";
 			retryAttempts: Infinity,
 			retryDelay: 5000
 		}),
-		ClientModule,
+		MicroserviceModule.forRoot({}),
 		TestModule
 	],
 	controllers: [AppController],

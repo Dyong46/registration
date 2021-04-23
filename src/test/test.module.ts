@@ -1,10 +1,11 @@
 import { Module } from "@nestjs/common";
+import { MicroserviceModule } from "@plogg-rely/microservices";
+
 import { TestService } from "./test.service";
 import { TestController } from "./test.controller";
-import { ClientModule } from "../client/client.module";
 
 @Module({
-	imports: [ClientModule],
+	imports: [MicroserviceModule.forRoot({})],
 	controllers: [TestController],
 	providers: [TestService],
 	exports: [TestService]

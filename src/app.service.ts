@@ -7,7 +7,7 @@ import { TestService } from "./test/test.service";
 export class AppService {
 	constructor(private readonly testService: TestService) {
 		setInterval(() => {
-			this.testService.sendTest();
+			this.testService.selfTest();
 		}, 5000);
 	}
 

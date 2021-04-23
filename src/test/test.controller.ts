@@ -1,5 +1,6 @@
 import { Controller, Post, Body } from "@nestjs/common";
-import { Message } from "../message.interface";
+import { Message } from "@plogg-rely/microservices";
+
 import { TestService } from "./test.service";
 
 @Controller("test")

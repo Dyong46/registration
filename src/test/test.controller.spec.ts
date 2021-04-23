@@ -1,5 +1,6 @@
 import { Test, TestingModule } from "@nestjs/testing";
-import { ClientModule } from "../client/client.module";
+import { MicroserviceModule } from "@plogg-rely/microservices";
+
 import { TestController } from "./test.controller";
 import { TestService } from "./test.service";
 
@@ -8,7 +9,7 @@ describe("TestController", () => {
 
 	beforeEach(async () => {
 		const module: TestingModule = await Test.createTestingModule({
-			imports: [ClientModule],
+			imports: [MicroserviceModule.forRoot({})],
 			controllers: [TestController],
 			providers: [TestService]
 		}).compile();
