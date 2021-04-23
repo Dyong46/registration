@@ -1,10 +1,16 @@
-import { Module } from "@nestjs/common";
+import {
+	MiddlewareConsumer,
+	Module,
+	NestModule,
+	RequestMethod
+} from "@nestjs/common";
 import { ConfigModule } from "@nestjs/config";
 import { TypeOrmModule } from "@nestjs/typeorm";
 
 import { AppController } from "./app.controller";
 import { AppService } from "./app.service";
 import { ClientModule } from "./client/client.module";
+import { LogMiddleware } from "./log.middleware";
 import { MessagesModule } from "./messages/messages.module";
 
 @Module({
@@ -32,4 +38,11 @@ import { MessagesModule } from "./messages/messages.module";
 	controllers: [AppController],
 	providers: [AppService]
 })
-export class AppModule {}
+export class AppModule implements NestModule {
+	configure(consumer: MiddlewareConsumer) {
+		consumer.apply(LogMiddleware).forRoutes({
+			path: "*",
+			method: RequestMethod.ALL
+		});
+	}
+}
