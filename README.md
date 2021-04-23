@@ -1,8 +1,21 @@
 Rely micro service boilerplate
 ==============================
-In order to properly setup this boilerplate, you need to change the SERVICE environment variable.
 
+Introduction
+------------
 These installation instructions require you to have a bash shell, either from Git SCM for Windows or Linux. You also need to update this `README.md` file and the package.json meta data.
+
+Cleaning up
+-----------
+Change every instance of the word "boilerplate" to the name of your new service.
+
+In order to start developing a new microservice, simply use this repository as a template using the GitHub new repository interface.
+
+The TestModule can safely be removed and is only used as a loopback test endpoint.
+
+Security
+--------
+Please note that none of the endpoints available inside a microservice are available publicly, these endpoints are only to be called from the main API endpoints (probably GraphQL on Cloud Run at the time of the writting of these readme instructions) or other microservices. No permissions are validated appart from those from Google Cloud IAM.
 
 Environment
 -----------
