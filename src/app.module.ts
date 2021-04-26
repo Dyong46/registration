@@ -31,7 +31,7 @@ import { TestModule } from "./test/test.module";
 			retryAttempts: Infinity,
 			retryDelay: 5000
 		}),
-		MicroserviceModule.forRoot({}),
+		MicroserviceModule.forRoot(),
 		TestModule
 	],
 	controllers: [AppController],
