@@ -25,11 +25,12 @@ import { TestModule } from "./test/test.module";
 			username: process.env.DB_USER,
 			password: process.env.DB_PASSWORD,
 			database: process.env.DB_NAME,
-			entities: ["./**/*.entity.ts"],
+			entities: ["./dist/**/*.entity.js"],
 			logging: "all",
 			maxQueryExecutionTime: 5000,
 			retryAttempts: Infinity,
-			retryDelay: 5000
+			retryDelay: 5000,
+			synchronize: process.env.NODE_ENV !== "production"
 		}),
 		MicroserviceModule.forRoot(),
 		TestModule

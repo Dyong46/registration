@@ -9,7 +9,7 @@ describe("TestController", () => {
 
 	beforeEach(async () => {
 		const module: TestingModule = await Test.createTestingModule({
-			imports: [MicroserviceModule.forRoot({})],
+			imports: [MicroserviceModule.forRoot()],
 			controllers: [TestController],
 			providers: [TestService]
 		}).compile();

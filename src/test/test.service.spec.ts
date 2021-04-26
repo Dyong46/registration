@@ -8,7 +8,7 @@ describe("TestService", () => {
 
 	beforeEach(async () => {
 		const module: TestingModule = await Test.createTestingModule({
-			imports: [MicroserviceModule.forRoot({})],
+			imports: [MicroserviceModule.forRoot()],
 			providers: [TestService]
 		}).compile();
 
