@@ -30,7 +30,7 @@ import { TestModule } from "./test/test.module";
 			maxQueryExecutionTime: 5000,
 			retryAttempts: Infinity,
 			retryDelay: 5000,
-			synchronize: process.env.NODE_ENV !== "production"
+			synchronize: true // @TODO: process.env.NODE_ENV !== "production"
 		}),
 		MicroserviceModule.forRoot(),
 		TestModule
