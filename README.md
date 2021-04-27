@@ -33,8 +33,8 @@ Installation
 Development tools
 ```bash
 npm install -g @nestjs/cli
-npm run prepare
 npm install
+npx husky install
 ```
 
 You also need to install a local [MySQL server](https://dev.mysql.com/downloads/mysql).
