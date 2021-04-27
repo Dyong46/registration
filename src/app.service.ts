@@ -22,8 +22,8 @@ export class AppService {
 				description: Package.description
 			},
 			service: {
-				name: process.env.service,
-				port: process.env.port
+				name: process.env.SERVICE,
+				port: process.env.PORT
 			},
 			database: {
 				host: process.env.DB_HOST,
