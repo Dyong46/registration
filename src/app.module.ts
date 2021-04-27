@@ -4,6 +4,7 @@ import {
 	NestModule,
 	RequestMethod
 } from "@nestjs/common";
+
 import { ConfigModule } from "@nestjs/config";
 import { TypeOrmModule } from "@nestjs/typeorm";
 import { LogMiddleware, MicroserviceModule } from "@plogg-rely/microservices";
