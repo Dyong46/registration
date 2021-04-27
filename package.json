@@ -6,7 +6,6 @@
 	"private": true,
 	"license": "UNLICENSED",
 	"scripts": {
-		"postinstall": "husky install",
 		"prebuild": "rimraf dist",
 		"build": "nest build",
 		"gcp-build": "npm run build",
