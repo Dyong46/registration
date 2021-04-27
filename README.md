@@ -17,6 +17,17 @@ Security
 --------
 Please note that none of the endpoints available inside a microservice are available publicly, these endpoints are only to be called from the main API endpoints (probably GraphQL on Cloud Run at the time of the writting of these readme instructions) or other microservices. No permissions are validated appart from those from Google Cloud IAM.
 
+Database
+--------
+If your microservice requires a database, it should have the same name as the microservice. Once created, assign a specific user to it using a different password in production like so:
+
+```sql
+CREATE USER 'boilerplate'@'%' IDENTIFIED BY 'boilerplate';
+GRANT ALL PRIVILEGES ON boilerplate.* TO 'boilerplate'@'%';
+```
+
+Don't forget to update the .env files to reflect your configuration.
+
 Environment
 -----------
 The environment variables are loaded from the `env/` folder in the following
