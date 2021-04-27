@@ -33,7 +33,6 @@ import { TestModule } from "./test/test.module";
 			retryDelay: 5000,
 			synchronize: true // @TODO: process.env.NODE_ENV !== "production"
 		}),
-		MicroserviceModule.forRoot(),
 		TestModule
 	],
 	controllers: [AppController],
