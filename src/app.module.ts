@@ -7,7 +7,7 @@ import {
 
 import { ConfigModule } from "@nestjs/config";
 import { TypeOrmModule } from "@nestjs/typeorm";
-import { LogMiddleware, MicroserviceModule } from "@plogg-rely/microservices";
+import { LogMiddleware } from "@plogg-rely/microservices";
 
 import { AppController } from "./app.controller";
 import { AppService } from "./app.service";
