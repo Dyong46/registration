@@ -1,5 +1,5 @@
 import { Controller, Post, Body } from "@nestjs/common";
-import { Message } from "@plogg-rely/microservices";
+import { MessageDto } from "@plogg-rely/microservices";
 
 import { TestService } from "./test.service";
 
@@ -8,7 +8,7 @@ export class TestController {
 	constructor(private readonly testService: TestService) {}
 
 	@Post()
-	test(@Body() message: Message) {
+	test(@Body() message: MessageDto) {
 		return this.testService.test(message);
 	}
 }

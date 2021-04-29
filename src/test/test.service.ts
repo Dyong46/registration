@@ -1,5 +1,5 @@
 import { Injectable, Logger } from "@nestjs/common";
-import { Message, MicroserviceService } from "@plogg-rely/microservices";
+import { MessageDto, MicroserviceService } from "@plogg-rely/microservices";
 import { TestEntity } from "./entities/test.entity";
 
 @Injectable()
@@ -18,7 +18,7 @@ export class TestService {
 		}
 	}
 
-	async test(message: Message) {
+	async test(message: MessageDto) {
 		message = this.client.receive(message);
 
 		await TestEntity.insert({
