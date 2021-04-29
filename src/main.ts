@@ -1,5 +1,6 @@
 import { Logger, ValidationPipe } from "@nestjs/common";
 import { NestFactory } from "@nestjs/core";
+import { ReceiveMessagePipe } from "@plogg-rely/microservices";
 import { AppModule } from "./app.module";
 
 const logger = new Logger("main");
@@ -20,7 +21,8 @@ async function bootstrap() {
 			transform: true,
 			forbidNonWhitelisted: true,
 			forbidUnknownValues: true
-		})
+		}),
+		new ReceiveMessagePipe()
 	);
 
 	// Listen

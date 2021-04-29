@@ -19,8 +19,6 @@ export class TestService {
 	}
 
 	async test(message: MessageDto) {
-		message = this.client.receive(message);
-
 		await TestEntity.insert({
 			at: new Date()
 		});
