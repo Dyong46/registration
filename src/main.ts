@@ -1,12 +1,17 @@
+import * as DebugAgent from "@google-cloud/debug-agent";
+
 import { Logger, ValidationPipe } from "@nestjs/common";
 import { NestFactory } from "@nestjs/core";
+
 import { ReceiveMessagePipe } from "@plogg-rely/microservices";
+
 import { AppModule } from "./app.module";
 
 const logger = new Logger("main");
 
 async function bootstrap() {
 	if (process.env.NODE_ENV === "production") {
+		DebugAgent.start();
 		process.env.NO_COLOR = "true";
 	}
 
