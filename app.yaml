@@ -2,3 +2,8 @@ runtime: nodejs14
 service: boilerplate
 vpc_access_connector:
   name: projects/rely-296614/locations/northamerica-northeast1/connectors/rely
+handlers:
+- url: /.*
+  script: auto
+  secure: always
+  redirect_http_response_code: 301
