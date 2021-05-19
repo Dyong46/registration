@@ -10,7 +10,7 @@ import { AppModule } from "./app.module";
 const logger = new Logger("main");
 
 async function bootstrap() {
-	if (process.env.NODE_ENV === "production") {
+	if (AppModule.production()) {
 		DebugAgent.start();
 		process.env.NO_COLOR = "true";
 	}
@@ -32,7 +32,7 @@ async function bootstrap() {
 
 	// Listen
 	await app.listen(process.env.PORT);
-	logger.log(`${process.env.SERVICE} on port ${process.env.PORT}`);
+	logger.log(`Service ${process.env.SERVICE} on ${await app.getUrl()}`);
 }
 
 bootstrap();

@@ -31,7 +31,7 @@ import { TestModule } from "./test/test.module";
 			maxQueryExecutionTime: 5000,
 			retryAttempts: Infinity,
 			retryDelay: 5000,
-			synchronize: true // @TODO: process.env.NODE_ENV !== "production"
+			synchronize: true // @TODO: !AppModule.production()
 		}),
 		TestModule
 	],
@@ -39,6 +39,10 @@ import { TestModule } from "./test/test.module";
 	providers: [AppService]
 })
 export class AppModule implements NestModule {
+	public static production(): boolean {
+		return process.env.NODE_ENV === "production";
+	}
+	
 	configure(consumer: MiddlewareConsumer) {
 		consumer.apply(LogMiddleware).forRoutes({
 			path: "*",
