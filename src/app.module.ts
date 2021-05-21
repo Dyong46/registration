@@ -42,7 +42,7 @@ export class AppModule implements NestModule {
 	public static production(): boolean {
 		return process.env.NODE_ENV === "production";
 	}
-	
+
 	configure(consumer: MiddlewareConsumer) {
 		consumer.apply(LogMiddleware).forRoutes({
 			path: "*",
