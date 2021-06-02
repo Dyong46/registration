@@ -1,9 +1,10 @@
-import { Controller, Post, Body } from "@nestjs/common";
-import { MessageDto } from "@plogg-rely/microservices";
+import { Controller, Post, Body, UseFilters } from "@nestjs/common";
+import { MessageDto, QueryExceptionFilter } from "@plogg-rely/microservices";
 
 import { TestService } from "./test.service";
 
 @Controller("test")
+@UseFilters(new QueryExceptionFilter())
 export class TestController {
 	constructor(private readonly testService: TestService) {}
 
