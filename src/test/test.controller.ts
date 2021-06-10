@@ -4,7 +4,7 @@ import { MessageDto, QueryExceptionFilter } from "@plogg-rely/microservices";
 import { TestService } from "./test.service";
 
 @Controller("test")
-@UseFilters(new QueryExceptionFilter())
+@UseFilters(QueryExceptionFilter)
 export class TestController {
 	constructor(private readonly testService: TestService) {}
 
