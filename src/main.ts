@@ -3,7 +3,10 @@ import * as DebugAgent from "@google-cloud/debug-agent";
 import { Logger, ValidationPipe } from "@nestjs/common";
 import { NestFactory } from "@nestjs/core";
 
-import { MessageInterceptor, ReceiveMessagePipe } from "@plogg-rely/microservices";
+import {
+	MessageInterceptor,
+	ReceiveMessagePipe
+} from "@plogg-rely/microservices";
 
 import { AppModule } from "./app.module";
 
