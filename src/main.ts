@@ -3,7 +3,7 @@ import * as DebugAgent from "@google-cloud/debug-agent";
 import { Logger, ValidationPipe } from "@nestjs/common";
 import { NestFactory } from "@nestjs/core";
 
-import { ReceiveMessagePipe } from "@plogg-rely/microservices";
+import { MessageInterceptor, ReceiveMessagePipe } from "@plogg-rely/microservices";
 
 import { AppModule } from "./app.module";
 
@@ -29,6 +29,9 @@ async function bootstrap() {
 		}),
 		new ReceiveMessagePipe()
 	);
+
+	// Interceptors
+	app.useGlobalInterceptors(new MessageInterceptor());
 
 	// Listen
 	await app.listen(process.env.PORT);
