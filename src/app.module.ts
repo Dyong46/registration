@@ -26,7 +26,9 @@ import ormConfig from "./ormconfig";
 		MicroserviceModule.forRoot(),
 		ConfigModule.forRoot({
 			cache: true,
-			envFilePath: ["env/local.env", "env/development.env", "env/production.env"]
+			envFilePath: AppModule.production()
+				? ["env/production.env"]
+				: ["env/local.env", "env/development.env"]
 		}),
 		TypeOrmModule.forRoot(ormConfig),
 		TestModule
@@ -41,6 +43,10 @@ import ormConfig from "./ormconfig";
 	]
 })
 export class AppModule implements NestModule {
+	constructor() {
+		console.log("ENV:", process.env);
+	}
+
 	public static production(): boolean {
 		return process.env.NODE_ENV === "production";
 	}
