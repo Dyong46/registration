@@ -2,7 +2,10 @@ import * as dotenv from "dotenv";
 import { TypeOrmModuleOptions } from "@nestjs/typeorm";
 
 const production = process.env.NODE_ENV === "production";
-dotenv.config({ path: production ? "./env/production.env" : "./env/development.env" });
+
+dotenv.config({
+	path: production ? "./env/production.env" : "./env/development.env"
+});
 
 export default {
 	type: "mysql",
