@@ -1,7 +1,8 @@
 import * as dotenv from "dotenv";
 import { TypeOrmModuleOptions } from "@nestjs/typeorm";
 
-dotenv.config({ path: "./env/development.env" });
+const production = process.env.NODE_ENV === "production";
+dotenv.config({ path: production ? "./env/production.env" : "./env/development.env" });
 
 export default {
 	type: "mysql",
@@ -11,7 +12,7 @@ export default {
 	password: process.env.DB_PASSWORD,
 	database: process.env.DB_NAME,
 	entities: ["./dist/**/*.entity.js"],
-	logging: process.env.NODE_ENV !== "production",
+	logging: !production,
 	maxQueryExecutionTime: 5000,
 	retryAttempts: Infinity,
 	retryDelay: 5000,
