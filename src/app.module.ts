@@ -43,10 +43,6 @@ import ormConfig from "./ormconfig";
 	]
 })
 export class AppModule implements NestModule {
-	constructor() {
-		console.log("ENV:", process.env);
-	}
-
 	public static production(): boolean {
 		return process.env.NODE_ENV === "production";
 	}
