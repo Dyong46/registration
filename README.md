@@ -13,10 +13,6 @@ In order to start developing a new microservice, simply use this repository as a
 
 The TestModule can safely be removed and is only used as a loopback test endpoint.
 
-Security
---------
-Please note that none of the endpoints available inside a microservice are available publicly, these endpoints are only to be called from the main API endpoints (probably GraphQL on Cloud Run at the time of the writting of these readme instructions) or other microservices. No permissions are validated appart from those from Google Cloud IAM.
-
 Database
 --------
 If your microservice requires a database, it should have the same name as the microservice. Once created, assign a specific user to it using a different password in production like so:
@@ -43,7 +39,6 @@ Installation
 ------------
 Development tools
 ```bash
-npm install -g @nestjs/cli
 npm install
 npx husky install
 ```

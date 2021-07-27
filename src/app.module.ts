@@ -17,7 +17,6 @@ import {
 
 import { AppController } from "./app.controller";
 import { AppService } from "./app.service";
-import { TestModule } from "./test/test.module";
 
 import ormConfig from "./ormconfig";
 
@@ -30,8 +29,7 @@ import ormConfig from "./ormconfig";
 				? ["env/production.env"]
 				: ["env/local.env", "env/development.env"]
 		}),
-		TypeOrmModule.forRoot(ormConfig),
-		TestModule
+		TypeOrmModule.forRoot(ormConfig)
 	],
 	controllers: [AppController],
 	providers: [
