@@ -31,7 +31,7 @@ async function bootstrap() {
 	);
 
 	// Listen
-	await app.listen(process.env.PORT);
+	await app.listen(process.env.PORT, "0.0.0.0");
 	logger.log(`Service ${process.env.SERVICE} on ${await app.getUrl()}`);
 }
 
