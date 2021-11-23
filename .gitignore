@@ -7,3 +7,6 @@
 
 # Tests
 /coverage
+
+# Temporary files
+*.pid
