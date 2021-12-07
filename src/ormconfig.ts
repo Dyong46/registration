@@ -14,6 +14,7 @@ export default {
 	username: process.env.DB_USER,
 	password: process.env.DB_PASSWORD,
 	database: process.env.DB_NAME,
+	timezone: "+00:00",
 	entities: ["./dist/**/*.entity.js"],
 	logging: !production,
 	maxQueryExecutionTime: 5000,
@@ -22,5 +23,6 @@ export default {
 	synchronize: false,
 	migrations: ["dist/src/migrations/*.js"],
 	migrationsTableName: "typeorm",
-	migrationsRun: true
+	migrationsRun: true,
+	charset: "utf8mb4"
 } as TypeOrmModuleOptions;

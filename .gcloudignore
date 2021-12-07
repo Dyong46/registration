@@ -4,3 +4,4 @@ env/development.env
 .gcloudignore
 .git
 .gitignore
+*.pid

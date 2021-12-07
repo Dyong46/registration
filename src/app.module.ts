@@ -5,13 +5,14 @@ import {
 	RequestMethod
 } from "@nestjs/common";
 
-import { APP_GUARD } from "@nestjs/core";
+import { APP_GUARD, APP_INTERCEPTOR } from "@nestjs/core";
 import { ConfigModule } from "@nestjs/config";
 import { TypeOrmModule } from "@nestjs/typeorm";
 
 import {
 	AccountGuard,
 	LogMiddleware,
+	MessageInterceptor,
 	MicroserviceModule
 } from "@plogg-rely/microservices";
 
@@ -36,6 +37,10 @@ import ormConfig from "./ormconfig";
 		{
 			provide: APP_GUARD,
 			useClass: AccountGuard
+		},
+		{
+			provide: APP_INTERCEPTOR,
+			useClass: MessageInterceptor
 		},
 		AppService
 	]
