@@ -15,6 +15,9 @@ The TestModule can safely be removed and is only used as a loopback test endpoin
 
 Database
 --------
+Setup this Docker image.
+`docker run --name rely-mysql -p 3306:3306 -e MYSQL_ROOT_PASSWORD=rely -d mysql:5.7.35`
+
 If your microservice requires a database, it should have the same name as the microservice. Once created, assign a specific user to it using a different password in production like so:
 
 ```sql
