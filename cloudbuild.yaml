@@ -2,7 +2,7 @@ steps:
 - name: "gcr.io/cloud-builders/gsutil"
   args: ['cp', 'gs://rely-config/boilerplate/production.env', 'env/production.env']
 - name: "gcr.io/cloud-builders/gcloud"
-  args: ["app", "deploy"]
+  args: ["app", "deploy", "--verbosity=debug"]
 timeout: "600s"
 options:
   machineType: 'N1_HIGHCPU_8'
