@@ -25,7 +25,8 @@
 		"migration:create": "bash -c 'typeorm migration:create -f dist/src/ormconfig.js -d src/migrations -n $(git branch --show-current)'",
 		"migration:generate": "npm run build && bash -c 'typeorm migration:generate -f dist/src/ormconfig.js -d src/migrations -n $(git branch --show-current)'",
 		"migration:show": "typeorm migration:show -f dist/src/ormconfig.js",
-		"migration:run": "typeorm migration:run -f dist/src/ormconfig.js"
+		"migration:run": "typeorm migration:run -f dist/src/ormconfig.js",
+		"migration:revert": "typeorm migration:revert -f dist/src/ormconfig.js"
 	},
 	"dependencies": {
 		"@google-cloud/debug-agent": "^5.2.8",
