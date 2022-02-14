@@ -3,6 +3,20 @@ steps:
   args: ['cp', 'gs://rely-config/boilerplate/production.env', 'env/production.env']
 - name: "gcr.io/cloud-builders/gcloud"
   args: ["app", "deploy", "--verbosity=debug"]
+- name: 'gcr.io/cloud-builders/gcloud'
+  entrypoint: 'bash'
+  args:
+  - '-c'
+  - |
+    versions=$(gcloud app versions list \
+      --service boilerplate \
+      --sort-by '~VERSION.ID' \
+      --format 'value(VERSION.ID)' | sed 1,5d)
+    for version in $versions; do
+    gcloud app versions delete "$version" \
+      --service boilerplate \
+      --quiet
+    done
 timeout: "600s"
 options:
   machineType: 'N1_HIGHCPU_8'
