@@ -16,7 +16,7 @@ export default {
 	database: process.env.DB_NAME,
 	timezone: "+00:00",
 	entities: ["./dist/**/*.entity.js"],
-	logging: !production,
+	logging: process.env.TYPEORM_DEBUG,
 	maxQueryExecutionTime: 5000,
 	retryAttempts: Infinity,
 	retryDelay: 5000,
