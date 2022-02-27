@@ -7,3 +7,10 @@ handlers:
   script: auto
   secure: always
   redirect_http_response_code: 301
+automatic_scaling:
+  min_num_instances: 1
+  max_num_instances: 1
+  cool_down_period_sec: 120
+  cpu_utilization:
+    target_utilization: 0.8
+  target_concurrent_requests: 300
