@@ -8,7 +8,7 @@ handlers:
   secure: always
   redirect_http_response_code: 301
 automatic_scaling:
-  min_instances: 1
+  min_instances: 0
   max_instances: 1
   max_concurrent_requests: 80
   target_throughput_utilization: 0.95
