@@ -23,14 +23,15 @@ import ormConfig from "./ormconfig";
 
 @Module({
 	imports: [
-		MicroserviceModule.forRoot(),
 		ConfigModule.forRoot({
+			isGlobal: true,
 			cache: true,
 			envFilePath: AppModule.production()
 				? ["env/production.env"]
 				: ["env/local.env", "env/development.env"]
 		}),
-		TypeOrmModule.forRoot(ormConfig)
+		TypeOrmModule.forRoot(ormConfig),
+		MicroserviceModule.forRoot()
 	],
 	controllers: [AppController],
 	providers: [
