@@ -31,7 +31,7 @@ import ormConfig from "./ormconfig";
 				: ["env/local.env", "env/development.env"]
 		}),
 		TypeOrmModule.forRoot(ormConfig),
-		MicroserviceModule.forRoot()
+		MicroserviceModule
 	],
 	controllers: [AppController],
 	providers: [
