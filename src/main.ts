@@ -1,4 +1,5 @@
-import * as DebugAgent from "@google-cloud/debug-agent";
+import * as apm from "elastic-apm-node";
+apm.start();
 
 import { Logger, ValidationPipe } from "@nestjs/common";
 import { NestFactory } from "@nestjs/core";
@@ -11,7 +12,6 @@ const logger = new Logger("main");
 
 async function bootstrap() {
 	if (AppModule.production()) {
-		DebugAgent.start();
 		process.env.NO_COLOR = "true";
 	}
 
