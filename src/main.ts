@@ -1,5 +1,8 @@
 import * as apm from "elastic-apm-node";
-apm.start();
+
+apm.start({
+	active: process.env.NODE_ENV === "production"
+});
 
 import { Logger, ValidationPipe } from "@nestjs/common";
 import { NestFactory } from "@nestjs/core";
