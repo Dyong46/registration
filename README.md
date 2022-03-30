@@ -21,6 +21,7 @@ Setup this Docker image.
 If your microservice requires a database, it should have the same name as the microservice. Once created, assign a specific user to it using a different password in production like so:
 
 ```sql
+CREATE DATABASE boilerplate CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
 CREATE USER 'boilerplate'@'%' IDENTIFIED BY 'boilerplate';
 GRANT ALL PRIVILEGES ON boilerplate.* TO 'boilerplate'@'%';
 ```
