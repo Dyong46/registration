@@ -37,7 +37,7 @@
 		"@nestjs/mapped-types": "*",
 		"@nestjs/platform-express": "^8.4.3",
 		"@nestjs/typeorm": "^8.0.3",
-		"@plogg-rely/microservices": "^3.0.7",
+		"@plogg-rely/microservices": "^3.0.8",
 		"class-transformer": "^0.5.1",
 		"class-validator": "^0.13.2",
 		"dotenv": "^16.0.0",
