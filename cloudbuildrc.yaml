@@ -6,7 +6,7 @@ steps:
 - name: "gcr.io/cloud-builders/gsutil"
   args: ['cp', 'gs://rely-rc-config/.npmrc', '.npmrc']
 - name: "gcr.io/cloud-builders/gcloud"
-  args: ["app", "deploy", "--verbosity=debug", "app.yaml"]
+  args: ["app", "deploy", "--verbosity=debug", "apprc.yaml"]
 - name: 'gcr.io/cloud-builders/gcloud'
   entrypoint: 'bash'
   args:
