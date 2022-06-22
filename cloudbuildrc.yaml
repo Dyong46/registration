@@ -1,12 +1,12 @@
 steps:
 - name: "gcr.io/cloud-builders/gsutil"
-  args: ['cp', 'gs://rely-rc-config/default/production.env', 'env/production.env']
+  args: ['cp', 'gs://rely-rc-config/boilerplate/production.env', 'env/production.env']
 - name: "gcr.io/cloud-builders/gsutil"
-  args: ['cp', 'gs://rely-rc-config/default/elastic.env', '.env']
+  args: ['cp', 'gs://rely-rc-config/boilerplate/elastic.env', '.env']
 - name: "gcr.io/cloud-builders/gsutil"
   args: ['cp', 'gs://rely-rc-config/.npmrc', '.npmrc']
 - name: "gcr.io/cloud-builders/gcloud"
-  args: ["app", "deploy", "--verbosity=debug", "app.yaml", "rc/dispatch.yaml"]
+  args: ["app", "deploy", "--verbosity=debug", "app.yaml"]
 - name: 'gcr.io/cloud-builders/gcloud'
   entrypoint: 'bash'
   args:
