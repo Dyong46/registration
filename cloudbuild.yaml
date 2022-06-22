@@ -3,6 +3,8 @@ steps:
   args: ['cp', 'gs://rely-config/boilerplate/production.env', 'env/production.env']
 - name: "gcr.io/cloud-builders/gsutil"
   args: ['cp', 'gs://rely-config/boilerplate/elastic.env', '.env']
+- name: "gcr.io/cloud-builders/gsutil"
+  args: ['cp', 'gs://rely-config/.npmrc', '.npmrc']
 - name: "gcr.io/cloud-builders/gcloud"
   args: ["app", "deploy", "--verbosity=debug"]
 - name: 'gcr.io/cloud-builders/gcloud'
