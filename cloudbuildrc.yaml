@@ -1,0 +1,26 @@
+steps:
+- name: "gcr.io/cloud-builders/gsutil"
+  args: ['cp', 'gs://rely-rc-config/default/production.env', 'env/production.env']
+- name: "gcr.io/cloud-builders/gsutil"
+  args: ['cp', 'gs://rely-rc-config/default/elastic.env', '.env']
+- name: "gcr.io/cloud-builders/gsutil"
+  args: ['cp', 'gs://rely-rc-config/.npmrc', '.npmrc']
+- name: "gcr.io/cloud-builders/gcloud"
+  args: ["app", "deploy", "--verbosity=debug", "app.yaml", "rc/dispatch.yaml"]
+- name: 'gcr.io/cloud-builders/gcloud'
+  entrypoint: 'bash'
+  args:
+  - '-c'
+  - |
+    versions=$(gcloud app versions list \
+      --service boilerplate \
+      --sort-by '~VERSION.ID' \
+      --format 'value(VERSION.ID)' | sed 1,5d)
+    for version in $versions; do
+    gcloud app versions delete "$version" \
+      --service boilerplate \
+      --quiet
+    done
+timeout: "600s"
+options:
+  machineType: 'N1_HIGHCPU_8'
