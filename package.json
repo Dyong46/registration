@@ -6,6 +6,7 @@
 	"private": true,
 	"license": "UNLICENSED",
 	"scripts": {
+		"licenses": "(license-checker --production && license-checker --production --summary) > LICENSES",
 		"prebuild": "rimraf dist",
 		"build": "nest build",
 		"gcp-build": "npm run build",
