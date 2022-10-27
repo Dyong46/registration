@@ -9,12 +9,10 @@ import { APP_GUARD, APP_INTERCEPTOR } from "@nestjs/core";
 import { ConfigModule } from "@nestjs/config";
 import { TypeOrmModule } from "@nestjs/typeorm";
 
-import {
-	AccountGuard,
-	LogMiddleware,
-	MessageInterceptor,
-	MicroserviceModule
-} from "@plogg-rely/microservices";
+import { LogMiddleware } from "../microservices/log.middleware";
+import { MessageInterceptor } from "../microservices/message.interceptor";
+import { AccountGuard } from "../microservices/auth/account.guard";
+import { MicroserviceModule } from "../microservices/microservice/microservice.module";
 
 import { AppController } from "./app.controller";
 import { AppService } from "./app.service";

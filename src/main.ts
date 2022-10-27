@@ -7,9 +7,8 @@ apm.start({
 import { Logger, ValidationPipe } from "@nestjs/common";
 import { NestFactory } from "@nestjs/core";
 
-import { ReceiveMessagePipe } from "@plogg-rely/microservices";
-
 import { AppModule } from "./app.module";
+import { ReceiveMessagePipe } from "../microservices/message.pipe";
 
 const logger = new Logger("main");
 
