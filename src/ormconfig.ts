@@ -1,5 +1,5 @@
-import * as dotenv from "dotenv";
 import { TypeOrmModuleOptions } from "@nestjs/typeorm";
+import * as dotenv from "dotenv";
 
 const production = process.env.NODE_ENV === "production";
 
@@ -17,7 +17,7 @@ export default {
 	database: process.env.DB_NAME,
 	timezone: "+00:00",
 	entities: ["./dist/**/*.entity.js"],
-	logging: !!Number(process.env.TYPEORM_DEBUG),
+	logging: !!Number(process.env.DEBUG_TYPEORM),
 	maxQueryExecutionTime: 5000,
 	retryAttempts: Infinity,
 	retryDelay: 5000,

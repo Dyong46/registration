@@ -1,6 +1,7 @@
 import { Controller, Get } from "@nestjs/common";
-import { Public } from "@plogg-rely/microservices";
+
 import { AppService } from "./app.service";
+import { Public } from "./microservices/auth/public.decorator";
 
 @Controller("")
 export class AppController {

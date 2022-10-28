@@ -1,15 +1,13 @@
+import { Logger, ValidationPipe } from "@nestjs/common";
+import { NestFactory } from "@nestjs/core";
 import * as apm from "elastic-apm-node";
+
+import { AppModule } from "./app.module";
+import { ReceiveMessagePipe } from "./microservices/message.pipe";
 
 apm.start({
 	active: process.env.NODE_ENV === "production"
 });
-
-import { Logger, ValidationPipe } from "@nestjs/common";
-import { NestFactory } from "@nestjs/core";
-
-import { ReceiveMessagePipe } from "@plogg-rely/microservices";
-
-import { AppModule } from "./app.module";
 
 const logger = new Logger("main");
 

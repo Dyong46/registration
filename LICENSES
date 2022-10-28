@@ -1,0 +1,2952 @@
+├─ @elastic/ecs-helpers@1.1.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/elastic/ecs-logging-nodejs
+│  ├─ publisher: Tomas Della Vedova
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@elastic\ecs-helpers
+│  ├─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@elastic\ecs-helpers\LICENSE
+│  └─ noticeFile: D:\Documents\Code\rely\boilerplate\node_modules\@elastic\ecs-helpers\NOTICE.md
+├─ @elastic/ecs-pino-format@1.3.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/elastic/ecs-logging-nodejs
+│  ├─ publisher: Tomas Della Vedova
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@elastic\ecs-pino-format
+│  ├─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@elastic\ecs-pino-format\LICENSE
+│  └─ noticeFile: D:\Documents\Code\rely\boilerplate\node_modules\@elastic\ecs-pino-format\NOTICE.md
+├─ @google-cloud/common@3.10.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/nodejs-common
+│  ├─ publisher: Google Inc.
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\common
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\common\LICENSE
+├─ @google-cloud/debug-agent@5.2.9
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/cloud-debug-nodejs
+│  ├─ publisher: Google Inc.
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\debug-agent
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\debug-agent\LICENSE
+├─ @google-cloud/paginator@3.0.7
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/nodejs-paginator
+│  ├─ publisher: Google Inc.
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\paginator
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\paginator\LICENSE
+├─ @google-cloud/projectify@2.1.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/nodejs-projectify
+│  ├─ publisher: Google Inc.
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\projectify
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\projectify\LICENSE
+├─ @google-cloud/projectify@3.0.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/nodejs-projectify
+│  ├─ publisher: Google Inc.
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\@google-cloud\projectify
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\@google-cloud\projectify\LICENSE
+├─ @google-cloud/promisify@2.0.4
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/nodejs-promisify
+│  ├─ publisher: Google Inc.
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\promisify
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\promisify\LICENSE
+├─ @google-cloud/promisify@3.0.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/nodejs-promisify
+│  ├─ publisher: Google Inc.
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\@google-cloud\promisify
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\@google-cloud\promisify\LICENSE
+├─ @google-cloud/storage@6.2.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/nodejs-storage
+│  ├─ publisher: Google Inc.
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\LICENSE
+├─ @leichtgewicht/ip-codec@2.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/martinheidegger/ip-codec
+│  ├─ publisher: Martin Heidegger
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@leichtgewicht\ip-codec
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@leichtgewicht\ip-codec\LICENSE
+├─ @nestjs/axios@0.0.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nestjs/axios
+│  ├─ publisher: Kamil Mysliwiec
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\axios
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\axios\LICENSE
+├─ @nestjs/common@8.4.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nestjs/nest
+│  ├─ publisher: Kamil Mysliwiec
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\common
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\common\LICENSE
+├─ @nestjs/config@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nestjs/config
+│  ├─ publisher: Kamil Mysliwiec
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\config
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\config\LICENSE
+├─ @nestjs/core@8.4.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nestjs/nest
+│  ├─ publisher: Kamil Mysliwiec
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\core
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\core\LICENSE
+├─ @nestjs/mapped-types@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nestjs/mapped-types
+│  ├─ publisher: Kamil Mysliwiec
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\mapped-types
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\mapped-types\LICENSE
+├─ @nestjs/platform-express@8.4.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nestjs/nest
+│  ├─ publisher: Kamil Mysliwiec
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\platform-express
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\platform-express\LICENSE
+├─ @nestjs/throttler@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nestjs/throttler
+│  ├─ publisher: Jay McDoniel
+│  ├─ email: me@jaymcdoniel.dev
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\throttler
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\throttler\LICENSE
+├─ @nestjs/typeorm@8.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nestjs/typeorm
+│  ├─ publisher: Kamil Mysliwiec
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\typeorm
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\typeorm\LICENSE
+├─ @nuxtjs/opencollective@0.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nuxt-contrib/opencollective
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nuxtjs\opencollective
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nuxtjs\opencollective\LICENSE
+├─ @opentelemetry/api@1.1.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/open-telemetry/opentelemetry-js-api
+│  ├─ publisher: OpenTelemetry Authors
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@opentelemetry\api
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@opentelemetry\api\LICENSE
+├─ @plogg-rely/microservices@3.3.13
+│  ├─ licenses: UNKNOWN
+│  ├─ repository: https://github.com/plogg-rely/microservices
+│  ├─ publisher: Maxime Asselin
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@plogg-rely\microservices
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@plogg-rely\microservices\README.md
+├─ @sindresorhus/is@4.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@sindresorhus\is
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@sindresorhus\is\license
+├─ @sqltools/formatter@1.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mtxr/vscode-sqltools
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@sqltools\formatter
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@sqltools\formatter\LICENSE
+├─ @szmarczak/http-timer@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/szmarczak/http-timer
+│  ├─ publisher: Szymon Marczak
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@szmarczak\http-timer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@szmarczak\http-timer\LICENSE
+├─ @tootallnate/once@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/once
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@tootallnate\once
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@tootallnate\once\LICENSE
+├─ @types/body-parser@1.19.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\body-parser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\body-parser\LICENSE
+├─ @types/cacheable-request@6.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\cacheable-request
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\cacheable-request\LICENSE
+├─ @types/cls-hooked@4.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\cls-hooked
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\cls-hooked\LICENSE
+├─ @types/connect@3.4.35
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\connect
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\connect\LICENSE
+├─ @types/express-serve-static-core@4.17.29
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\express-serve-static-core
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\express-serve-static-core\LICENSE
+├─ @types/express@4.17.13
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\express
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\express\LICENSE
+├─ @types/http-cache-semantics@4.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\http-cache-semantics
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\http-cache-semantics\LICENSE
+├─ @types/json-buffer@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\json-buffer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\json-buffer\LICENSE
+├─ @types/keyv@3.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\keyv
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\keyv\LICENSE
+├─ @types/mime@1.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\mime
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\mime\LICENSE
+├─ @types/multer@1.4.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\multer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\multer\LICENSE
+├─ @types/node@18.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\node
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\node\LICENSE
+├─ @types/qs@6.9.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\qs
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\qs\LICENSE
+├─ @types/range-parser@1.2.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\range-parser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\range-parser\LICENSE
+├─ @types/responselike@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\responselike
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\responselike\LICENSE
+├─ @types/serve-static@1.13.10
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\serve-static
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\serve-static\LICENSE
+├─ @types/zen-observable@0.8.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\zen-observable
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\zen-observable\LICENSE
+├─ abort-controller@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mysticatea/abort-controller
+│  ├─ publisher: Toru Nagashima
+│  ├─ url: https://github.com/mysticatea
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\abort-controller
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\abort-controller\LICENSE
+├─ accepts@1.3.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/accepts
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\accepts
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\accepts\LICENSE
+├─ acorn@8.7.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/acornjs/acorn
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\acorn
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\acorn\LICENSE
+├─ after-all-results@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/watson/after-all-results
+│  ├─ publisher: Thomas Watson Steen
+│  ├─ email: w@tson.dk
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\after-all-results
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\after-all-results\LICENSE
+├─ agent-base@6.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/node-agent-base
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\agent-base
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\agent-base\README.md
+├─ agentkeepalive@4.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/node-modules/agentkeepalive
+│  ├─ publisher: fengmk2
+│  ├─ email: fengmk2@gmail.com
+│  ├─ url: https://fengmk2.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\agentkeepalive
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\agentkeepalive\LICENSE
+├─ aggregate-error@4.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/aggregate-error
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\aggregate-error
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\aggregate-error\license
+├─ ajv@6.12.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ajv-validator/ajv
+│  ├─ publisher: Evgeny Poberezkin
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\fast-json-stringify\node_modules\ajv
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\fast-json-stringify\node_modules\ajv\LICENSE
+├─ ansi-regex@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-regex
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\ansi-regex
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\ansi-regex\license
+├─ ansi-styles@4.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/ansi-styles
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\ansi-styles
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\ansi-styles\license
+├─ any-promise@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/kevinbeaty/any-promise
+│  ├─ publisher: Kevin Beaty
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\any-promise
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\any-promise\LICENSE
+├─ app-root-path@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inxilpro/node-app-root-path
+│  ├─ publisher: Chris Morrell
+│  ├─ email: http://cmorrell.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\app-root-path
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\app-root-path\LICENSE
+├─ append-field@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/LinusU/node-append-field
+│  ├─ publisher: Linus Unnebäck
+│  ├─ email: linus@folkdatorn.se
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\append-field
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\append-field\LICENSE
+├─ argparse@2.0.1
+│  ├─ licenses: Python-2.0
+│  ├─ repository: https://github.com/nodeca/argparse
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\argparse
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\argparse\LICENSE
+├─ array-flatten@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/blakeembrey/array-flatten
+│  ├─ publisher: Blake Embrey
+│  ├─ email: hello@blakeembrey.com
+│  ├─ url: http://blakeembrey.me
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\array-flatten
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\array-flatten\LICENSE
+├─ arrify@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/arrify
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\arrify
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\arrify\license
+├─ async-cache@1.1.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/async-cache
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\async-cache
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\async-cache\LICENSE
+├─ async-hook-jl@1.7.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jeff-lewis/async-hook-jl
+│  ├─ publisher: Andreas Madsen
+│  ├─ email: amwebdk@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\async-hook-jl
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\async-hook-jl\LICENSE.md
+├─ async-retry@1.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/async-retry
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\async-retry
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\async-retry\LICENSE.md
+├─ async-value-promise@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Qard/async-value-promise
+│  ├─ publisher: Stephen Belanger
+│  ├─ email: admin@stephenbelanger.com
+│  ├─ url: https://github.com/qard
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\async-value-promise
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\async-value-promise\README.md
+├─ async-value@1.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Qard/async-value
+│  ├─ publisher: Stephen Belanger
+│  ├─ email: admin@stephenbelanger.com
+│  ├─ url: https://github.com/qard
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\async-value
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\async-value\README.md
+├─ async@3.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/caolan/async
+│  ├─ publisher: Caolan McMahon
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\async
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\async\LICENSE
+├─ asynckit@0.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/alexindigo/asynckit
+│  ├─ publisher: Alex Indigo
+│  ├─ email: iam@alexindigo.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\asynckit
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\asynckit\LICENSE
+├─ atomic-sleep@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/davidmarkclements/atomic-sleep
+│  ├─ publisher: David Mark Clements
+│  ├─ url: @davidmarkclem
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\atomic-sleep
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\atomic-sleep\LICENSE
+├─ axios@0.27.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/axios/axios
+│  ├─ publisher: Matt Zabriskie
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\axios
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\axios\LICENSE
+├─ balanced-match@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/balanced-match
+│  ├─ publisher: Julian Gruber
+│  ├─ email: mail@juliangruber.com
+│  ├─ url: http://juliangruber.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\balanced-match
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\balanced-match\LICENSE.md
+├─ base64-js@1.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/beatgammit/base64-js
+│  ├─ publisher: T. Jameson Little
+│  ├─ email: t.jameson.little@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\base64-js
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\base64-js\LICENSE
+├─ basic-auth@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/basic-auth
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\basic-auth
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\basic-auth\LICENSE
+├─ bignumber.js@9.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/MikeMcl/bignumber.js
+│  ├─ publisher: Michael Mclaughlin
+│  ├─ email: M8ch88l@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\bignumber.js
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\bignumber.js\LICENCE.md
+├─ binary-search@1.3.6
+│  ├─ licenses: CC0-1.0
+│  ├─ repository: https://github.com/darkskyapp/binary-search
+│  ├─ publisher: The Dark Sky Company, LLC
+│  ├─ email: support@darkskyapp.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\binary-search
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\binary-search\README.md
+├─ body-parser@1.20.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/body-parser
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\body-parser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\body-parser\LICENSE
+├─ boilerplate@1.0.0
+│  ├─ licenses: UNLICENSED
+│  ├─ private: true
+│  ├─ publisher: Rely
+│  ├─ path: D:\Documents\Code\rely\boilerplate
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\README.md
+├─ brace-expansion@1.1.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/brace-expansion
+│  ├─ publisher: Julian Gruber
+│  ├─ email: mail@juliangruber.com
+│  ├─ url: http://juliangruber.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\brace-expansion
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\brace-expansion\LICENSE
+├─ breadth-filter@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Qard/breadth-filter
+│  ├─ publisher: Stephen Belanger
+│  ├─ email: admin@stephenbelanger.com
+│  ├─ url: https://github.com/qard
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\breadth-filter
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\breadth-filter\README.md
+├─ buffer-equal-constant-time@1.0.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/goinstant/buffer-equal-constant-time
+│  ├─ publisher: GoInstant Inc., a salesforce.com company
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\buffer-equal-constant-time
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\buffer-equal-constant-time\LICENSE.txt
+├─ buffer-from@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/LinusU/buffer-from
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\buffer-from
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\buffer-from\LICENSE
+├─ buffer@6.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/buffer
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: https://feross.org
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\typeorm\node_modules\buffer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\typeorm\node_modules\buffer\LICENSE
+├─ busboy@1.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mscdex/busboy
+│  ├─ publisher: Brian White
+│  ├─ email: mscdex@mscdex.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\busboy
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\busboy\LICENSE
+├─ bytes@3.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/bytes.js
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\bytes
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\bytes\LICENSE
+├─ cache-manager-redis-store@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dabroek/node-cache-manager-redis-store
+│  ├─ publisher: Matthijs Dabroek
+│  ├─ email: dabroek@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cache-manager-redis-store
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cache-manager-redis-store\LICENSE
+├─ cache-manager@4.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/BryanDonovan/node-cache-manager
+│  ├─ publisher: Bryan Donovan
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cache-manager
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cache-manager\LICENSE
+├─ cacheable-lookup@6.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/szmarczak/cacheable-lookup
+│  ├─ publisher: Szymon Marczak
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-lookup
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-lookup\LICENSE
+├─ cacheable-request@7.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lukechilds/cacheable-request
+│  ├─ publisher: Luke Childs
+│  ├─ email: lukechilds123@gmail.com
+│  ├─ url: http://lukechilds.co.uk
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-request
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-request\LICENSE
+├─ call-bind@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/call-bind
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\call-bind
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\call-bind\LICENSE
+├─ chalk@4.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/chalk
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nuxtjs\opencollective\node_modules\chalk
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nuxtjs\opencollective\node_modules\chalk\license
+├─ charenc@0.0.2
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/pvorb/node-charenc
+│  ├─ publisher: Paul Vorbach
+│  ├─ email: paul@vorb.de
+│  ├─ url: http://vorb.de
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\charenc
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\charenc\LICENSE.mkd
+├─ class-transformer@0.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/typestack/class-transformer
+│  ├─ publisher: TypeStack contributors
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\class-transformer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\class-transformer\LICENSE
+├─ class-validator@0.13.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/typestack/class-validator
+│  ├─ publisher: TypeStack contributors
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\class-validator
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\class-validator\LICENSE
+├─ clean-stack@4.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/clean-stack
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\clean-stack
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\clean-stack\license
+├─ cli-highlight@2.1.11
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/felixfbecker/cli-highlight
+│  ├─ publisher: Felix Becker
+│  ├─ email: felix.b@outlook.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cli-highlight
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cli-highlight\LICENSE.txt
+├─ cliui@7.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/cliui
+│  ├─ publisher: Ben Coe
+│  ├─ email: ben@npmjs.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cliui
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cliui\LICENSE.txt
+├─ clone-response@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lukechilds/clone-response
+│  ├─ publisher: Luke Childs
+│  ├─ email: lukechilds123@gmail.com
+│  ├─ url: http://lukechilds.co.uk
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\clone-response
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\clone-response\LICENSE
+├─ cls-hooked@4.2.2
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/jeff-lewis/cls-hooked
+│  ├─ publisher: Forrest L Norvell
+│  ├─ email: ogd@aoaioxxysz.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cls-hooked
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cls-hooked\LICENSE
+├─ coffeescript@2.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jashkenas/coffeescript
+│  ├─ publisher: Jeremy Ashkenas
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\coffeescript
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\coffeescript\LICENSE
+├─ color-convert@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Qix-/color-convert
+│  ├─ publisher: Heather Arthur
+│  ├─ email: fayearthur@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\color-convert
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\color-convert\LICENSE
+├─ color-name@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/colorjs/color-name
+│  ├─ publisher: DY
+│  ├─ email: dfcreative@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\color-name
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\color-name\LICENSE
+├─ combined-stream@1.0.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/felixge/node-combined-stream
+│  ├─ publisher: Felix Geisendörfer
+│  ├─ email: felix@debuggable.com
+│  ├─ url: http://debuggable.com/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\combined-stream
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\combined-stream\License
+├─ compress-brotli@1.3.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Kikobeats/compress-brotli
+│  ├─ publisher: Kiko Beats
+│  ├─ email: josefrancisco.verdu@gmail.com
+│  ├─ url: https://kikobeats.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\compress-brotli
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\compress-brotli\LICENSE.md
+├─ compressible@2.0.18
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/compressible
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\compressible
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\compressible\LICENSE
+├─ concat-map@0.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-concat-map
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\concat-map
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\concat-map\LICENSE
+├─ concat-stream@1.6.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/maxogden/concat-stream
+│  ├─ publisher: Max Ogden
+│  ├─ email: max@maxogden.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\concat-stream
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\concat-stream\LICENSE
+├─ consola@2.15.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nuxt/consola
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\consola
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\consola\README.md
+├─ console-log-level@1.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/watson/console-log-level
+│  ├─ publisher: Thomas Watson Steen
+│  ├─ email: w@tson.dk
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\console-log-level
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\console-log-level\LICENSE
+├─ container-info@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Qard/container-info
+│  ├─ publisher: Stephen Belanger
+│  ├─ email: admin@stephenbelanger.com
+│  ├─ url: https://github.com/qard
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\container-info
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\container-info\LICENSE
+├─ content-disposition@0.5.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/content-disposition
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\content-disposition
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\content-disposition\LICENSE
+├─ content-type@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/content-type
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\content-type
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\content-type\LICENSE
+├─ cookie-signature@1.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/node-cookie-signature
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@learnboost.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cookie-signature
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cookie-signature\Readme.md
+├─ cookie@0.4.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/cookie
+│  ├─ publisher: Roman Shtylman
+│  ├─ email: shtylman@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cookie
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cookie\LICENSE
+├─ cookie@0.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/cookie
+│  ├─ publisher: Roman Shtylman
+│  ├─ email: shtylman@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\express\node_modules\cookie
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\express\node_modules\cookie\LICENSE
+├─ core-util-is@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/core-util-is
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\core-util-is
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\core-util-is\LICENSE
+├─ cors@2.8.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/cors
+│  ├─ publisher: Troy Goode
+│  ├─ email: troygoode@gmail.com
+│  ├─ url: https://github.com/troygoode/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cors
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cors\LICENSE
+├─ crypt@0.0.2
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/pvorb/node-crypt
+│  ├─ publisher: Paul Vorbach
+│  ├─ email: paul@vorb.de
+│  ├─ url: http://vorb.de
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\crypt
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\crypt\LICENSE.mkd
+├─ debug@2.6.9
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/visionmedia/debug
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\debug
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\debug\LICENSE
+├─ debug@4.3.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/debug-js/debug
+│  ├─ publisher: Josh Junon
+│  ├─ email: josh.junon@protonmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\agent-base\node_modules\debug
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\agent-base\node_modules\debug\LICENSE
+├─ decompress-response@6.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/decompress-response
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\decompress-response
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\decompress-response\license
+├─ deepmerge@4.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TehShrike/deepmerge
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\deepmerge
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\deepmerge\license.txt
+├─ defer-to-connect@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/szmarczak/defer-to-connect
+│  ├─ publisher: Szymon Marczak
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\defer-to-connect
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\defer-to-connect\LICENSE
+├─ define-properties@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/define-properties
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\define-properties
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\define-properties\LICENSE
+├─ delayed-stream@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/felixge/node-delayed-stream
+│  ├─ publisher: Felix Geisendörfer
+│  ├─ email: felix@debuggable.com
+│  ├─ url: http://debuggable.com/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\delayed-stream
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\delayed-stream\License
+├─ denque@1.5.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/invertase/denque
+│  ├─ publisher: Invertase
+│  ├─ email: oss@invertase.io
+│  ├─ url: http://github.com/invertase/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\redis\node_modules\denque
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\redis\node_modules\denque\LICENSE
+├─ denque@2.0.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/invertase/denque
+│  ├─ publisher: Invertase
+│  ├─ email: oss@invertase.io
+│  ├─ url: http://github.com/invertase/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\denque
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\denque\LICENSE
+├─ depd@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dougwilson/nodejs-depd
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\agentkeepalive\node_modules\depd
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\agentkeepalive\node_modules\depd\LICENSE
+├─ depd@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dougwilson/nodejs-depd
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\depd
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\depd\LICENSE
+├─ destroy@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/destroy
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\destroy
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\destroy\LICENSE
+├─ dns-packet@5.4.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/dns-packet
+│  ├─ publisher: Mathias Buus
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\dns-packet
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\dns-packet\LICENSE
+├─ dns-socket@4.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/dns-socket
+│  ├─ publisher: Mathias Buus
+│  ├─ url: @mafintosh
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\dns-socket
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\dns-socket\LICENSE
+├─ dotenv-expand@8.0.3
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/motdotla/dotenv-expand
+│  ├─ publisher: motdotla
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\dotenv-expand
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\dotenv-expand\LICENSE
+├─ dotenv@16.0.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/motdotla/dotenv
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\dotenv
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\dotenv\LICENSE
+├─ dotenv@8.6.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/motdotla/dotenv
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\typeorm\node_modules\dotenv
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\typeorm\node_modules\dotenv\LICENSE
+├─ duplexify@4.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/duplexify
+│  ├─ publisher: Mathias Buus
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\duplexify
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\duplexify\LICENSE
+├─ ecdsa-sig-formatter@1.0.11
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/Brightspace/node-ecdsa-sig-formatter
+│  ├─ publisher: D2L Corporation
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\ecdsa-sig-formatter
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\ecdsa-sig-formatter\LICENSE
+├─ ee-first@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jonathanong/ee-first
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\ee-first
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\ee-first\LICENSE
+├─ elastic-apm-http-client@11.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/elastic/apm-nodejs-http-client
+│  ├─ publisher: Thomas Watson
+│  ├─ email: w@tson.dk
+│  ├─ url: https://twitter.com/wa7son
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-http-client
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-http-client\LICENSE
+├─ elastic-apm-node@3.36.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/elastic/apm-agent-nodejs
+│  ├─ publisher: Thomas Watson Steen
+│  ├─ email: w@tson.dk
+│  ├─ url: https://twitter.com/wa7son
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\LICENSE
+├─ emitter-listener@1.1.2
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/othiym23/emitter-listener
+│  ├─ publisher: Forrest L Norvell
+│  ├─ email: ogd@aoaioxxysz.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\emitter-listener
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\emitter-listener\README.md
+├─ emoji-regex@8.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mathiasbynens/emoji-regex
+│  ├─ publisher: Mathias Bynens
+│  ├─ url: https://mathiasbynens.be/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\emoji-regex
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\emoji-regex\LICENSE-MIT.txt
+├─ encodeurl@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/encodeurl
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\encodeurl
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\encodeurl\LICENSE
+├─ end-of-stream@1.4.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/end-of-stream
+│  ├─ publisher: Mathias Buus
+│  ├─ email: mathiasbuus@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\end-of-stream
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\end-of-stream\LICENSE
+├─ ent@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-ent
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\ent
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\ent\LICENSE
+├─ error-callsites@2.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/watson/error-callsites
+│  ├─ publisher: Thomas Watson Steen
+│  ├─ email: w@tson.dk
+│  ├─ url: https://twitter.com/wa7son
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\error-callsites
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\error-callsites\LICENSE
+├─ error-stack-parser@2.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stacktracejs/error-stack-parser
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\error-stack-parser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\error-stack-parser\LICENSE
+├─ es-abstract@1.20.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/es-abstract
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ url: http://ljharb.codes
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\es-abstract
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\es-abstract\LICENSE
+├─ es-to-primitive@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/es-to-primitive
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\es-to-primitive
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\es-to-primitive\LICENSE
+├─ escalade@3.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lukeed/escalade
+│  ├─ publisher: Luke Edwards
+│  ├─ email: luke.edwards05@gmail.com
+│  ├─ url: https://lukeed.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\escalade
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\escalade\license
+├─ escape-html@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/escape-html
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\escape-html
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\escape-html\LICENSE
+├─ escape-string-regexp@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/escape-string-regexp
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\escape-string-regexp
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\escape-string-regexp\license
+├─ escape-string-regexp@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/escape-string-regexp
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\clean-stack\node_modules\escape-string-regexp
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\clean-stack\node_modules\escape-string-regexp\license
+├─ etag@1.8.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/etag
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\etag
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\etag\LICENSE
+├─ event-target-shim@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mysticatea/event-target-shim
+│  ├─ publisher: Toru Nagashima
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\event-target-shim
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\event-target-shim\LICENSE
+├─ express@4.18.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/express
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\express
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\express\LICENSE
+├─ extend@3.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/justmoon/node-extend
+│  ├─ publisher: Stefan Thomas
+│  ├─ email: justmoon@members.fsf.org
+│  ├─ url: http://www.justmoon.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\extend
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\extend\LICENSE
+├─ fast-deep-equal@3.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/epoberezkin/fast-deep-equal
+│  ├─ publisher: Evgeny Poberezkin
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\fast-deep-equal
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\fast-deep-equal\LICENSE
+├─ fast-json-stable-stringify@2.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/epoberezkin/fast-json-stable-stringify
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\fast-json-stable-stringify
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\fast-json-stable-stringify\LICENSE
+├─ fast-json-stringify@2.7.13
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/fastify/fast-json-stringify
+│  ├─ publisher: Matteo Collina
+│  ├─ email: hello@matteocollina.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\fast-json-stringify
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\fast-json-stringify\LICENSE
+├─ fast-redact@3.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/davidmarkclements/fast-redact
+│  ├─ publisher: David Mark Clements
+│  ├─ email: david.clements@nearform.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\fast-redact
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\fast-redact\LICENSE
+├─ fast-safe-stringify@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/davidmarkclements/fast-safe-stringify
+│  ├─ publisher: David Mark Clements
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\fast-safe-stringify
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\fast-safe-stringify\LICENSE
+├─ fast-stream-to-buffer@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/watson/fast-stream-to-buffer
+│  ├─ publisher: Thomas Watson
+│  ├─ email: w@tson.dk
+│  ├─ url: https://twitter.com/wa7son
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\fast-stream-to-buffer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\fast-stream-to-buffer\LICENSE
+├─ fast-text-encoding@1.0.4
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/samthor/fast-text-encoding
+│  ├─ publisher: Sam Thorogood
+│  ├─ email: sam.thorogood@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\fast-text-encoding
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\fast-text-encoding\LICENSE
+├─ finalhandler@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/finalhandler
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\finalhandler
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\finalhandler\LICENSE
+├─ findit2@2.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/andrewrk/node-findit
+│  ├─ publisher: Andrew Kelley
+│  ├─ email: superjoe30@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\findit2
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\findit2\LICENSE
+├─ flatstr@1.0.12
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/davidmarkclements/flatstr
+│  ├─ publisher: David Mark Clements
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\flatstr
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\flatstr\LICENSE
+├─ follow-redirects@1.15.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/follow-redirects/follow-redirects
+│  ├─ publisher: Ruben Verborgh
+│  ├─ email: ruben@verborgh.org
+│  ├─ url: https://ruben.verborgh.org/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\follow-redirects
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\follow-redirects\LICENSE
+├─ form-data-encoder@1.7.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/octet-stream/form-data-encoder
+│  ├─ publisher: Nick K.
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\form-data-encoder
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\form-data-encoder\license
+├─ form-data@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/form-data/form-data
+│  ├─ publisher: Felix Geisendörfer
+│  ├─ email: felix@debuggable.com
+│  ├─ url: http://debuggable.com/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\form-data
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\form-data\License
+├─ forwarded-parse@2.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lpinca/forwarded-parse
+│  ├─ publisher: Luigi Pinca
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\forwarded-parse
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\forwarded-parse\LICENSE
+├─ forwarded@0.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/forwarded
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\forwarded
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\forwarded\LICENSE
+├─ fresh@0.5.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/fresh
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\fresh
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\fresh\LICENSE
+├─ fs.realpath@1.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/fs.realpath
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\fs.realpath
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\fs.realpath\LICENSE
+├─ function-bind@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/function-bind
+│  ├─ publisher: Raynos
+│  ├─ email: raynos2@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\function-bind
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\function-bind\LICENSE
+├─ function.prototype.name@1.1.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/es-shims/Function.prototype.name
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\function.prototype.name
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\function.prototype.name\LICENSE
+├─ functions-have-names@1.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/functions-have-names
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\functions-have-names
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\functions-have-names\LICENSE
+├─ gaxios@4.3.3
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/gaxios
+│  ├─ publisher: Google, LLC
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\google-auth-library\node_modules\gaxios
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\google-auth-library\node_modules\gaxios\LICENSE
+├─ gaxios@5.0.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/gaxios
+│  ├─ publisher: Google, LLC
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\gaxios
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\gaxios\LICENSE
+├─ gcp-metadata@4.3.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/gcp-metadata
+│  ├─ publisher: Stephen Sawchuk
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\gcp-metadata
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\gcp-metadata\LICENSE
+├─ gcp-metadata@5.0.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/gcp-metadata
+│  ├─ publisher: Stephen Sawchuk
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\gcp-metadata
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\gcp-metadata\LICENSE
+├─ generate-function@2.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/generate-function
+│  ├─ publisher: Mathias Buus
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\generate-function
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\generate-function\LICENSE
+├─ get-caller-file@2.0.5
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/stefanpenner/get-caller-file
+│  ├─ publisher: Stefan Penner
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\get-caller-file
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\get-caller-file\LICENSE.md
+├─ get-intrinsic@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/get-intrinsic
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\get-intrinsic
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\get-intrinsic\LICENSE
+├─ get-stream@5.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/get-stream
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-request\node_modules\get-stream
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-request\node_modules\get-stream\license
+├─ get-stream@6.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/get-stream
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\get-stream
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\get-stream\license
+├─ get-symbol-description@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/get-symbol-description
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\get-symbol-description
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\get-symbol-description\LICENSE
+├─ glob@7.2.3
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-glob
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\glob
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\glob\LICENSE
+├─ google-auth-library@7.14.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/google-auth-library-nodejs
+│  ├─ publisher: Google Inc.
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\google-auth-library
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\google-auth-library\LICENSE
+├─ google-auth-library@8.1.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/google-auth-library-nodejs
+│  ├─ publisher: Google Inc.
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\google-auth-library
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\google-auth-library\LICENSE
+├─ google-p12-pem@3.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/googleapis/google-p12-pem
+│  ├─ publisher: Ryan Seys
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\google-p12-pem
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\google-p12-pem\LICENSE
+├─ google-p12-pem@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/googleapis/google-p12-pem
+│  ├─ publisher: Ryan Seys
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\google-p12-pem
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\google-p12-pem\LICENSE
+├─ got@12.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/got
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\got
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\got\license
+├─ gtoken@5.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/google/node-gtoken
+│  ├─ publisher: Google, LLC
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\gtoken
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\gtoken\LICENSE
+├─ gtoken@6.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/google/node-gtoken
+│  ├─ publisher: Google, LLC
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\gtoken
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\gtoken\LICENSE
+├─ has-bigints@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/has-bigints
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\has-bigints
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\has-bigints\LICENSE
+├─ has-flag@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/has-flag
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\has-flag
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\has-flag\license
+├─ has-property-descriptors@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/has-property-descriptors
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\has-property-descriptors
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\has-property-descriptors\LICENSE
+├─ has-symbols@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/has-symbols
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ url: http://ljharb.codes
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\has-symbols
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\has-symbols\LICENSE
+├─ has-tostringtag@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/has-tostringtag
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ url: http://ljharb.codes
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\has-tostringtag
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\has-tostringtag\LICENSE
+├─ has@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tarruda/has
+│  ├─ publisher: Thiago de Arruda
+│  ├─ email: tpadilha84@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\has
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\has\LICENSE-MIT
+├─ highlight.js@10.7.3
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/highlightjs/highlight.js
+│  ├─ publisher: Ivan Sagalaev
+│  ├─ email: maniac@softwaremaniacs.org
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\highlight.js
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\highlight.js\LICENSE
+├─ http-cache-semantics@4.1.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/kornelski/http-cache-semantics
+│  ├─ publisher: Kornel Lesiński
+│  ├─ email: kornel@geekhood.net
+│  ├─ url: https://kornel.ski/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\http-cache-semantics
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\http-cache-semantics\LICENSE
+├─ http-errors@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/http-errors
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\http-errors
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\http-errors\LICENSE
+├─ http-headers@3.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/watson/http-headers
+│  ├─ publisher: Thomas Watson Steen
+│  ├─ email: w@tson.dk
+│  ├─ url: https://twitter.com/wa7son
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\http-headers
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\http-headers\LICENSE
+├─ http-proxy-agent@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/node-http-proxy-agent
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\http-proxy-agent
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\http-proxy-agent\README.md
+├─ http-status-codes@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/prettymuchbryce/http-status-codes
+│  ├─ publisher: Bryce Neal
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\http-status-codes
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\http-status-codes\LICENSE
+├─ http2-wrapper@2.1.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/szmarczak/http2-wrapper
+│  ├─ publisher: Szymon Marczak
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\http2-wrapper
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\http2-wrapper\LICENSE
+├─ https-proxy-agent@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/node-https-proxy-agent
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\https-proxy-agent
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\https-proxy-agent\README.md
+├─ humanize-ms@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/node-modules/humanize-ms
+│  ├─ publisher: dead-horse
+│  ├─ email: dead_horse@qq.com
+│  ├─ url: http://deadhorse.me
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\humanize-ms
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\humanize-ms\LICENSE
+├─ iconv-lite@0.4.24
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ashtuchkin/iconv-lite
+│  ├─ publisher: Alexander Shtuchkin
+│  ├─ email: ashtuchkin@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\iconv-lite
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\iconv-lite\LICENSE
+├─ iconv-lite@0.6.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ashtuchkin/iconv-lite
+│  ├─ publisher: Alexander Shtuchkin
+│  ├─ email: ashtuchkin@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mysql2\node_modules\iconv-lite
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mysql2\node_modules\iconv-lite\LICENSE
+├─ ieee754@1.2.1
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/feross/ieee754
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: https://feross.org
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\ieee754
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\ieee754\LICENSE
+├─ indent-string@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/indent-string
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\indent-string
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\indent-string\license
+├─ inflight@1.0.6
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/inflight
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\inflight
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\inflight\LICENSE
+├─ inherits@2.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/inherits
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\inherits
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\inherits\LICENSE
+├─ internal-slot@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/internal-slot
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\internal-slot
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\internal-slot\LICENSE
+├─ ip-regex@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/ip-regex
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\ip-regex
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\ip-regex\license
+├─ ipaddr.js@1.9.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/whitequark/ipaddr.js
+│  ├─ publisher: whitequark
+│  ├─ email: whitequark@whitequark.org
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\ipaddr.js
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\ipaddr.js\LICENSE
+├─ is-bigint@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-bigint
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-bigint
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-bigint\LICENSE
+├─ is-boolean-object@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-boolean-object
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-boolean-object
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-boolean-object\LICENSE
+├─ is-buffer@1.1.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/is-buffer
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: http://feross.org/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-buffer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-buffer\LICENSE
+├─ is-callable@1.2.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-callable
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ url: http://ljharb.codes
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-callable
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-callable\LICENSE
+├─ is-core-module@2.9.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-core-module
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-core-module
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-core-module\LICENSE
+├─ is-date-object@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-date-object
+│  ├─ publisher: Jordan Harband
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-date-object
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-date-object\LICENSE
+├─ is-finite@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-finite
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-finite
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-finite\license
+├─ is-fullwidth-code-point@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-fullwidth-code-point
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-fullwidth-code-point
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-fullwidth-code-point\license
+├─ is-integer@1.0.7
+│  ├─ licenses: WTFPL OR ISC
+│  ├─ repository: https://github.com/parshap/js-is-integer
+│  ├─ publisher: Parsha Pourkhomami
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-integer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-integer\LICENSE
+├─ is-ip@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-ip
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-ip
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-ip\license
+├─ is-native@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gearcase/is-native
+│  ├─ publisher: bubkoo
+│  ├─ email: bubkoo.wy@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-native
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-native\LICENSE
+├─ is-negative-zero@2.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-negative-zero
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-negative-zero
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-negative-zero\LICENSE
+├─ is-nil@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gearcase/is-nil
+│  ├─ publisher: bubkoo
+│  ├─ email: bubkoo.wy@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-nil
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-nil\LICENSE
+├─ is-number-object@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-number-object
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-number-object
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-number-object\LICENSE
+├─ is-property@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mikolalysenko/is-property
+│  ├─ publisher: Mikola Lysenko
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-property
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-property\LICENSE
+├─ is-regex@1.1.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-regex
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-regex
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-regex\LICENSE
+├─ is-shared-array-buffer@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-shared-array-buffer
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ url: http://ljharb.codes
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-shared-array-buffer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-shared-array-buffer\LICENSE
+├─ is-stream@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/is-stream
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-stream
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-stream\license
+├─ is-string@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/is-string
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-string
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-string\LICENSE
+├─ is-symbol@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-symbol
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-symbol
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-symbol\LICENSE
+├─ is-weakref@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/is-weakref
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-weakref
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-weakref\LICENSE
+├─ is_js@0.9.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/arasatasaygin/is.js
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is_js
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is_js\LICENSE
+├─ isarray@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/juliangruber/isarray
+│  ├─ publisher: Julian Gruber
+│  ├─ email: mail@juliangruber.com
+│  ├─ url: http://juliangruber.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\isarray
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\isarray\README.md
+├─ iterare@1.2.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/felixfbecker/iterare
+│  ├─ publisher: Felix Becker
+│  ├─ email: felix.b@outlook.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\iterare
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\iterare\LICENSE.txt
+├─ js-yaml@4.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodeca/js-yaml
+│  ├─ publisher: Vladimir Zapparov
+│  ├─ email: dervus.grim@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\js-yaml
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\js-yaml\LICENSE
+├─ json-bigint@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sidorares/json-bigint
+│  ├─ publisher: Andrey Sidorov
+│  ├─ email: sidorares@yandex.ru
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\json-bigint
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\json-bigint\LICENSE
+├─ json-buffer@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dominictarr/json-buffer
+│  ├─ publisher: Dominic Tarr
+│  ├─ email: dominic.tarr@gmail.com
+│  ├─ url: http://dominictarr.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\json-buffer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\json-buffer\LICENSE
+├─ json-schema-traverse@0.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/epoberezkin/json-schema-traverse
+│  ├─ publisher: Evgeny Poberezkin
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\fast-json-stringify\node_modules\json-schema-traverse
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\fast-json-stringify\node_modules\json-schema-traverse\LICENSE
+├─ jwa@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianloveswords/node-jwa
+│  ├─ publisher: Brian J. Brennan
+│  ├─ email: brianloveswords@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\jwa
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\jwa\LICENSE
+├─ jws@4.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/brianloveswords/node-jws
+│  ├─ publisher: Brian J Brennan
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\jws
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\jws\LICENSE
+├─ keyv@4.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jaredwray/keyv
+│  ├─ publisher: Jared Wray
+│  ├─ email: me@jaredwray.com
+│  ├─ url: http://jaredwray.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\keyv
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\keyv\README.md
+├─ libphonenumber-js@1.10.7
+│  ├─ licenses: MIT
+│  ├─ repository: git+https://gitlab.com/catamphetamine/libphonenumber-js
+│  ├─ publisher: catamphetamine
+│  ├─ email: purecatamphetamine@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\libphonenumber-js
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\libphonenumber-js\LICENSE
+├─ lodash.clonedeep@4.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ email: john.david.dalton@gmail.com
+│  ├─ url: http://allyoucanleet.com/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\lodash.clonedeep
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\lodash.clonedeep\LICENSE
+├─ lodash.sortby@4.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ email: john.david.dalton@gmail.com
+│  ├─ url: http://allyoucanleet.com/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\lodash.sortby
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\lodash.sortby\LICENSE
+├─ lodash@4.17.21
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lodash/lodash
+│  ├─ publisher: John-David Dalton
+│  ├─ email: john.david.dalton@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\lodash
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\lodash\LICENSE
+├─ long@4.0.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/dcodeIO/long.js
+│  ├─ publisher: Daniel Wirtz
+│  ├─ email: dcode@dcode.io
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\long
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\long\LICENSE
+├─ lowercase-keys@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/lowercase-keys
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-request\node_modules\lowercase-keys
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-request\node_modules\lowercase-keys\license
+├─ lowercase-keys@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/lowercase-keys
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\lowercase-keys
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\lowercase-keys\license
+├─ lru-cache@4.1.5
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-lru-cache
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\async-cache\node_modules\lru-cache
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\async-cache\node_modules\lru-cache\LICENSE
+├─ lru-cache@6.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-lru-cache
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\google-auth-library\node_modules\lru-cache
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\google-auth-library\node_modules\lru-cache\LICENSE
+├─ lru-cache@7.12.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/node-lru-cache
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\lru-cache
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\lru-cache\LICENSE
+├─ mapcap@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Qard/mapcap
+│  ├─ publisher: Stephen Belanger
+│  ├─ email: admin@stephenbelanger.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mapcap
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mapcap\README.md
+├─ md5@2.3.0
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/pvorb/node-md5
+│  ├─ publisher: Paul Vorbach
+│  ├─ email: paul@vorba.ch
+│  ├─ url: http://paul.vorba.ch
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\md5
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\md5\LICENSE
+├─ measured-core@1.51.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/yaorg/node-measured
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\measured-core
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\measured-core\README.md
+├─ measured-reporting@1.51.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/yaorg/node-measured
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\measured-reporting
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\measured-reporting\README.md
+├─ media-typer@0.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/media-typer
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\media-typer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\media-typer\LICENSE
+├─ merge-descriptors@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/merge-descriptors
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\merge-descriptors
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\merge-descriptors\LICENSE
+├─ methods@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/methods
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\methods
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\methods\LICENSE
+├─ mime-db@1.52.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-db
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mime-db
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mime-db\LICENSE
+├─ mime-types@2.1.35
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/mime-types
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mime-types
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mime-types\LICENSE
+├─ mime@1.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/broofa/node-mime
+│  ├─ publisher: Robert Kieffer
+│  ├─ email: robert@broofa.com
+│  ├─ url: http://github.com/broofa
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\send\node_modules\mime
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\send\node_modules\mime\LICENSE
+├─ mime@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/broofa/mime
+│  ├─ publisher: Robert Kieffer
+│  ├─ email: robert@broofa.com
+│  ├─ url: http://github.com/broofa
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mime
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mime\LICENSE
+├─ mimic-response@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/mimic-response
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mimic-response
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mimic-response\license
+├─ mimic-response@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/mimic-response
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\decompress-response\node_modules\mimic-response
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\decompress-response\node_modules\mimic-response\license
+├─ minimatch@3.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/minimatch
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\minimatch
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\minimatch\LICENSE
+├─ minimist@1.2.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/minimist
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\minimist
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\minimist\LICENSE
+├─ mkdirp@0.5.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/node-mkdirp
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mkdirp
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mkdirp\LICENSE
+├─ mkdirp@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/isaacs/node-mkdirp
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\typeorm\node_modules\mkdirp
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\typeorm\node_modules\mkdirp\LICENSE
+├─ module-details-from-path@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/watson/module-details-from-path
+│  ├─ publisher: Thomas Watson Steen
+│  ├─ email: w@tson.dk
+│  ├─ url: https://twitter.com/wa7son
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\module-details-from-path
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\module-details-from-path\LICENSE
+├─ monitor-event-loop-delay@1.0.0
+│  ├─ licenses: MIT
+│  ├─ publisher: Stephen Belanger
+│  ├─ email: admin@stephenbelanger.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\monitor-event-loop-delay
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\monitor-event-loop-delay\LICENSE
+├─ ms@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zeit/ms
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\ms
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\ms\license.md
+├─ ms@2.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/zeit/ms
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\agent-base\node_modules\ms
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\agent-base\node_modules\ms\license.md
+├─ ms@2.1.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/vercel/ms
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\send\node_modules\ms
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\send\node_modules\ms\license.md
+├─ multer@1.4.4-lts.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/multer
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\multer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\multer\LICENSE
+├─ mysql2@2.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sidorares/node-mysql2
+│  ├─ publisher: Andrey Sidorov
+│  ├─ email: sidorares@yandex.ru
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mysql2
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mysql2\License
+├─ mz@2.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/normalize/mz
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mz
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mz\LICENSE
+├─ named-placeholders@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sidorares/named-placeholders
+│  ├─ publisher: Andrey Sidorov
+│  ├─ email: sidorares@yandex.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\named-placeholders
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\named-placeholders\LICENSE
+├─ negotiator@0.6.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/negotiator
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\negotiator
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\negotiator\LICENSE
+├─ next-line@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/watson/next-line
+│  ├─ publisher: Thomas Watson Steen
+│  ├─ email: w@tson.dk
+│  ├─ url: https://twitter.com/wa7son
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\next-line
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\next-line\LICENSE
+├─ node-fetch@2.6.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bitinn/node-fetch
+│  ├─ publisher: David Frank
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\node-fetch
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\node-fetch\LICENSE.md
+├─ node-forge@1.3.1
+│  ├─ licenses: (BSD-3-Clause OR GPL-2.0)
+│  ├─ repository: https://github.com/digitalbazaar/forge
+│  ├─ publisher: Digital Bazaar, Inc.
+│  ├─ email: support@digitalbazaar.com
+│  ├─ url: http://digitalbazaar.com/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\node-forge
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\node-forge\LICENSE
+├─ normalize-url@6.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/normalize-url
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\normalize-url
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\normalize-url\license
+├─ object-assign@4.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/object-assign
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\object-assign
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\object-assign\license
+├─ object-filter-sequence@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/elastic/object-filter-sequence
+│  ├─ publisher: Stephen Belanger
+│  ├─ email: stephen.belanger@elastic.co
+│  ├─ url: https://github.com/qard
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\object-filter-sequence
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\object-filter-sequence\LICENSE
+├─ object-hash@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/puleos/object-hash
+│  ├─ publisher: Scott Puleo
+│  ├─ email: puleos@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\object-hash
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\object-hash\LICENSE
+├─ object-identity-map@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Qard/object-identity-map
+│  ├─ publisher: Stephen Belanger
+│  ├─ email: admin@stephenbelanger.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\object-identity-map
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\object-identity-map\README.md
+├─ object-inspect@1.12.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/object-inspect
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\object-inspect
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\object-inspect\LICENSE
+├─ object-keys@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/object-keys
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ url: http://ljharb.codes
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\object-keys
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\object-keys\LICENSE
+├─ object.assign@4.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/object.assign
+│  ├─ publisher: Jordan Harband
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\object.assign
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\object.assign\LICENSE
+├─ object.entries@1.1.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/es-shims/Object.entries
+│  ├─ publisher: Jordan Harband
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\object.entries
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\object.entries\LICENSE
+├─ on-finished@2.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/on-finished
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\on-finished
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\on-finished\LICENSE
+├─ once@1.4.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/once
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\once
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\once\LICENSE
+├─ optional-js@2.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/JasonStorey/Optional.js
+│  ├─ publisher: Jason A. Storey
+│  ├─ url: https://github.com/JasonStorey
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\optional-js
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\optional-js\LICENSE
+├─ original-url@1.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/watson/original-url
+│  ├─ publisher: Thomas Watson
+│  ├─ email: w@tson.dk
+│  ├─ url: https://twitter.com/wa7son
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\original-url
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\original-url\LICENSE
+├─ p-cancelable@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/p-cancelable
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\p-cancelable
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\p-cancelable\license
+├─ p-limit@3.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/p-limit
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\p-limit
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\p-limit\license
+├─ parse5-htmlparser2-tree-adapter@6.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inikulin/parse5
+│  ├─ publisher: Ivan Nikulin
+│  ├─ email: ifaaan@gmail.com
+│  ├─ url: https://github.com/inikulin
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\parse5-htmlparser2-tree-adapter
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\parse5-htmlparser2-tree-adapter\LICENSE
+├─ parse5@5.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inikulin/parse5
+│  ├─ publisher: Ivan Nikulin
+│  ├─ email: ifaaan@gmail.com
+│  ├─ url: https://github.com/inikulin
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\parse5
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\parse5\LICENSE
+├─ parse5@6.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inikulin/parse5
+│  ├─ publisher: Ivan Nikulin
+│  ├─ email: ifaaan@gmail.com
+│  ├─ url: https://github.com/inikulin
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\parse5-htmlparser2-tree-adapter\node_modules\parse5
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\parse5-htmlparser2-tree-adapter\node_modules\parse5\LICENSE
+├─ parseurl@1.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/parseurl
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\parseurl
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\parseurl\LICENSE
+├─ path-is-absolute@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/path-is-absolute
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\path-is-absolute
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\path-is-absolute\license
+├─ path-parse@1.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jbgutierrez/path-parse
+│  ├─ publisher: Javier Blanco
+│  ├─ email: http://jbgutierrez.info
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\path-parse
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\path-parse\LICENSE
+├─ path-to-regexp@0.1.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/path-to-regexp
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\express\node_modules\path-to-regexp
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\express\node_modules\path-to-regexp\LICENSE
+├─ path-to-regexp@3.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/path-to-regexp
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\path-to-regexp
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\path-to-regexp\LICENSE
+├─ pino-std-serializers@3.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pinojs/pino-std-serializers
+│  ├─ publisher: James Sumners
+│  ├─ email: james.sumners@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\pino-std-serializers
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\pino-std-serializers\LICENSE
+├─ pino@6.14.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pinojs/pino
+│  ├─ publisher: Matteo Collina
+│  ├─ email: hello@matteocollina.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\pino
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\pino\LICENSE
+├─ process-nextick-args@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/calvinmetcalf/process-nextick-args
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\process-nextick-args
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\process-nextick-args\license.md
+├─ process-warning@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/fastify/processs-warning
+│  ├─ publisher: Tomas Della Vedova
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\process-warning
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\process-warning\LICENSE
+├─ proxy-addr@2.0.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/proxy-addr
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\proxy-addr
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\proxy-addr\LICENSE
+├─ pseudomap@1.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/pseudomap
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\pseudomap
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\pseudomap\LICENSE
+├─ public-ip@6.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/public-ip
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\public-ip
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\public-ip\license
+├─ pump@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/pump
+│  ├─ publisher: Mathias Buus Madsen
+│  ├─ email: mathiasbuus@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\pump
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\pump\LICENSE
+├─ pumpify@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/pumpify
+│  ├─ publisher: Mathias Buus
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\pumpify
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\pumpify\LICENSE
+├─ punycode@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/bestiejs/punycode.js
+│  ├─ publisher: Mathias Bynens
+│  ├─ url: https://mathiasbynens.be/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\punycode
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\punycode\LICENSE-MIT.txt
+├─ qs@6.10.3
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/ljharb/qs
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\qs
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\qs\LICENSE.md
+├─ quick-format-unescaped@4.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/davidmarkclements/quick-format
+│  ├─ publisher: David Mark Clements
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\quick-format-unescaped
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\quick-format-unescaped\LICENSE
+├─ quick-lru@5.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/quick-lru
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\quick-lru
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\quick-lru\license
+├─ range-parser@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/range-parser
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ url: http://tjholowaychuk.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\range-parser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\range-parser\LICENSE
+├─ raw-body@2.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/raw-body
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\raw-body
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\raw-body\LICENSE
+├─ readable-stream@2.3.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/readable-stream
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\concat-stream\node_modules\readable-stream
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\concat-stream\node_modules\readable-stream\LICENSE
+├─ readable-stream@3.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/readable-stream
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\readable-stream
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\readable-stream\LICENSE
+├─ redis-commands@1.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/NodeRedis/redis-commands
+│  ├─ publisher: luin
+│  ├─ email: i@zihua.li
+│  ├─ url: http://zihua.li
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\redis-commands
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\redis-commands\LICENSE
+├─ redis-errors@1.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/NodeRedis/redis-errors
+│  ├─ publisher: Ruben Bridgewater
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\redis-errors
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\redis-errors\LICENSE
+├─ redis-parser@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/NodeRedis/node-redis-parser
+│  ├─ publisher: Ruben Bridgewater
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\redis-parser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\redis-parser\LICENSE
+├─ redis@3.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/NodeRedis/node-redis
+│  ├─ publisher: Matt Ranney
+│  ├─ email: mjr@ranney.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\redis
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\redis\LICENSE
+├─ reflect-metadata@0.1.13
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/rbuckton/reflect-metadata
+│  ├─ publisher: Ron Buckton
+│  ├─ email: ron.buckton@microsoft.com
+│  ├─ url: http://github.com/rbuckton
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\reflect-metadata
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\reflect-metadata\LICENSE
+├─ regexp.prototype.flags@1.4.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/es-shims/RegExp.prototype.flags
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\regexp.prototype.flags
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\regexp.prototype.flags\LICENSE
+├─ relative-microtime@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/watson/relative-microtime
+│  ├─ publisher: Thomas Watson
+│  ├─ email: w@tson.dk
+│  ├─ url: https://twitter.com/wa7son
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\relative-microtime
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\relative-microtime\LICENSE
+├─ request-ip@2.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pbojinov/request-ip
+│  ├─ publisher: Petar Bojinov
+│  ├─ email: petarbojinov+github@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\request-ip
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\request-ip\LICENSE.md
+├─ require-directory@2.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/troygoode/node-require-directory
+│  ├─ publisher: Troy Goode
+│  ├─ email: troygoode@gmail.com
+│  ├─ url: http://github.com/troygoode/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\require-directory
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\require-directory\LICENSE
+├─ require-in-the-middle@5.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/elastic/require-in-the-middle
+│  ├─ publisher: Thomas Watson Steen
+│  ├─ email: w@tson.dk
+│  ├─ url: https://twitter.com/wa7son
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\require-in-the-middle
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\require-in-the-middle\LICENSE
+├─ resolve-alpn@1.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/szmarczak/resolve-alpn
+│  ├─ publisher: Szymon Marczak
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\resolve-alpn
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\resolve-alpn\LICENSE
+├─ resolve@1.22.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/browserify/resolve
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\resolve
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\resolve\LICENSE
+├─ responselike@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lukechilds/responselike
+│  ├─ publisher: lukechilds
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\responselike
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\responselike\LICENSE
+├─ retry-request@4.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stephenplusplus/retry-request
+│  ├─ publisher: Stephen Sawchuk
+│  ├─ email: sawchuk@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\retry-request
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\retry-request\license
+├─ retry-request@5.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stephenplusplus/retry-request
+│  ├─ publisher: Stephen Sawchuk
+│  ├─ email: sawchuk@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\retry-request
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\retry-request\LICENSE
+├─ retry@0.13.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/tim-kos/node-retry
+│  ├─ publisher: Tim Koschützki
+│  ├─ email: tim@debuggable.com
+│  ├─ url: http://debuggable.com/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\retry
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\retry\License
+├─ rfdc@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/davidmarkclements/rfdc
+│  ├─ publisher: David Mark Clements
+│  ├─ email: david.clements@nearform.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\rfdc
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\rfdc\LICENSE
+├─ rimraf@3.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/rimraf
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\rimraf
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\rimraf\LICENSE
+├─ rxjs@7.5.5
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/reactivex/rxjs
+│  ├─ publisher: Ben Lesh
+│  ├─ email: ben@benlesh.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\rxjs
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\rxjs\LICENSE.txt
+├─ safe-buffer@5.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/safe-buffer
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: http://feross.org
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\safe-buffer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\safe-buffer\LICENSE
+├─ safe-buffer@5.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/safe-buffer
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: https://feross.org
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\string_decoder\node_modules\safe-buffer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\string_decoder\node_modules\safe-buffer\LICENSE
+├─ safer-buffer@2.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ChALkeR/safer-buffer
+│  ├─ publisher: Nikita Skovoroda
+│  ├─ email: chalkerx@gmail.com
+│  ├─ url: https://github.com/ChALkeR
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\safer-buffer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\safer-buffer\LICENSE
+├─ sax@1.2.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/sax-js
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\sax
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\sax\LICENSE
+├─ semver@5.7.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cls-hooked\node_modules\semver
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cls-hooked\node_modules\semver\LICENSE
+├─ semver@6.3.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-http-client\node_modules\semver
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-http-client\node_modules\semver\LICENSE
+├─ semver@7.3.7
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/node-semver
+│  ├─ publisher: GitHub Inc.
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\semver
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\semver\LICENSE
+├─ send@0.18.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/pillarjs/send
+│  ├─ publisher: TJ Holowaychuk
+│  ├─ email: tj@vision-media.ca
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\send
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\send\LICENSE
+├─ seq-queue@0.0.5
+│  ├─ licenses: MIT*
+│  ├─ repository: https://github.com/changchang/seq-queue
+│  ├─ publisher: changchang
+│  ├─ email: changchang005@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\seq-queue
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\seq-queue\LICENSE
+├─ serve-static@1.15.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/expressjs/serve-static
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\serve-static
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\serve-static\LICENSE
+├─ set-cookie-serde@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Qard/set-cookie-serde
+│  ├─ publisher: Stephen Belanger
+│  ├─ email: admin@stephenbelanger.com
+│  ├─ url: https://github.com/qard
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\set-cookie-serde
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\set-cookie-serde\README.md
+├─ setprototypeof@1.2.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/wesleytodd/setprototypeof
+│  ├─ publisher: Wes Todd
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\setprototypeof
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\setprototypeof\LICENSE
+├─ sha.js@2.4.11
+│  ├─ licenses: (MIT AND BSD-3-Clause)
+│  ├─ repository: https://github.com/crypto-browserify/sha.js
+│  ├─ publisher: Dominic Tarr
+│  ├─ email: dominic.tarr@gmail.com
+│  ├─ url: dominictarr.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\sha.js
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\sha.js\LICENSE
+├─ shallow-clone-shim@2.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/watson/shallow-clone-shim
+│  ├─ publisher: Thomas Watson
+│  ├─ email: w@tson.dk
+│  ├─ url: https://twitter.com/wa7son
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\shallow-clone-shim
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\shallow-clone-shim\LICENSE
+├─ shimmer@1.2.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/othiym23/shimmer
+│  ├─ publisher: Forrest L Norvell
+│  ├─ email: ogd@aoaioxxysz.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\shimmer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\shimmer\LICENSE
+├─ side-channel@1.0.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/side-channel
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\side-channel
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\side-channel\LICENSE
+├─ sonic-boom@1.4.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mcollina/sonic-boom
+│  ├─ publisher: Matteo Collina
+│  ├─ email: hello@matteocollina.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\sonic-boom
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\sonic-boom\LICENSE
+├─ source-map@0.7.4
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/mozilla/source-map
+│  ├─ publisher: Nick Fitzgerald
+│  ├─ email: nfitzgerald@mozilla.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\source-map
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\source-map\LICENSE
+├─ source-map@0.8.0-beta.0
+│  ├─ licenses: BSD-3-Clause
+│  ├─ repository: https://github.com/mozilla/source-map
+│  ├─ publisher: Nick Fitzgerald
+│  ├─ email: nfitzgerald@mozilla.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\source-map
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\source-map\LICENSE
+├─ split@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dominictarr/split
+│  ├─ publisher: Dominic Tarr
+│  ├─ email: dominic.tarr@gmail.com
+│  ├─ url: http://bit.ly/dominictarr
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\split
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\split\LICENCE
+├─ sql-summary@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/elastic/sql-summary
+│  ├─ publisher: Thomas Watson Steen
+│  ├─ email: w@tson.dk
+│  ├─ url: https://twitter.com/wa7son
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\sql-summary
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\sql-summary\LICENSE
+├─ sqlstring@2.3.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mysqljs/sqlstring
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\sqlstring
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\sqlstring\LICENSE
+├─ stack-chain@1.3.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/AndreasMadsen/stack-chain
+│  ├─ publisher: Andreas Madsen
+│  ├─ email: amwebdk@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\stack-chain
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\stack-chain\LICENSE.md
+├─ stackframe@1.3.4
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stacktracejs/stackframe
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\stackframe
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\stackframe\LICENSE
+├─ statuses@2.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/statuses
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\statuses
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\statuses\LICENSE
+├─ stream-chopper@3.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/watson/stream-chopper
+│  ├─ publisher: Thomas Watson
+│  ├─ email: w@tson.dk
+│  ├─ url: https://twitter.com/wa7son
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\stream-chopper
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\stream-chopper\LICENSE
+├─ stream-events@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stephenplusplus/stream-events
+│  ├─ publisher: Stephen Sawchuk
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\stream-events
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\stream-events\readme.md
+├─ stream-shift@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/stream-shift
+│  ├─ publisher: Mathias Buus
+│  ├─ url: @mafintosh
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\stream-shift
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\stream-shift\LICENSE
+├─ streamsearch@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mscdex/streamsearch
+│  ├─ publisher: Brian White
+│  ├─ email: mscdex@mscdex.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\streamsearch
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\streamsearch\LICENSE
+├─ string-similarity@4.0.4
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/aceakash/string-similarity
+│  ├─ publisher: Akash Kurdekar
+│  ├─ email: npm@kurdekar.com
+│  ├─ url: http://untilfalse.com/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\string-similarity
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\string-similarity\LICENSE
+├─ string-width@4.2.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/string-width
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\string-width
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\string-width\license
+├─ string.prototype.trimend@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/es-shims/String.prototype.trimEnd
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\string.prototype.trimend
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\string.prototype.trimend\LICENSE
+├─ string.prototype.trimstart@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/es-shims/String.prototype.trimStart
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\string.prototype.trimstart
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\string.prototype.trimstart\LICENSE
+├─ string_decoder@1.1.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/string_decoder
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\concat-stream\node_modules\string_decoder
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\concat-stream\node_modules\string_decoder\LICENSE
+├─ string_decoder@1.3.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nodejs/string_decoder
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\string_decoder
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\string_decoder\LICENSE
+├─ strip-ansi@6.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/strip-ansi
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\strip-ansi
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\strip-ansi\license
+├─ stubs@3.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stephenplusplus/stubs
+│  ├─ publisher: Stephen Sawchuk
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\stubs
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\stubs\readme.md
+├─ supports-color@7.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/supports-color
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\supports-color
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\supports-color\license
+├─ supports-preserve-symlinks-flag@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/node-supports-preserve-symlinks-flag
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\supports-preserve-symlinks-flag
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\supports-preserve-symlinks-flag\LICENSE
+├─ teeny-request@7.2.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/teeny-request
+│  ├─ publisher: fhinkel
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\teeny-request
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\teeny-request\LICENSE
+├─ teeny-request@8.0.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/googleapis/teeny-request
+│  ├─ publisher: fhinkel
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\teeny-request
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\teeny-request\LICENSE
+├─ thenify-all@1.6.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thenables/thenify-all
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\thenify-all
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\thenify-all\LICENSE
+├─ thenify@3.3.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/thenables/thenify
+│  ├─ publisher: Jonathan Ong
+│  ├─ email: me@jongleberry.com
+│  ├─ url: http://jongleberry.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\thenify
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\thenify\LICENSE
+├─ through@2.3.8
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/dominictarr/through
+│  ├─ publisher: Dominic Tarr
+│  ├─ email: dominic.tarr@gmail.com
+│  ├─ url: dominictarr.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\through
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\through\LICENSE.APACHE2
+├─ tmp@0.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/raszi/node-tmp
+│  ├─ publisher: KARASZI István
+│  ├─ email: github@spam.raszi.hu
+│  ├─ url: http://raszi.hu/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\tmp
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\tmp\LICENSE
+├─ to-source-code@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/gearcase/to-source-code
+│  ├─ publisher: bubkoo
+│  ├─ email: bubkoo.wy@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\to-source-code
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\to-source-code\LICENSE
+├─ toidentifier@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/component/toidentifier
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\toidentifier
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\toidentifier\LICENSE
+├─ tr46@0.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Sebmaster/tr46.js
+│  ├─ publisher: Sebastian Mayr
+│  ├─ email: npm@smayr.name
+│  └─ path: D:\Documents\Code\rely\boilerplate\node_modules\tr46
+├─ tr46@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Sebmaster/tr46.js
+│  ├─ publisher: Sebastian Mayr
+│  ├─ email: npm@smayr.name
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\tr46
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\tr46\LICENSE.md
+├─ traverse@0.6.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/js-traverse
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\traverse
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\traverse\LICENSE
+├─ tslib@2.4.0
+│  ├─ licenses: 0BSD
+│  ├─ repository: https://github.com/Microsoft/tslib
+│  ├─ publisher: Microsoft Corp.
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\tslib
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\tslib\LICENSE.txt
+├─ type-is@1.6.18
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/type-is
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\type-is
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\type-is\LICENSE
+├─ typedarray@0.0.6
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/substack/typedarray
+│  ├─ publisher: James Halliday
+│  ├─ email: mail@substack.net
+│  ├─ url: http://substack.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\typedarray
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\typedarray\LICENSE
+├─ typeorm@0.2.45
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/typeorm/typeorm
+│  ├─ publisher: Umed Khudoiberdiev
+│  ├─ email: pleerock.me@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\typeorm
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\typeorm\README.md
+├─ unbox-primitive@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/unbox-primitive
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\unbox-primitive
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\unbox-primitive\LICENSE
+├─ unicode-byte-truncate@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/watson/unicode-byte-truncate
+│  ├─ publisher: Thomas Watson Steen
+│  ├─ email: w@tson.dk
+│  ├─ url: https://twitter.com/wa7son
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\unicode-byte-truncate
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\unicode-byte-truncate\LICENSE
+├─ unicode-substring@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lautis/unicode-substring
+│  ├─ publisher: Ville Lautanala
+│  ├─ email: lautis@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\unicode-substring
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\unicode-substring\LICENSE
+├─ unpipe@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/stream-utils/unpipe
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\unpipe
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\unpipe\LICENSE
+├─ uri-js@4.4.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/garycourt/uri-js
+│  ├─ publisher: Gary Court
+│  ├─ email: gary.court@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\uri-js
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\uri-js\LICENSE
+├─ util-deprecate@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/TooTallNate/util-deprecate
+│  ├─ publisher: Nathan Rajlich
+│  ├─ email: nathan@tootallnate.net
+│  ├─ url: http://n8.io/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\util-deprecate
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\util-deprecate\LICENSE
+├─ utils-merge@1.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jaredhanson/utils-merge
+│  ├─ publisher: Jared Hanson
+│  ├─ email: jaredhanson@gmail.com
+│  ├─ url: http://www.jaredhanson.net/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\utils-merge
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\utils-merge\LICENSE
+├─ uuid@8.3.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/uuidjs/uuid
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\uuid
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\uuid\LICENSE.md
+├─ validator@13.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/validatorjs/validator.js
+│  ├─ publisher: Chris O'Hara
+│  ├─ email: cohara87@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\validator
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\validator\LICENSE
+├─ vary@1.1.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jshttp/vary
+│  ├─ publisher: Douglas Christopher Wilson
+│  ├─ email: doug@somethingdoug.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\vary
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\vary\LICENSE
+├─ webidl-conversions@3.0.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/jsdom/webidl-conversions
+│  ├─ publisher: Domenic Denicola
+│  ├─ email: d@domenic.me
+│  ├─ url: https://domenic.me/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\webidl-conversions
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\webidl-conversions\LICENSE.md
+├─ webidl-conversions@4.0.2
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/jsdom/webidl-conversions
+│  ├─ publisher: Domenic Denicola
+│  ├─ email: d@domenic.me
+│  ├─ url: https://domenic.me/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\webidl-conversions
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\webidl-conversions\LICENSE.md
+├─ whatwg-url@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jsdom/whatwg-url
+│  ├─ publisher: Sebastian Mayr
+│  ├─ email: github@smayr.name
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\whatwg-url
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\whatwg-url\LICENSE.txt
+├─ whatwg-url@7.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jsdom/whatwg-url
+│  ├─ publisher: Sebastian Mayr
+│  ├─ email: github@smayr.name
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\whatwg-url
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\whatwg-url\LICENSE.txt
+├─ which-boxed-primitive@1.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/inspect-js/which-boxed-primitive
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\which-boxed-primitive
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\which-boxed-primitive\LICENSE
+├─ wrap-ansi@7.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/chalk/wrap-ansi
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\wrap-ansi
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\wrap-ansi\license
+├─ wrappy@1.0.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/npm/wrappy
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\wrappy
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\wrappy\LICENSE
+├─ xml2js@0.4.23
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Leonidas-from-XIV/node-xml2js
+│  ├─ publisher: Marek Kubica
+│  ├─ email: marek@xivilization.net
+│  ├─ url: https://xivilization.net
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\xml2js
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\xml2js\LICENSE
+├─ xmlbuilder@11.0.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/oozcitak/xmlbuilder-js
+│  ├─ publisher: Ozgur Ozcitak
+│  ├─ email: oozcitak@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\xmlbuilder
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\xmlbuilder\LICENSE
+├─ xtend@4.0.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Raynos/xtend
+│  ├─ publisher: Raynos
+│  ├─ email: raynos2@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\xtend
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\xtend\LICENSE
+├─ y18n@5.0.8
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/y18n
+│  ├─ publisher: Ben Coe
+│  ├─ email: bencoe@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\y18n
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\y18n\LICENSE
+├─ yallist@2.1.2
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/yallist
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\async-cache\node_modules\yallist
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\async-cache\node_modules\yallist\LICENSE
+├─ yallist@4.0.0
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/isaacs/yallist
+│  ├─ publisher: Isaac Z. Schlueter
+│  ├─ email: i@izs.me
+│  ├─ url: http://blog.izs.me/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\yallist
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\yallist\LICENSE
+├─ yargs-parser@20.2.9
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/yargs-parser
+│  ├─ publisher: Ben Coe
+│  ├─ email: ben@npmjs.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cli-highlight\node_modules\yargs-parser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cli-highlight\node_modules\yargs-parser\LICENSE.txt
+├─ yargs-parser@21.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/yargs-parser
+│  ├─ publisher: Ben Coe
+│  ├─ email: ben@npmjs.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\yargs-parser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\yargs-parser\LICENSE.txt
+├─ yargs@16.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/yargs/yargs
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cli-highlight\node_modules\yargs
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cli-highlight\node_modules\yargs\LICENSE
+├─ yargs@17.5.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/yargs/yargs
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\yargs
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\yargs\LICENSE
+├─ yocto-queue@0.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/sindresorhus/yocto-queue
+│  ├─ publisher: Sindre Sorhus
+│  ├─ email: sindresorhus@gmail.com
+│  ├─ url: https://sindresorhus.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\yocto-queue
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\yocto-queue\license
+├─ zen-observable-ts@1.1.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/apollographql/zen-observable-ts
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\zen-observable-ts
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\zen-observable-ts\LICENSE
+└─ zen-observable@0.8.15
+   ├─ licenses: MIT
+   ├─ repository: https://github.com/zenparsing/zen-observable
+   ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\zen-observable
+   └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\zen-observable\LICENSE
+
+├─ MIT: 347
+├─ ISC: 28
+├─ Apache-2.0: 26
+├─ BSD-2-Clause: 11
+├─ BSD-3-Clause: 9
+├─ UNKNOWN: 1
+├─ Python-2.0: 1
+├─ CC0-1.0: 1
+├─ UNLICENSED: 1
+├─ WTFPL OR ISC: 1
+├─ (BSD-3-Clause OR GPL-2.0): 1
+├─ MIT*: 1
+├─ (MIT AND BSD-3-Clause): 1
+└─ 0BSD: 1
+
