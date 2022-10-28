@@ -1,11 +1,9 @@
-import * as apm from "elastic-apm-node";
-
 import { Logger, ValidationPipe } from "@nestjs/common";
 import { NestFactory } from "@nestjs/core";
-
-import { ReceiveMessagePipe } from "./microservices/message.pipe";
+import * as apm from "elastic-apm-node";
 
 import { AppModule } from "./app.module";
+import { ReceiveMessagePipe } from "./microservices/message.pipe";
 
 apm.start({
 	active: process.env.NODE_ENV === "production"

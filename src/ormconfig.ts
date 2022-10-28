@@ -1,5 +1,5 @@
-import * as dotenv from "dotenv";
 import { TypeOrmModuleOptions } from "@nestjs/typeorm";
+import * as dotenv from "dotenv";
 
 const production = process.env.NODE_ENV === "production";
 
