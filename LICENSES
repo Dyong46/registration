@@ -1,3 +1,449 @@
+├─ @aws-crypto/ie11-detection@2.0.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-crypto-helpers
+│  ├─ publisher: AWS Crypto Tools Team
+│  ├─ email: aws-cryptools@amazon.com
+│  ├─ url: https://docs.aws.amazon.com/aws-crypto-tools/index.html?id=docs_gateway#lang/en_us
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-crypto\ie11-detection
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-crypto\ie11-detection\LICENSE
+├─ @aws-crypto/sha256-browser@2.0.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-crypto-helpers
+│  ├─ publisher: AWS Crypto Tools Team
+│  ├─ email: aws-cryptools@amazon.com
+│  ├─ url: https://docs.aws.amazon.com/aws-crypto-tools/index.html?id=docs_gateway#lang/en_us
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-crypto\sha256-browser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-crypto\sha256-browser\LICENSE
+├─ @aws-crypto/sha256-js@2.0.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-crypto-helpers
+│  ├─ publisher: AWS Crypto Tools Team
+│  ├─ email: aws-cryptools@amazon.com
+│  ├─ url: https://docs.aws.amazon.com/aws-crypto-tools/index.html?id=docs_gateway#lang/en_us
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-crypto\sha256-js
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-crypto\sha256-js\LICENSE
+├─ @aws-crypto/supports-web-crypto@2.0.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-crypto-helpers
+│  ├─ publisher: AWS Crypto Tools Team
+│  ├─ email: aws-cryptools@amazon.com
+│  ├─ url: https://docs.aws.amazon.com/aws-crypto-tools/index.html?id=docs_gateway#lang/en_us
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-crypto\supports-web-crypto
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-crypto\supports-web-crypto\LICENSE
+├─ @aws-crypto/util@2.0.2
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-crypto-helpers
+│  ├─ publisher: AWS Crypto Tools Team
+│  ├─ email: aws-cryptools@amazon.com
+│  ├─ url: https://docs.aws.amazon.com/aws-crypto-tools/index.html?id=docs_gateway#lang/en_us
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-crypto\util
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-crypto\util\LICENSE
+├─ @aws-sdk/abort-controller@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\abort-controller
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\abort-controller\LICENSE
+├─ @aws-sdk/client-cognito-identity@3.199.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\client-cognito-identity
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\client-cognito-identity\LICENSE
+├─ @aws-sdk/client-sso@3.199.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\client-sso
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\client-sso\LICENSE
+├─ @aws-sdk/client-sts@3.199.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\client-sts
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\client-sts\LICENSE
+├─ @aws-sdk/config-resolver@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\config-resolver
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\config-resolver\LICENSE
+├─ @aws-sdk/credential-provider-cognito-identity@3.199.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-cognito-identity
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-cognito-identity\LICENSE
+├─ @aws-sdk/credential-provider-env@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-env
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-env\LICENSE
+├─ @aws-sdk/credential-provider-imds@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-imds
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-imds\LICENSE
+├─ @aws-sdk/credential-provider-ini@3.199.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-ini
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-ini\LICENSE
+├─ @aws-sdk/credential-provider-node@3.199.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-node
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-node\LICENSE
+├─ @aws-sdk/credential-provider-process@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-process
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-process\LICENSE
+├─ @aws-sdk/credential-provider-sso@3.199.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-sso
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-sso\LICENSE
+├─ @aws-sdk/credential-provider-web-identity@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-web-identity
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-provider-web-identity\LICENSE
+├─ @aws-sdk/credential-providers@3.199.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-providers
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\credential-providers\LICENSE
+├─ @aws-sdk/fetch-http-handler@3.199.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\fetch-http-handler
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\fetch-http-handler\LICENSE
+├─ @aws-sdk/hash-node@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\hash-node
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\hash-node\LICENSE
+├─ @aws-sdk/invalid-dependency@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\invalid-dependency
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\invalid-dependency\LICENSE
+├─ @aws-sdk/is-array-buffer@3.188.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\is-array-buffer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\is-array-buffer\LICENSE
+├─ @aws-sdk/middleware-content-length@3.199.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-content-length
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-content-length\LICENSE
+├─ @aws-sdk/middleware-endpoint@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-endpoint
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-endpoint\LICENSE
+├─ @aws-sdk/middleware-host-header@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-host-header
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-host-header\LICENSE
+├─ @aws-sdk/middleware-logger@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-logger
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-logger\LICENSE
+├─ @aws-sdk/middleware-recursion-detection@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-recursion-detection
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-recursion-detection\LICENSE
+├─ @aws-sdk/middleware-retry@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-retry
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-retry\LICENSE
+├─ @aws-sdk/middleware-sdk-sts@3.199.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-sdk-sts
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-sdk-sts\LICENSE
+├─ @aws-sdk/middleware-serde@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-serde
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-serde\LICENSE
+├─ @aws-sdk/middleware-signing@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-signing
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-signing\LICENSE
+├─ @aws-sdk/middleware-stack@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-stack
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-stack\LICENSE
+├─ @aws-sdk/middleware-user-agent@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-user-agent
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\middleware-user-agent\LICENSE
+├─ @aws-sdk/node-config-provider@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\node-config-provider
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\node-config-provider\LICENSE
+├─ @aws-sdk/node-http-handler@3.199.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\node-http-handler
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\node-http-handler\LICENSE
+├─ @aws-sdk/property-provider@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\property-provider
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\property-provider\LICENSE
+├─ @aws-sdk/protocol-http@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\protocol-http
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\protocol-http\LICENSE
+├─ @aws-sdk/querystring-builder@3.199.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\querystring-builder
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\querystring-builder\LICENSE
+├─ @aws-sdk/querystring-parser@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\querystring-parser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\querystring-parser\LICENSE
+├─ @aws-sdk/service-error-classification@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\service-error-classification
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\service-error-classification\LICENSE
+├─ @aws-sdk/shared-ini-file-loader@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\shared-ini-file-loader
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\shared-ini-file-loader\LICENSE
+├─ @aws-sdk/signature-v4@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\signature-v4
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\signature-v4\LICENSE
+├─ @aws-sdk/smithy-client@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\smithy-client
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\smithy-client\LICENSE
+├─ @aws-sdk/types@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\types
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\types\LICENSE
+├─ @aws-sdk/url-parser@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\url-parser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\url-parser\LICENSE
+├─ @aws-sdk/util-base64-browser@3.188.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-base64-browser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-base64-browser\LICENSE
+├─ @aws-sdk/util-base64-node@3.188.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-base64-node
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-base64-node\LICENSE
+├─ @aws-sdk/util-body-length-browser@3.188.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-body-length-browser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-body-length-browser\LICENSE
+├─ @aws-sdk/util-body-length-node@3.188.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-body-length-node
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-body-length-node\LICENSE
+├─ @aws-sdk/util-buffer-from@3.188.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-buffer-from
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-buffer-from\LICENSE
+├─ @aws-sdk/util-config-provider@3.188.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-config-provider
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-config-provider\LICENSE
+├─ @aws-sdk/util-defaults-mode-browser@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-defaults-mode-browser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-defaults-mode-browser\LICENSE
+├─ @aws-sdk/util-defaults-mode-node@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-defaults-mode-node
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-defaults-mode-node\LICENSE
+├─ @aws-sdk/util-endpoints@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-endpoints
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-endpoints\LICENSE
+├─ @aws-sdk/util-hex-encoding@3.188.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-hex-encoding
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-hex-encoding\LICENSE
+├─ @aws-sdk/util-locate-window@3.188.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-locate-window
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-locate-window\LICENSE
+├─ @aws-sdk/util-middleware@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-middleware
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-middleware\LICENSE
+├─ @aws-sdk/util-uri-escape@3.188.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-uri-escape
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-uri-escape\LICENSE
+├─ @aws-sdk/util-user-agent-browser@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-user-agent-browser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-user-agent-browser\LICENSE
+├─ @aws-sdk/util-user-agent-node@3.198.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-user-agent-node
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-user-agent-node\LICENSE
+├─ @aws-sdk/util-utf8-browser@3.188.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-utf8-browser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-utf8-browser\LICENSE
+├─ @aws-sdk/util-utf8-node@3.199.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/aws/aws-sdk-js-v3
+│  ├─ publisher: AWS SDK for JavaScript Team
+│  ├─ url: https://aws.amazon.com/javascript/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-utf8-node
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-sdk\util-utf8-node\LICENSE
 ├─ @elastic/ecs-helpers@1.1.0
 │  ├─ licenses: Apache-2.0
 │  ├─ repository: https://github.com/elastic/ecs-logging-nodejs
@@ -48,25 +494,19 @@
 │  ├─ publisher: Google Inc.
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\promisify
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\promisify\LICENSE
-├─ @google-cloud/promisify@3.0.0
+├─ @google-cloud/promisify@3.0.1
 │  ├─ licenses: Apache-2.0
 │  ├─ repository: https://github.com/googleapis/nodejs-promisify
 │  ├─ publisher: Google Inc.
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\@google-cloud\promisify
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\@google-cloud\promisify\LICENSE
-├─ @google-cloud/storage@6.2.2
+├─ @google-cloud/storage@6.6.0
 │  ├─ licenses: Apache-2.0
 │  ├─ repository: https://github.com/googleapis/nodejs-storage
 │  ├─ publisher: Google Inc.
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\LICENSE
-├─ @leichtgewicht/ip-codec@2.0.4
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/martinheidegger/ip-codec
-│  ├─ publisher: Martin Heidegger
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@leichtgewicht\ip-codec
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@leichtgewicht\ip-codec\LICENSE
-├─ @nestjs/axios@0.0.8
+├─ @nestjs/axios@0.1.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/nestjs/axios
 │  ├─ publisher: Kamil Mysliwiec
@@ -78,7 +518,7 @@
 │  ├─ publisher: Kamil Mysliwiec
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\common
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\common\LICENSE
-├─ @nestjs/config@2.1.0
+├─ @nestjs/config@2.2.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/nestjs/config
 │  ├─ publisher: Kamil Mysliwiec
@@ -90,19 +530,25 @@
 │  ├─ publisher: Kamil Mysliwiec
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\core
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\core\LICENSE
-├─ @nestjs/mapped-types@1.0.1
+├─ @nestjs/mapped-types@1.2.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/nestjs/mapped-types
 │  ├─ publisher: Kamil Mysliwiec
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\mapped-types
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\mapped-types\LICENSE
+├─ @nestjs/mongoose@9.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/nestjs/mongoose
+│  ├─ publisher: Kamil Mysliwiec
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\mongoose
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\mongoose\LICENSE
 ├─ @nestjs/platform-express@8.4.7
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/nestjs/nest
 │  ├─ publisher: Kamil Mysliwiec
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\platform-express
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\platform-express\LICENSE
-├─ @nestjs/throttler@2.0.1
+├─ @nestjs/throttler@3.1.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/nestjs/throttler
 │  ├─ publisher: Jay McDoniel
@@ -120,37 +566,17 @@
 │  ├─ repository: https://github.com/nuxt-contrib/opencollective
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nuxtjs\opencollective
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nuxtjs\opencollective\LICENSE
-├─ @opentelemetry/api@1.1.0
+├─ @opentelemetry/api@1.2.0
 │  ├─ licenses: Apache-2.0
 │  ├─ repository: https://github.com/open-telemetry/opentelemetry-js-api
 │  ├─ publisher: OpenTelemetry Authors
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@opentelemetry\api
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@opentelemetry\api\LICENSE
-├─ @plogg-rely/microservices@3.3.13
-│  ├─ licenses: UNKNOWN
-│  ├─ repository: https://github.com/plogg-rely/microservices
-│  ├─ publisher: Maxime Asselin
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@plogg-rely\microservices
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@plogg-rely\microservices\README.md
-├─ @sindresorhus/is@4.6.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/is
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: https://sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@sindresorhus\is
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@sindresorhus\is\license
-├─ @sqltools/formatter@1.2.3
+├─ @sqltools/formatter@1.2.5
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/mtxr/vscode-sqltools
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@sqltools\formatter
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@sqltools\formatter\LICENSE
-├─ @szmarczak/http-timer@5.0.1
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/szmarczak/http-timer
-│  ├─ publisher: Szymon Marczak
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@szmarczak\http-timer
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@szmarczak\http-timer\LICENSE
 ├─ @tootallnate/once@2.0.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/TooTallNate/once
@@ -164,47 +590,22 @@
 │  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\body-parser
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\body-parser\LICENSE
-├─ @types/cacheable-request@6.0.2
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\cacheable-request
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\cacheable-request\LICENSE
-├─ @types/cls-hooked@4.3.3
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\cls-hooked
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\cls-hooked\LICENSE
 ├─ @types/connect@3.4.35
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\connect
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\connect\LICENSE
-├─ @types/express-serve-static-core@4.17.29
+├─ @types/express-serve-static-core@4.17.31
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\express-serve-static-core
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\express-serve-static-core\LICENSE
-├─ @types/express@4.17.13
+├─ @types/express@4.17.14
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\express
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\express\LICENSE
-├─ @types/http-cache-semantics@4.0.1
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\http-cache-semantics
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\http-cache-semantics\LICENSE
-├─ @types/json-buffer@3.0.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\json-buffer
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\json-buffer\LICENSE
-├─ @types/keyv@3.1.4
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\keyv
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\keyv\LICENSE
-├─ @types/mime@1.3.2
+├─ @types/mime@3.0.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\mime
@@ -214,7 +615,7 @@
 │  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\multer
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\multer\LICENSE
-├─ @types/node@18.0.1
+├─ @types/node@18.11.7
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\node
@@ -229,16 +630,21 @@
 │  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\range-parser
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\range-parser\LICENSE
-├─ @types/responselike@1.0.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\responselike
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\responselike\LICENSE
-├─ @types/serve-static@1.13.10
+├─ @types/serve-static@1.15.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\serve-static
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\serve-static\LICENSE
+├─ @types/webidl-conversions@7.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\webidl-conversions
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\webidl-conversions\LICENSE
+├─ @types/whatwg-url@8.2.2
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@types\whatwg-url
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@types\whatwg-url\LICENSE
 ├─ @types/zen-observable@0.8.3
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/DefinitelyTyped/DefinitelyTyped
@@ -256,7 +662,7 @@
 │  ├─ repository: https://github.com/jshttp/accepts
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\accepts
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\accepts\LICENSE
-├─ acorn@8.7.1
+├─ acorn@8.8.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/acornjs/acorn
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\acorn
@@ -284,14 +690,6 @@
 │  ├─ url: https://fengmk2.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\agentkeepalive
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\agentkeepalive\LICENSE
-├─ aggregate-error@4.0.1
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/aggregate-error
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: https://sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\aggregate-error
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\aggregate-error\license
 ├─ ajv@6.12.6
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/ajv-validator/ajv
@@ -320,7 +718,7 @@
 │  ├─ publisher: Kevin Beaty
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\any-promise
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\any-promise\LICENSE
-├─ app-root-path@3.0.0
+├─ app-root-path@3.1.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/inxilpro/node-app-root-path
 │  ├─ publisher: Chris Morrell
@@ -437,7 +835,7 @@
 │  ├─ repository: https://github.com/jshttp/basic-auth
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\basic-auth
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\basic-auth\LICENSE
-├─ bignumber.js@9.0.2
+├─ bignumber.js@9.1.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/MikeMcl/bignumber.js
 │  ├─ publisher: Michael Mclaughlin
@@ -451,6 +849,11 @@
 │  ├─ email: support@darkskyapp.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\binary-search
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\binary-search\README.md
+├─ bl@2.2.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/rvagg/bl
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mongodb\node_modules\bl
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mongodb\node_modules\bl\LICENSE.md
 ├─ body-parser@1.20.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/expressjs/body-parser
@@ -462,6 +865,14 @@
 │  ├─ publisher: Rely
 │  ├─ path: D:\Documents\Code\rely\boilerplate
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\README.md
+├─ bowser@2.11.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/lancedikson/bowser
+│  ├─ publisher: Dustin Diaz
+│  ├─ email: dustin@dustindiaz.com
+│  ├─ url: http://dustindiaz.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\bowser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\bowser\LICENSE
 ├─ brace-expansion@1.1.11
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/juliangruber/brace-expansion
@@ -478,6 +889,20 @@
 │  ├─ url: https://github.com/qard
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\breadth-filter
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\breadth-filter\README.md
+├─ bson@1.1.6
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mongodb/js-bson
+│  ├─ publisher: Christian Amor Kvalheim
+│  ├─ email: christkv@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mongodb\node_modules\bson
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mongodb\node_modules\bson\LICENSE.md
+├─ bson@4.7.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mongodb/js-bson
+│  ├─ publisher: The MongoDB NodeJS Team
+│  ├─ email: dbx-node@mongodb.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\bson
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\bson\LICENSE.md
 ├─ buffer-equal-constant-time@1.0.1
 │  ├─ licenses: BSD-3-Clause
 │  ├─ repository: https://github.com/goinstant/buffer-equal-constant-time
@@ -489,6 +914,14 @@
 │  ├─ repository: https://github.com/LinusU/buffer-from
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\buffer-from
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\buffer-from\LICENSE
+├─ buffer@5.7.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/feross/buffer
+│  ├─ publisher: Feross Aboukhadijeh
+│  ├─ email: feross@feross.org
+│  ├─ url: https://feross.org
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\buffer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\buffer\LICENSE
 ├─ buffer@6.0.3
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/feross/buffer
@@ -519,26 +952,12 @@
 │  ├─ email: dabroek@gmail.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cache-manager-redis-store
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cache-manager-redis-store\LICENSE
-├─ cache-manager@4.0.1
+├─ cache-manager@4.1.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/BryanDonovan/node-cache-manager
 │  ├─ publisher: Bryan Donovan
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cache-manager
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cache-manager\LICENSE
-├─ cacheable-lookup@6.0.4
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/szmarczak/cacheable-lookup
-│  ├─ publisher: Szymon Marczak
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-lookup
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-lookup\LICENSE
-├─ cacheable-request@7.0.2
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/lukechilds/cacheable-request
-│  ├─ publisher: Luke Childs
-│  ├─ email: lukechilds123@gmail.com
-│  ├─ url: http://lukechilds.co.uk
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-request
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-request\LICENSE
 ├─ call-bind@1.0.2
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/ljharb/call-bind
@@ -571,14 +990,6 @@
 │  ├─ publisher: TypeStack contributors
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\class-validator
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\class-validator\LICENSE
-├─ clean-stack@4.2.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/clean-stack
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: https://sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\clean-stack
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\clean-stack\license
 ├─ cli-highlight@2.1.11
 │  ├─ licenses: ISC
 │  ├─ repository: https://github.com/felixfbecker/cli-highlight
@@ -591,16 +1002,15 @@
 │  ├─ repository: https://github.com/yargs/cliui
 │  ├─ publisher: Ben Coe
 │  ├─ email: ben@npmjs.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cli-highlight\node_modules\cliui
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cli-highlight\node_modules\cliui\LICENSE.txt
+├─ cliui@8.0.1
+│  ├─ licenses: ISC
+│  ├─ repository: https://github.com/yargs/cliui
+│  ├─ publisher: Ben Coe
+│  ├─ email: ben@npmjs.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cliui
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cliui\LICENSE.txt
-├─ clone-response@1.0.2
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/lukechilds/clone-response
-│  ├─ publisher: Luke Childs
-│  ├─ email: lukechilds123@gmail.com
-│  ├─ url: http://lukechilds.co.uk
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\clone-response
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\clone-response\LICENSE
 ├─ cls-hooked@4.2.2
 │  ├─ licenses: BSD-2-Clause
 │  ├─ repository: https://github.com/jeff-lewis/cls-hooked
@@ -636,14 +1046,6 @@
 │  ├─ url: http://debuggable.com/
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\combined-stream
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\combined-stream\License
-├─ compress-brotli@1.3.8
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/Kikobeats/compress-brotli
-│  ├─ publisher: Kiko Beats
-│  ├─ email: josefrancisco.verdu@gmail.com
-│  ├─ url: https://kikobeats.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\compress-brotli
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\compress-brotli\LICENSE.md
 ├─ compressible@2.0.18
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/jshttp/compressible
@@ -705,20 +1107,13 @@
 │  ├─ email: tj@learnboost.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cookie-signature
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cookie-signature\Readme.md
-├─ cookie@0.4.2
+├─ cookie@0.5.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/jshttp/cookie
 │  ├─ publisher: Roman Shtylman
 │  ├─ email: shtylman@gmail.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cookie
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cookie\LICENSE
-├─ cookie@0.5.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/jshttp/cookie
-│  ├─ publisher: Roman Shtylman
-│  ├─ email: shtylman@gmail.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\express\node_modules\cookie
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\express\node_modules\cookie\LICENSE
 ├─ core-util-is@1.0.3
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/isaacs/core-util-is
@@ -757,25 +1152,11 @@
 │  ├─ email: josh.junon@protonmail.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\agent-base\node_modules\debug
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\agent-base\node_modules\debug\LICENSE
-├─ decompress-response@6.0.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/decompress-response
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: https://sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\decompress-response
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\decompress-response\license
 ├─ deepmerge@4.2.2
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/TehShrike/deepmerge
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\deepmerge
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\deepmerge\license.txt
-├─ defer-to-connect@2.0.1
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/szmarczak/defer-to-connect
-│  ├─ publisher: Szymon Marczak
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\defer-to-connect
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\defer-to-connect\LICENSE
 ├─ define-properties@1.1.4
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/ljharb/define-properties
@@ -799,7 +1180,7 @@
 │  ├─ url: http://github.com/invertase/
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\redis\node_modules\denque
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\redis\node_modules\denque\LICENSE
-├─ denque@2.0.1
+├─ denque@2.1.0
 │  ├─ licenses: Apache-2.0
 │  ├─ repository: https://github.com/invertase/denque
 │  ├─ publisher: Invertase
@@ -829,19 +1210,6 @@
 │  ├─ url: http://jongleberry.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\destroy
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\destroy\LICENSE
-├─ dns-packet@5.4.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/mafintosh/dns-packet
-│  ├─ publisher: Mathias Buus
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\dns-packet
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\dns-packet\LICENSE
-├─ dns-socket@4.2.2
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/mafintosh/dns-socket
-│  ├─ publisher: Mathias Buus
-│  ├─ url: @mafintosh
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\dns-socket
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\dns-socket\LICENSE
 ├─ dotenv-expand@8.0.3
 │  ├─ licenses: BSD-2-Clause
 │  ├─ repository: https://github.com/motdotla/dotenv-expand
@@ -849,6 +1217,11 @@
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\dotenv-expand
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\dotenv-expand\LICENSE
 ├─ dotenv@16.0.1
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/motdotla/dotenv
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\config\node_modules\dotenv
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@nestjs\config\node_modules\dotenv\LICENSE
+├─ dotenv@16.0.3
 │  ├─ licenses: BSD-2-Clause
 │  ├─ repository: https://github.com/motdotla/dotenv
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\dotenv
@@ -886,14 +1259,15 @@
 │  ├─ url: https://twitter.com/wa7son
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-http-client
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-http-client\LICENSE
-├─ elastic-apm-node@3.36.0
+├─ elastic-apm-node@3.39.0
 │  ├─ licenses: BSD-2-Clause
 │  ├─ repository: https://github.com/elastic/apm-agent-nodejs
 │  ├─ publisher: Thomas Watson Steen
 │  ├─ email: w@tson.dk
 │  ├─ url: https://twitter.com/wa7son
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\LICENSE
+│  ├─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\LICENSE
+│  └─ noticeFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\NOTICE.md
 ├─ emitter-listener@1.1.2
 │  ├─ licenses: BSD-2-Clause
 │  ├─ repository: https://github.com/othiym23/emitter-listener
@@ -941,7 +1315,7 @@
 │  ├─ repository: https://github.com/stacktracejs/error-stack-parser
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\error-stack-parser
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\error-stack-parser\LICENSE
-├─ es-abstract@1.20.1
+├─ es-abstract@1.20.4
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/ljharb/es-abstract
 │  ├─ publisher: Jordan Harband
@@ -977,14 +1351,6 @@
 │  ├─ url: https://sindresorhus.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\escape-string-regexp
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\escape-string-regexp\license
-├─ escape-string-regexp@5.0.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/escape-string-regexp
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: https://sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\clean-stack\node_modules\escape-string-regexp
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\clean-stack\node_modules\escape-string-regexp\license
 ├─ etag@1.8.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/jshttp/etag
@@ -1032,7 +1398,7 @@
 │  ├─ email: hello@matteocollina.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\fast-json-stringify
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\fast-json-stringify\LICENSE
-├─ fast-redact@3.1.1
+├─ fast-redact@3.1.2
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/davidmarkclements/fast-redact
 │  ├─ publisher: David Mark Clements
@@ -1053,13 +1419,20 @@
 │  ├─ url: https://twitter.com/wa7son
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\fast-stream-to-buffer
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\fast-stream-to-buffer\LICENSE
-├─ fast-text-encoding@1.0.4
+├─ fast-text-encoding@1.0.6
 │  ├─ licenses: Apache-2.0
 │  ├─ repository: https://github.com/samthor/fast-text-encoding
 │  ├─ publisher: Sam Thorogood
 │  ├─ email: sam.thorogood@gmail.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\fast-text-encoding
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\fast-text-encoding\LICENSE
+├─ fast-xml-parser@4.0.11
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/NaturalIntelligence/fast-xml-parser
+│  ├─ publisher: Amit Gupta
+│  ├─ url: https://amitkumargupta.work/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\fast-xml-parser
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\fast-xml-parser\LICENSE
 ├─ finalhandler@1.2.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/pillarjs/finalhandler
@@ -1080,7 +1453,7 @@
 │  ├─ publisher: David Mark Clements
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\flatstr
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\flatstr\LICENSE
-├─ follow-redirects@1.15.1
+├─ follow-redirects@1.15.2
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/follow-redirects/follow-redirects
 │  ├─ publisher: Ruben Verborgh
@@ -1088,12 +1461,6 @@
 │  ├─ url: https://ruben.verborgh.org/
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\follow-redirects
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\follow-redirects\LICENSE
-├─ form-data-encoder@1.7.1
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/octet-stream/form-data-encoder
-│  ├─ publisher: Nick K.
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\form-data-encoder
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\form-data-encoder\license
 ├─ form-data@4.0.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/form-data/form-data
@@ -1156,7 +1523,7 @@
 │  ├─ publisher: Google, LLC
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\google-auth-library\node_modules\gaxios
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\google-auth-library\node_modules\gaxios\LICENSE
-├─ gaxios@5.0.1
+├─ gaxios@5.0.2
 │  ├─ licenses: Apache-2.0
 │  ├─ repository: https://github.com/googleapis/gaxios
 │  ├─ publisher: Google, LLC
@@ -1168,7 +1535,7 @@
 │  ├─ publisher: Stephen Sawchuk
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\gcp-metadata
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\gcp-metadata\LICENSE
-├─ gcp-metadata@5.0.0
+├─ gcp-metadata@5.0.1
 │  ├─ licenses: Apache-2.0
 │  ├─ repository: https://github.com/googleapis/gcp-metadata
 │  ├─ publisher: Stephen Sawchuk
@@ -1186,29 +1553,13 @@
 │  ├─ publisher: Stefan Penner
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\get-caller-file
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\get-caller-file\LICENSE.md
-├─ get-intrinsic@1.1.2
+├─ get-intrinsic@1.1.3
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/ljharb/get-intrinsic
 │  ├─ publisher: Jordan Harband
 │  ├─ email: ljharb@gmail.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\get-intrinsic
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\get-intrinsic\LICENSE
-├─ get-stream@5.2.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/get-stream
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: https://sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-request\node_modules\get-stream
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-request\node_modules\get-stream\license
-├─ get-stream@6.0.1
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/get-stream
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: https://sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\get-stream
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\get-stream\license
 ├─ get-symbol-description@1.0.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/inspect-js/get-symbol-description
@@ -1230,7 +1581,7 @@
 │  ├─ publisher: Google Inc.
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\google-auth-library
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\google-auth-library\LICENSE
-├─ google-auth-library@8.1.0
+├─ google-auth-library@8.6.0
 │  ├─ licenses: Apache-2.0
 │  ├─ repository: https://github.com/googleapis/google-auth-library-nodejs
 │  ├─ publisher: Google Inc.
@@ -1242,24 +1593,19 @@
 │  ├─ publisher: Ryan Seys
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\google-p12-pem
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\google-p12-pem\LICENSE
-├─ google-p12-pem@4.0.0
+├─ google-p12-pem@4.0.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/googleapis/google-p12-pem
 │  ├─ publisher: Ryan Seys
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\google-p12-pem
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\google-p12-pem\LICENSE
-├─ got@12.1.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/got
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\got
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\got\license
 ├─ gtoken@5.3.2
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/google/node-gtoken
 │  ├─ publisher: Google, LLC
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\gtoken
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\gtoken\LICENSE
-├─ gtoken@6.1.0
+├─ gtoken@6.1.2
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/google/node-gtoken
 │  ├─ publisher: Google, LLC
@@ -1317,14 +1663,6 @@
 │  ├─ email: maniac@softwaremaniacs.org
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\highlight.js
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\highlight.js\LICENSE
-├─ http-cache-semantics@4.1.0
-│  ├─ licenses: BSD-2-Clause
-│  ├─ repository: https://github.com/kornelski/http-cache-semantics
-│  ├─ publisher: Kornel Lesiński
-│  ├─ email: kornel@geekhood.net
-│  ├─ url: https://kornel.ski/
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\http-cache-semantics
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\http-cache-semantics\LICENSE
 ├─ http-errors@2.0.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/jshttp/http-errors
@@ -1355,12 +1693,6 @@
 │  ├─ publisher: Bryce Neal
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\http-status-codes
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\http-status-codes\LICENSE
-├─ http2-wrapper@2.1.11
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/szmarczak/http2-wrapper
-│  ├─ publisher: Szymon Marczak
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\http2-wrapper
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\http2-wrapper\LICENSE
 ├─ https-proxy-agent@5.0.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/TooTallNate/node-https-proxy-agent
@@ -1399,14 +1731,6 @@
 │  ├─ url: https://feross.org
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\ieee754
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\ieee754\LICENSE
-├─ indent-string@5.0.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/indent-string
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: https://sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\indent-string
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\indent-string\license
 ├─ inflight@1.0.6
 │  ├─ licenses: ISC
 │  ├─ repository: https://github.com/npm/inflight
@@ -1427,14 +1751,13 @@
 │  ├─ email: ljharb@gmail.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\internal-slot
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\internal-slot\LICENSE
-├─ ip-regex@5.0.0
+├─ ip@2.0.0
 │  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/ip-regex
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\ip-regex
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\ip-regex\license
+│  ├─ repository: https://github.com/indutny/node-ip
+│  ├─ publisher: Fedor Indutny
+│  ├─ email: fedor@indutny.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\ip
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\ip\README.md
 ├─ ipaddr.js@1.9.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/whitequark/ipaddr.js
@@ -1464,7 +1787,7 @@
 │  ├─ url: http://feross.org/
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-buffer
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-buffer\LICENSE
-├─ is-callable@1.2.4
+├─ is-callable@1.2.7
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/inspect-js/is-callable
 │  ├─ publisher: Jordan Harband
@@ -1472,7 +1795,7 @@
 │  ├─ url: http://ljharb.codes
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-callable
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-callable\LICENSE
-├─ is-core-module@2.9.0
+├─ is-core-module@2.11.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/inspect-js/is-core-module
 │  ├─ publisher: Jordan Harband
@@ -1507,14 +1830,6 @@
 │  ├─ publisher: Parsha Pourkhomami
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-integer
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-integer\LICENSE
-├─ is-ip@4.0.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/is-ip
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-ip
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-ip\license
 ├─ is-native@1.0.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/gearcase/is-native
@@ -1593,11 +1908,6 @@
 │  ├─ email: ljharb@gmail.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is-weakref
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is-weakref\LICENSE
-├─ is_js@0.9.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/arasatasaygin/is.js
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\is_js
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\is_js\LICENSE
 ├─ isarray@1.0.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/juliangruber/isarray
@@ -1627,14 +1937,6 @@
 │  ├─ email: sidorares@yandex.ru
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\json-bigint
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\json-bigint\LICENSE
-├─ json-buffer@3.0.1
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/dominictarr/json-buffer
-│  ├─ publisher: Dominic Tarr
-│  ├─ email: dominic.tarr@gmail.com
-│  ├─ url: http://dominictarr.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\json-buffer
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\json-buffer\LICENSE
 ├─ json-schema-traverse@0.4.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/epoberezkin/json-schema-traverse
@@ -1654,15 +1956,14 @@
 │  ├─ publisher: Brian J Brennan
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\jws
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\jws\LICENSE
-├─ keyv@4.3.2
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/jaredwray/keyv
-│  ├─ publisher: Jared Wray
-│  ├─ email: me@jaredwray.com
-│  ├─ url: http://jaredwray.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\keyv
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\keyv\README.md
-├─ libphonenumber-js@1.10.7
+├─ kareem@2.4.1
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/vkarpov15/kareem
+│  ├─ publisher: Valeri Karpov
+│  ├─ email: val@karpov.io
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\kareem
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\kareem\LICENSE
+├─ libphonenumber-js@1.10.14
 │  ├─ licenses: MIT
 │  ├─ repository: git+https://gitlab.com/catamphetamine/libphonenumber-js
 │  ├─ publisher: catamphetamine
@@ -1699,22 +2000,6 @@
 │  ├─ email: dcode@dcode.io
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\long
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\long\LICENSE
-├─ lowercase-keys@2.0.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/lowercase-keys
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-request\node_modules\lowercase-keys
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cacheable-request\node_modules\lowercase-keys\license
-├─ lowercase-keys@3.0.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/lowercase-keys
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: https://sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\lowercase-keys
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\lowercase-keys\license
 ├─ lru-cache@4.1.5
 │  ├─ licenses: ISC
 │  ├─ repository: https://github.com/isaacs/node-lru-cache
@@ -1729,7 +2014,7 @@
 │  ├─ email: i@izs.me
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\google-auth-library\node_modules\lru-cache
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\google-auth-library\node_modules\lru-cache\LICENSE
-├─ lru-cache@7.12.0
+├─ lru-cache@7.14.0
 │  ├─ licenses: ISC
 │  ├─ repository: https://github.com/isaacs/node-lru-cache
 │  ├─ publisher: Isaac Z. Schlueter
@@ -1768,6 +2053,13 @@
 │  ├─ email: doug@somethingdoug.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\media-typer
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\media-typer\LICENSE
+├─ memory-pager@1.5.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/memory-pager
+│  ├─ publisher: Mathias Buus
+│  ├─ url: @mafintosh
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\memory-pager
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\memory-pager\LICENSE
 ├─ merge-descriptors@1.0.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/component/merge-descriptors
@@ -1807,22 +2099,6 @@
 │  ├─ url: http://github.com/broofa
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mime
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mime\LICENSE
-├─ mimic-response@1.0.1
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/mimic-response
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mimic-response
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mimic-response\license
-├─ mimic-response@3.1.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/mimic-response
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: https://sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\decompress-response\node_modules\mimic-response
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\decompress-response\node_modules\mimic-response\license
 ├─ minimatch@3.1.2
 │  ├─ licenses: ISC
 │  ├─ repository: https://github.com/isaacs/minimatch
@@ -1860,12 +2136,52 @@
 │  ├─ url: https://twitter.com/wa7son
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\module-details-from-path
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\module-details-from-path\LICENSE
+├─ mongodb-connection-string-url@2.5.4
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mongodb-js/mongodb-connection-string-url
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mongodb-connection-string-url
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mongodb-connection-string-url\LICENSE
+├─ mongodb@3.7.3
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mongodb/node-mongodb-native
+│  ├─ publisher: The MongoDB NodeJS Team
+│  ├─ email: dbx-node@mongodb.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mongodb
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mongodb\LICENSE.md
+├─ mongodb@4.11.0
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/mongodb/node-mongodb-native
+│  ├─ publisher: The MongoDB NodeJS Team
+│  ├─ email: dbx-node@mongodb.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mongoose\node_modules\mongodb
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mongoose\node_modules\mongodb\LICENSE.md
+├─ mongoose@6.7.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/Automattic/mongoose
+│  ├─ publisher: Guillermo Rauch
+│  ├─ email: guillermo@learnboost.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mongoose
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mongoose\LICENSE.md
 ├─ monitor-event-loop-delay@1.0.0
 │  ├─ licenses: MIT
 │  ├─ publisher: Stephen Belanger
 │  ├─ email: admin@stephenbelanger.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\monitor-event-loop-delay
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\monitor-event-loop-delay\LICENSE
+├─ mpath@0.9.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/aheckmann/mpath
+│  ├─ publisher: Aaron Heckmann
+│  ├─ email: aaron.heckmann+github@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mpath
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mpath\LICENSE
+├─ mquery@4.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/aheckmann/mquery
+│  ├─ publisher: Aaron Heckmann
+│  ├─ email: aaron.heckmann+github@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mquery
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mquery\LICENSE
 ├─ ms@2.0.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/zeit/ms
@@ -1935,14 +2251,6 @@
 │  ├─ url: http://digitalbazaar.com/
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\node-forge
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\node-forge\LICENSE
-├─ normalize-url@6.1.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/normalize-url
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: https://sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\normalize-url
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\normalize-url\license
 ├─ object-assign@4.1.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/sindresorhus/object-assign
@@ -1989,7 +2297,7 @@
 │  ├─ url: http://ljharb.codes
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\object-keys
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\object-keys\LICENSE
-├─ object.assign@4.1.2
+├─ object.assign@4.1.4
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/ljharb/object.assign
 │  ├─ publisher: Jordan Harband
@@ -2021,6 +2329,12 @@
 │  ├─ url: https://github.com/JasonStorey
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\optional-js
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\optional-js\LICENSE
+├─ optional-require@1.1.8
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/jchip/optional-require
+│  ├─ publisher: Joel Chen
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\optional-require
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\optional-require\README.md
 ├─ original-url@1.2.3
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/watson/original-url
@@ -2029,14 +2343,6 @@
 │  ├─ url: https://twitter.com/wa7son
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\original-url
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\original-url\LICENSE
-├─ p-cancelable@3.0.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/p-cancelable
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: https://sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\p-cancelable
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\p-cancelable\license
 ├─ p-limit@3.1.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/sindresorhus/p-limit
@@ -2139,27 +2445,6 @@
 │  ├─ url: http://blog.izs.me/
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\pseudomap
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\pseudomap\LICENSE
-├─ public-ip@6.0.1
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/public-ip
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: https://sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\public-ip
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\public-ip\license
-├─ pump@3.0.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/mafintosh/pump
-│  ├─ publisher: Mathias Buus Madsen
-│  ├─ email: mathiasbuus@gmail.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\pump
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\pump\LICENSE
-├─ pumpify@2.0.1
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/mafintosh/pumpify
-│  ├─ publisher: Mathias Buus
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\pumpify
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\pumpify\LICENSE
 ├─ punycode@2.1.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/bestiejs/punycode.js
@@ -2178,14 +2463,6 @@
 │  ├─ publisher: David Mark Clements
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\quick-format-unescaped
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\quick-format-unescaped\LICENSE
-├─ quick-lru@5.1.1
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/sindresorhus/quick-lru
-│  ├─ publisher: Sindre Sorhus
-│  ├─ email: sindresorhus@gmail.com
-│  ├─ url: https://sindresorhus.com
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\quick-lru
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\quick-lru\license
 ├─ range-parser@1.2.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/jshttp/range-parser
@@ -2262,13 +2539,19 @@
 │  ├─ url: https://twitter.com/wa7son
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\relative-microtime
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\relative-microtime\LICENSE
-├─ request-ip@2.2.0
+├─ request-ip@3.3.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/pbojinov/request-ip
 │  ├─ publisher: Petar Bojinov
 │  ├─ email: petarbojinov+github@gmail.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\request-ip
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\request-ip\LICENSE.md
+├─ require-at@1.0.6
+│  ├─ licenses: Apache-2.0
+│  ├─ repository: https://github.com/jchip/require-at
+│  ├─ publisher: Joel Chen
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\require-at
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\require-at\README.md
 ├─ require-directory@2.1.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/troygoode/node-require-directory
@@ -2277,7 +2560,7 @@
 │  ├─ url: http://github.com/troygoode/
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\require-directory
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\require-directory\LICENSE
-├─ require-in-the-middle@5.1.0
+├─ require-in-the-middle@5.2.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/elastic/require-in-the-middle
 │  ├─ publisher: Thomas Watson Steen
@@ -2285,12 +2568,6 @@
 │  ├─ url: https://twitter.com/wa7son
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\require-in-the-middle
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\require-in-the-middle\LICENSE
-├─ resolve-alpn@1.2.1
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/szmarczak/resolve-alpn
-│  ├─ publisher: Szymon Marczak
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\resolve-alpn
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\resolve-alpn\LICENSE
 ├─ resolve@1.22.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/browserify/resolve
@@ -2299,12 +2576,6 @@
 │  ├─ url: http://substack.net
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\resolve
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\resolve\LICENSE
-├─ responselike@2.0.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/lukechilds/responselike
-│  ├─ publisher: lukechilds
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\responselike
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\responselike\LICENSE
 ├─ retry-request@4.2.2
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/stephenplusplus/retry-request
@@ -2312,13 +2583,13 @@
 │  ├─ email: sawchuk@gmail.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\retry-request
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\retry-request\license
-├─ retry-request@5.0.1
+├─ retry-request@5.0.2
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/stephenplusplus/retry-request
 │  ├─ publisher: Stephen Sawchuk
 │  ├─ email: sawchuk@gmail.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\retry-request
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\retry-request\LICENSE
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\retry-request\license
 ├─ retry@0.13.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/tim-kos/node-retry
@@ -2342,7 +2613,7 @@
 │  ├─ url: http://blog.izs.me/
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\rimraf
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\rimraf\LICENSE
-├─ rxjs@7.5.5
+├─ rxjs@7.5.7
 │  ├─ licenses: Apache-2.0
 │  ├─ repository: https://github.com/reactivex/rxjs
 │  ├─ publisher: Ben Lesh
@@ -2365,6 +2636,13 @@
 │  ├─ url: https://feross.org
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\string_decoder\node_modules\safe-buffer
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\string_decoder\node_modules\safe-buffer\LICENSE
+├─ safe-regex-test@1.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/safe-regex-test
+│  ├─ publisher: Jordan Harband
+│  ├─ email: ljharb@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\safe-regex-test
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\safe-regex-test\LICENSE
 ├─ safer-buffer@2.1.2
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/ChALkeR/safer-buffer
@@ -2373,6 +2651,13 @@
 │  ├─ url: https://github.com/ChALkeR
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\safer-buffer
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\safer-buffer\LICENSE
+├─ saslprep@1.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/reklatsmasters/saslprep
+│  ├─ publisher: Dmitry Tsvettsikh
+│  ├─ email: me@reklatsmasters.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\saslprep
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\saslprep\LICENSE
 ├─ sax@1.2.4
 │  ├─ licenses: ISC
 │  ├─ repository: https://github.com/isaacs/sax-js
@@ -2391,7 +2676,7 @@
 │  ├─ repository: https://github.com/npm/node-semver
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-http-client\node_modules\semver
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-http-client\node_modules\semver\LICENSE
-├─ semver@7.3.7
+├─ semver@7.3.8
 │  ├─ licenses: ISC
 │  ├─ repository: https://github.com/npm/node-semver
 │  ├─ publisher: GitHub Inc.
@@ -2462,6 +2747,25 @@
 │  ├─ email: ljharb@gmail.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\side-channel
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\side-channel\LICENSE
+├─ sift@16.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/crcn/sift.js
+│  ├─ publisher: Craig Condon
+│  ├─ email: craig.j.condon@gmail.com
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\sift
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\sift\README.md
+├─ smart-buffer@4.2.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/JoshGlazebrook/smart-buffer
+│  ├─ publisher: Josh Glazebrook
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\smart-buffer
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\smart-buffer\LICENSE
+├─ socks@2.7.1
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/JoshGlazebrook/socks
+│  ├─ publisher: Josh Glazebrook
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\socks
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\socks\LICENSE
 ├─ sonic-boom@1.4.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/mcollina/sonic-boom
@@ -2483,6 +2787,13 @@
 │  ├─ email: nfitzgerald@mozilla.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\source-map
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\source-map\LICENSE
+├─ sparse-bitfield@3.0.3
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/mafintosh/sparse-bitfield
+│  ├─ publisher: Mathias Buus
+│  ├─ url: @mafintosh
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\sparse-bitfield
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\sparse-bitfield\LICENSE
 ├─ split@1.0.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/dominictarr/split
@@ -2597,6 +2908,13 @@
 │  ├─ url: sindresorhus.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\strip-ansi
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\strip-ansi\license
+├─ strnum@1.0.5
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/NaturalIntelligence/strnum
+│  ├─ publisher: Amit Gupta
+│  ├─ url: https://amitkumargupta.work/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\strnum
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\strnum\LICENSE
 ├─ stubs@3.0.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/stephenplusplus/stubs
@@ -2624,7 +2942,7 @@
 │  ├─ publisher: fhinkel
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\teeny-request
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\teeny-request\LICENSE
-├─ teeny-request@8.0.0
+├─ teeny-request@8.0.2
 │  ├─ licenses: Apache-2.0
 │  ├─ repository: https://github.com/googleapis/teeny-request
 │  ├─ publisher: fhinkel
@@ -2654,14 +2972,6 @@
 │  ├─ url: dominictarr.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\through
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\through\LICENSE.APACHE2
-├─ tmp@0.2.1
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/raszi/node-tmp
-│  ├─ publisher: KARASZI István
-│  ├─ email: github@spam.raszi.hu
-│  ├─ url: http://raszi.hu/
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\tmp
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\tmp\LICENSE
 ├─ to-source-code@1.0.2
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/gearcase/to-source-code
@@ -2681,22 +2991,35 @@
 │  ├─ repository: https://github.com/Sebmaster/tr46.js
 │  ├─ publisher: Sebastian Mayr
 │  ├─ email: npm@smayr.name
-│  └─ path: D:\Documents\Code\rely\boilerplate\node_modules\tr46
+│  └─ path: D:\Documents\Code\rely\boilerplate\node_modules\node-fetch\node_modules\tr46
 ├─ tr46@1.0.1
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/Sebmaster/tr46.js
 │  ├─ publisher: Sebastian Mayr
 │  ├─ email: npm@smayr.name
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\tr46
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\tr46\LICENSE.md
-├─ traverse@0.6.6
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\tr46
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\tr46\LICENSE.md
+├─ tr46@3.0.0
 │  ├─ licenses: MIT
-│  ├─ repository: https://github.com/substack/js-traverse
+│  ├─ repository: https://github.com/jsdom/tr46
+│  ├─ publisher: Sebastian Mayr
+│  ├─ email: npm@smayr.name
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mongodb-connection-string-url\node_modules\tr46
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mongodb-connection-string-url\node_modules\tr46\LICENSE.md
+├─ traverse@0.6.7
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/ljharb/js-traverse
 │  ├─ publisher: James Halliday
 │  ├─ email: mail@substack.net
 │  ├─ url: http://substack.net
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\traverse
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\traverse\LICENSE
+├─ tslib@1.14.1
+│  ├─ licenses: 0BSD
+│  ├─ repository: https://github.com/Microsoft/tslib
+│  ├─ publisher: Microsoft Corp.
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@aws-crypto\ie11-detection\node_modules\tslib
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@aws-crypto\ie11-detection\node_modules\tslib\LICENSE.txt
 ├─ tslib@2.4.0
 │  ├─ licenses: 0BSD
 │  ├─ repository: https://github.com/Microsoft/tslib
@@ -2780,6 +3103,11 @@
 │  ├─ repository: https://github.com/uuidjs/uuid
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\uuid
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\uuid\LICENSE.md
+├─ uuid@9.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/uuidjs/uuid
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\teeny-request\node_modules\uuid
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\@google-cloud\storage\node_modules\teeny-request\node_modules\uuid\LICENSE.md
 ├─ validator@13.7.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/validatorjs/validator.js
@@ -2800,30 +3128,45 @@
 │  ├─ publisher: Domenic Denicola
 │  ├─ email: d@domenic.me
 │  ├─ url: https://domenic.me/
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\webidl-conversions
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\webidl-conversions\LICENSE.md
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\node-fetch\node_modules\webidl-conversions
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\node-fetch\node_modules\webidl-conversions\LICENSE.md
 ├─ webidl-conversions@4.0.2
 │  ├─ licenses: BSD-2-Clause
 │  ├─ repository: https://github.com/jsdom/webidl-conversions
 │  ├─ publisher: Domenic Denicola
 │  ├─ email: d@domenic.me
 │  ├─ url: https://domenic.me/
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\webidl-conversions
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\webidl-conversions\LICENSE.md
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\webidl-conversions
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\webidl-conversions\LICENSE.md
+├─ webidl-conversions@7.0.0
+│  ├─ licenses: BSD-2-Clause
+│  ├─ repository: https://github.com/jsdom/webidl-conversions
+│  ├─ publisher: Domenic Denicola
+│  ├─ email: d@domenic.me
+│  ├─ url: https://domenic.me/
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mongodb-connection-string-url\node_modules\webidl-conversions
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mongodb-connection-string-url\node_modules\webidl-conversions\LICENSE.md
+├─ whatwg-url@11.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jsdom/whatwg-url
+│  ├─ publisher: Sebastian Mayr
+│  ├─ email: github@smayr.name
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\mongodb-connection-string-url\node_modules\whatwg-url
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\mongodb-connection-string-url\node_modules\whatwg-url\LICENSE.txt
 ├─ whatwg-url@5.0.0
+│  ├─ licenses: MIT
+│  ├─ repository: https://github.com/jsdom/whatwg-url
+│  ├─ publisher: Sebastian Mayr
+│  ├─ email: github@smayr.name
+│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\node-fetch\node_modules\whatwg-url
+│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\node-fetch\node_modules\whatwg-url\LICENSE.txt
+├─ whatwg-url@7.1.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/jsdom/whatwg-url
 │  ├─ publisher: Sebastian Mayr
 │  ├─ email: github@smayr.name
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\whatwg-url
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\whatwg-url\LICENSE.txt
-├─ whatwg-url@7.1.0
-│  ├─ licenses: MIT
-│  ├─ repository: https://github.com/jsdom/whatwg-url
-│  ├─ publisher: Sebastian Mayr
-│  ├─ email: github@smayr.name
-│  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\whatwg-url
-│  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\elastic-apm-node\node_modules\whatwg-url\LICENSE.txt
 ├─ which-boxed-primitive@1.0.2
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/inspect-js/which-boxed-primitive
@@ -2899,7 +3242,7 @@
 │  ├─ email: ben@npmjs.com
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cli-highlight\node_modules\yargs-parser
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cli-highlight\node_modules\yargs-parser\LICENSE.txt
-├─ yargs-parser@21.0.1
+├─ yargs-parser@21.1.1
 │  ├─ licenses: ISC
 │  ├─ repository: https://github.com/yargs/yargs-parser
 │  ├─ publisher: Ben Coe
@@ -2911,7 +3254,7 @@
 │  ├─ repository: https://github.com/yargs/yargs
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\cli-highlight\node_modules\yargs
 │  └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\cli-highlight\node_modules\yargs\LICENSE
-├─ yargs@17.5.1
+├─ yargs@17.6.0
 │  ├─ licenses: MIT
 │  ├─ repository: https://github.com/yargs/yargs
 │  ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\yargs
@@ -2935,18 +3278,17 @@
    ├─ path: D:\Documents\Code\rely\boilerplate\node_modules\zen-observable
    └─ licenseFile: D:\Documents\Code\rely\boilerplate\node_modules\zen-observable\LICENSE
 
-├─ MIT: 347
-├─ ISC: 28
-├─ Apache-2.0: 26
-├─ BSD-2-Clause: 11
+├─ MIT: 324
+├─ Apache-2.0: 97
+├─ ISC: 29
+├─ BSD-2-Clause: 12
 ├─ BSD-3-Clause: 9
-├─ UNKNOWN: 1
+├─ 0BSD: 2
 ├─ Python-2.0: 1
 ├─ CC0-1.0: 1
 ├─ UNLICENSED: 1
 ├─ WTFPL OR ISC: 1
 ├─ (BSD-3-Clause OR GPL-2.0): 1
 ├─ MIT*: 1
-├─ (MIT AND BSD-3-Clause): 1
-└─ 0BSD: 1
+└─ (MIT AND BSD-3-Clause): 1
 
