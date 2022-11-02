@@ -1,10 +1,18 @@
 steps:
+- name: 'gcr.io/cloud-builders/git'
+  entrypoint: 'bash'
+  args:
+  - '-c'
+  - |
+    cd /
+    rm /workspace/src/microservices
+    git clone -b main https://source.developers.google.com/p/relyrc/r/github_plogg-rely_microservices
+    mv github_plogg-rely_microservices /workspace/src/microservices
+    cd /workspace
 - name: "gcr.io/cloud-builders/gsutil"
   args: ['cp', 'gs://rely-config/boilerplate/production.env', 'env/production.env']
 - name: "gcr.io/cloud-builders/gsutil"
   args: ['cp', 'gs://rely-config/boilerplate/elastic.env', '.env']
-- name: "gcr.io/cloud-builders/gsutil"
-  args: ['cp', 'gs://rely-config/.npmrc', '.npmrc']
 - name: "gcr.io/cloud-builders/gcloud"
   args: ["app", "deploy", "--verbosity=debug"]
 - name: 'gcr.io/cloud-builders/gcloud'
