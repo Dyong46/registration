@@ -14,6 +14,8 @@ import { AccountGuard } from "./microservices/auth/account.guard";
 import { LogMiddleware } from "./microservices/log.middleware";
 import { MessageInterceptor } from "./microservices/message.interceptor";
 import { MicroserviceModule } from "./microservices/microservice/microservice.module";
+import { RelyThrottlerGuard } from "./microservices/throttler/throttler.guard";
+import { RelyThrottlerModule } from "./microservices/throttler/throttler.module";
 import ormConfig from "./ormconfig";
 
 @Module({
@@ -24,6 +26,10 @@ import ormConfig from "./ormconfig";
 			envFilePath: AppModule.production()
 				? ["env/production.env"]
 				: ["env/local.env", "env/development.env"]
+		}),
+		RelyThrottlerModule.forRoot({
+			limit: 100,
+			ttl: 60
 		}),
 		TypeOrmModule.forRoot(ormConfig),
 		MicroserviceModule
@@ -37,6 +43,10 @@ import ormConfig from "./ormconfig";
 		{
 			provide: APP_INTERCEPTOR,
 			useClass: MessageInterceptor
+		},
+		{
+			provide: APP_GUARD,
+			useClass: RelyThrottlerGuard
 		},
 		AppService
 	]
