@@ -47,7 +47,7 @@
 		"dotenv": "^16.0.1",
 		"elastic-apm-node": "^3.36.0",
 		"http-status-codes": "^2.2.0",
-		"ioredis": "^4.28.5",
+		"ioredis": "^5.0.0",
 		"mongoose": "^6.7.0",
 		"mysql2": "^2.3.3",
 		"redis-semaphore": "^5.3.0",
