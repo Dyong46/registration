@@ -56,6 +56,7 @@
 		"request-ip": "^3.3.0",
 		"rimraf": "^3.0.2",
 		"rxjs": "^7.5.5",
+		"swagger-themes": "^1.2.26",
 		"swagger-ui-express": "^4.6.0",
 		"typeorm": "^0.2.45"
 	},
