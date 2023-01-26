@@ -41,6 +41,7 @@
 		"@nestjs/throttler": "^3.1.0",
 		"@nestjs/typeorm": "~8.0.3",
 		"@types/multer": "^1.4.7",
+		"cache-manager": "^4.0.1",
 		"cache-manager-redis-store": "^2.0.0",
 		"class-transformer": "^0.5.1",
 		"class-validator": "^0.14.0",
