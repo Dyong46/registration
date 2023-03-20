@@ -9,10 +9,18 @@ steps:
     git clone -b rc https://source.developers.google.com/p/relyrc/r/github_plogg-rely_microservices
     mv github_plogg-rely_microservices /workspace/src/microservices
     cd /workspace
-- name: "gcr.io/cloud-builders/gsutil"
-  args: ['cp', 'gs://rely-rc-config/boilerplate/production.env', 'env/production.env']
-- name: "gcr.io/cloud-builders/gsutil"
-  args: ['cp', 'gs://rely-rc-config/boilerplate/elastic.env', '.env']
+- name: "gcr.io/cloud-builders/gcloud"
+  entrypoint: 'bash'
+  args:
+  - '-c'
+  - |
+    gcloud secrets versions access latest --project=devops-327318 --secret=boilerplate_env_rc > env/production.env
+- name: "gcr.io/cloud-builders/gcloud"
+  entrypoint: 'bash'
+  args:
+  - '-c'
+  - |
+    gcloud secrets versions access latest --project=devops-327318 --secret=boilerplate_elastic_rc > .env
 - name: "gcr.io/cloud-builders/gcloud"
   args: ["app", "deploy", "--verbosity=debug", "apprc.yaml"]
 - name: 'gcr.io/cloud-builders/gcloud'
