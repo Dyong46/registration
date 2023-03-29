@@ -14,6 +14,12 @@ steps:
   args:
   - '-c'
   - |
+    gcloud secrets versions access latest --project=devops-327318 --secret=microservices_env_rc > /workspace/src/microservices/env/production.env
+- name: "gcr.io/cloud-builders/gcloud"
+  entrypoint: 'bash'
+  args:
+  - '-c'
+  - |
     gcloud secrets versions access latest --project=devops-327318 --secret=boilerplate_env_rc > env/production.env
 - name: "gcr.io/cloud-builders/gcloud"
   entrypoint: 'bash'
