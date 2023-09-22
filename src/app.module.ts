@@ -17,6 +17,7 @@ import { MicroserviceModule } from "./microservices/microservice/microservice.mo
 import { RelyThrottlerGuard } from "./microservices/throttler/throttler.guard";
 import { RelyThrottlerModule } from "./microservices/throttler/throttler.module";
 import ormConfig from "./ormconfig";
+import { RedisModule } from "./microservices/redis/redis.module";
 
 @Module({
 	imports: [
@@ -32,6 +33,7 @@ import ormConfig from "./ormconfig";
 			ttl: 60
 		}),
 		TypeOrmModule.forRoot(ormConfig),
+		RedisModule,
 		MicroserviceModule
 	],
 	controllers: [AppController],
