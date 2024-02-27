@@ -1,13 +1,14 @@
 import { Injectable } from "@nestjs/common";
-import { getConnection } from "typeorm";
+import { InjectConnection } from "@nestjs/mongoose";
+import { Connection } from "mongoose";
 
 import * as Package from "../package.json";
 
 @Injectable()
 export class AppService {
-	get() {
-		const dbConnection = getConnection();
+	constructor(@InjectConnection() private readonly connection: Connection) {}
 
+	get() {
 		return {
 			package: {
 				version: Package.version,
@@ -19,10 +20,9 @@ export class AppService {
 				port: process.env.PORT
 			},
 			database: {
-				host: process.env.DB_HOST,
-				port: process.env.DB_PORT,
-				name: process.env.DB_NAME,
-				connected: dbConnection?.isConnected
+				url: process.env.MONGO_URL,
+				name: process.env.MONGO_NAME,
+				connected: this.connection.readyState === 1
 			}
 		};
 	}

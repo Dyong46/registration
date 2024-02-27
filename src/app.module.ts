@@ -1,3 +1,4 @@
+import { BullModule } from "@nestjs/bull";
 import {
 	MiddlewareConsumer,
 	Module,
@@ -6,18 +7,22 @@ import {
 } from "@nestjs/common";
 import { ConfigModule } from "@nestjs/config";
 import { APP_GUARD, APP_INTERCEPTOR } from "@nestjs/core";
-import { TypeOrmModule } from "@nestjs/typeorm";
+import { EventEmitterModule } from "@nestjs/event-emitter";
+import { MongooseModule } from "@nestjs/mongoose";
 
 import { AppController } from "./app.controller";
 import { AppService } from "./app.service";
+import { MembersModule } from "./members/members.module";
 import { AccountGuard } from "./microservices/auth/account.guard";
 import { LogMiddleware } from "./microservices/log.middleware";
 import { MessageInterceptor } from "./microservices/message.interceptor";
 import { MicroserviceModule } from "./microservices/microservice/microservice.module";
+import { RedisModule } from "./microservices/redis/redis.module";
 import { RelyThrottlerGuard } from "./microservices/throttler/throttler.guard";
 import { RelyThrottlerModule } from "./microservices/throttler/throttler.module";
-import ormConfig from "./ormconfig";
-import { RedisModule } from "./microservices/redis/redis.module";
+import { NotificationsModule } from "./notifications/notifications.module";
+import { ReservationsModule } from "./reservations/reservations.module";
+import { ProductModule } from './product/product.module';
 
 @Module({
 	imports: [
@@ -28,13 +33,37 @@ import { RedisModule } from "./microservices/redis/redis.module";
 				? ["env/production.env"]
 				: ["env/local.env", "env/development.env"]
 		}),
+		MongooseModule.forRoot(
+			`${process.env.MONGO_URL}/${process.env.MONGO_NAME}?authSource=${process.env.MONGO_NAME}`,
+			{
+				dbName: process.env.MONGO_NAME,
+				...(process.env.MONGO_USER && { user: process.env.MONGO_USER }),
+				...(process.env.MONGO_PASSWORD && { pass: process.env.MONGO_PASSWORD })
+			}
+		),
 		RelyThrottlerModule.forRoot({
 			limit: 100,
 			ttl: 60
 		}),
-		TypeOrmModule.forRoot(ormConfig),
+		EventEmitterModule.forRoot({
+			// set this to `true` to use wildcards
+			wildcard: false,
+			// the delimiter used to segment namespaces
+			delimiter: ".",
+			// set this to `true` if you want to emit the newListener event
+			newListener: false,
+			// set this to `true` if you want to emit the removeListener event
+			removeListener: false,
+			// the maximum amount of listeners that can be assigned to an event
+			maxListeners: 10,
+			// show event name in memory leak message when more than maximum amount of listeners is assigned
+			verboseMemoryLeak: false,
+			// disable throwing uncaughtException if an error event is emitted and it has no listeners
+			ignoreErrors: false
+		}),
 		RedisModule,
-		MicroserviceModule
+		MicroserviceModule,
+		ProductModule
 	],
 	controllers: [AppController],
 	providers: [
