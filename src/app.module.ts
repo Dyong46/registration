@@ -12,7 +12,6 @@ import { MongooseModule } from "@nestjs/mongoose";
 
 import { AppController } from "./app.controller";
 import { AppService } from "./app.service";
-import { MembersModule } from "./members/members.module";
 import { AccountGuard } from "./microservices/auth/account.guard";
 import { LogMiddleware } from "./microservices/log.middleware";
 import { MessageInterceptor } from "./microservices/message.interceptor";
@@ -20,9 +19,7 @@ import { MicroserviceModule } from "./microservices/microservice/microservice.mo
 import { RedisModule } from "./microservices/redis/redis.module";
 import { RelyThrottlerGuard } from "./microservices/throttler/throttler.guard";
 import { RelyThrottlerModule } from "./microservices/throttler/throttler.module";
-import { NotificationsModule } from "./notifications/notifications.module";
-import { ReservationsModule } from "./reservations/reservations.module";
-import { ProductModule } from './product/product.module';
+import { ProductsModule } from "./products/products.module";
 
 @Module({
 	imports: [
@@ -63,7 +60,7 @@ import { ProductModule } from './product/product.module';
 		}),
 		RedisModule,
 		MicroserviceModule,
-		ProductModule
+		ProductsModule
 	],
 	controllers: [AppController],
 	providers: [

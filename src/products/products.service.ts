@@ -4,7 +4,6 @@ import { Model } from "mongoose";
 
 import { DocumentService } from "../microservices/document/document.service";
 import { MicroserviceService } from "../microservices/microservice/microservice.service";
-import { NotificationsService } from "../notifications/notifications.service";
 
 import { Product } from "./schemas/product.schema";
 
